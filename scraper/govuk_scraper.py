@@ -1,4 +1,5 @@
 import requests 
+import json 
 def get_govuk_ai_policy():
     url = "https://www.gov.uk/api/search.json?q=artificial+intelligence&filter_content_store_document_type=policy_paper"
 
@@ -9,12 +10,21 @@ def get_govuk_ai_policy():
 
     response = requests.get(url, headers=headers)
     data = response.json() 
+    
+    documents = []
 
     for item in data["results"]:
-        print(item["title"])
-        print(item["description"])
-        print(item["public_timestamp"])
-        print("https://www.gov.uk" + item["link"])
-        print("---") 
+        document = {
+            "title": item["title"],
+            "description": item["description"],
+            "date": item["public_timestamp"],
+            "url": "https://www.gov.uk" + item["link"],
+            "source": "Gov.UK"
+        } 
+        documents.append(document)
+    with open("data/govuk.json", "w") as f:
+        json.dump(documents, f, indent=2)
+    
+    print(f"Saved {len(documents)} documents to data/govuk.json")
 
 get_govuk_ai_policy() 
