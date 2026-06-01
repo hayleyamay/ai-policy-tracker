@@ -1,4 +1,5 @@
 import requests
+import json 
 from bs4 import BeautifulSoup
 
 def get_eu_ai_policy():
@@ -11,13 +12,22 @@ def get_eu_ai_policy():
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    documents = soup.find_all("h4")
+    headings = soup.find_all("h4")
 
-    for doc in documents: 
-        print(doc.text)
+    documents = []
+
+    for doc in headings: 
         date = doc.find_next_sibling()
-        if date:
-            print(date.text.strip())
-        print("---")
+        document = {
+            "title": doc.text.strip(),
+            "date": date.text.strip() if date else "No Date",
+            "source": "EU AI Act Tracker",
+            "url": "https://artificialintelligenceact.eu/implementation-documents/"
+        }
+        documents.append(document)
+    with open("data/eu.json", "w") as f:
+        json.dump(documents, f, indent=2)
+
+    print(f"Saved {len(documents)} documents to data/eu.json")
 
 get_eu_ai_policy()
