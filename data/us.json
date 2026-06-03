@@ -1,162 +1,162 @@
 [
   {
-    "title": "Foster Youth Workforce Opportunity Act",
-    "date": "2026-05-11",
-    "action": "Placed on the Union Calendar, Calendar No. 556.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7343?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Fresh Starts for Foster Youth Act",
-    "date": "2026-05-11",
-    "action": "Placed on the Union Calendar, Calendar No. 557.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7529?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Support for Expectant and Parenting Foster Youth Act",
-    "date": "2026-05-11",
-    "action": "Placed on the Union Calendar, Calendar No. 558.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7655?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "CONNECT Act",
-    "date": "2026-05-11",
-    "action": "Placed on the Union Calendar, Calendar No. 559.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7995?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Foster Youth Postsecondary Education Access and Success Act",
-    "date": "2026-05-07",
-    "action": "Placed on the Union Calendar, Calendar No. 555.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7463?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Fostering the Future Act",
+    "title": "21st Century ROAD to Housing Act",
     "date": "2026-05-20",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7432?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1299?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Renewing our PACT Act of 2026",
-    "date": "2026-05-18",
-    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "title": "Veterans 2nd Amendment Protection Act",
+    "date": "2026-06-02",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1041?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "21st Century ROAD to Housing Act",
+    "date": "2026-06-02",
+    "action": "Message on House action received in Senate and at desk: House amendment to Senate amendment.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6644?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026",
+    "date": "2026-06-02",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6047?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Repeal the TikTok Ban Act",
+    "date": "2025-01-20",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4554?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/153?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Kenya Merritt Renewing our PACT Act of 2026",
-    "date": "2026-04-27",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8524?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "ORBITS Act of 2025",
-    "date": "2026-02-12",
-    "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.",
+    "title": "Secure America Act",
+    "date": "2026-05-20",
+    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1898?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Never Fight Alone Act",
-    "date": "2026-05-12",
-    "action": "Referred to the House Committee on Veterans' Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8737?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Protecting Veteran Community Care Act",
-    "date": "2025-05-22",
-    "action": "Read twice and referred to the Committee on Veterans' Affairs.",
+    "title": "A resolution amending rule XXXVII of the Standing Rules of the Senate to prohibit Senators from trading on prediction markets.",
+    "date": "2026-04-30",
+    "action": "Resolution agreed to in Senate with amendments by Unanimous Consent.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1912?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/sres/708?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Recognizing the 1885 Rock Springs Chinese Massacre.",
-    "date": "2026-05-26",
-    "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1324?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "A resolution expressing the sense of the Senate to reduce traffic fatalities to zero by 2050.",
-    "date": "2026-05-21",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S2447-2448)",
+    "title": "Blocking CCP Spy Tech Act of 2026",
+    "date": "2026-05-20",
+    "action": "Read twice and referred to the Select Committee on Intelligence.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/753?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4586?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Expressing the sense of the House of Representatives to reduce traffic fatalities to zero by 2050.",
-    "date": "2026-05-21",
-    "action": "Referred to the House Committee on Transportation and Infrastructure.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1316?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Expressing support for the designation of May 24 as \"National Aviation Maintenance Technician Day\" or \"National AMT Day\" to commemorate the work of aviation maintenance professionals.",
-    "date": "2026-05-21",
-    "action": "Referred to the House Committee on Transportation and Infrastructure.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1317?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "A resolution expressing support for the designation of May 2026 as \"Motorcycle Safety Awareness Month\".",
-    "date": "2026-05-19",
-    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2381; text: CR S2380-2381)",
+    "title": "Firearm Safety Act of 2026",
+    "date": "2026-04-30",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/740?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4454?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Expressing support for the designation of May 2026 as \"Motorcycle Safety Awareness Month\".",
-    "date": "2026-04-29",
-    "action": "Referred to the House Committee on Transportation and Infrastructure.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1236?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "A resolution expressing support for the designation of May 2025 as \"Motorcycle Safety Awareness Month\".",
-    "date": "2025-05-13",
-    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2901; text: CR S2900)",
+    "title": "Strength in Diversity Act of 2026",
+    "date": "2026-05-14",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/222?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4535?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Expressing support for the designation of May 2025 as \"Motorcycle Safety Awareness Month\".",
-    "date": "2025-05-01",
-    "action": "Referred to the Subcommittee on Highways and Transit.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/367?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "A resolution honoring the life and legacy of John Seymour, the late Senator for the State of California.",
-    "date": "2026-05-19",
-    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2381; text: CR S2380)",
+    "title": "FAIR Labels Act of 2026",
+    "date": "2026-04-30",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/739?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4464?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Vision Lab Choice Act of 2025",
+    "date": "2025-05-12",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1716?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "American Battlefield Protection Program Amendments Act of 2025",
+    "date": "2025-12-17",
+    "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3524?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "NOPE Act of 2026",
+    "date": "2026-04-28",
+    "action": "Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4421?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Vote Without Fear Act",
+    "date": "2026-03-17",
+    "action": "Read twice and referred to the Committee on the Judiciary.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4121?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Chip Security Act",
+    "date": "2025-05-08",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1705?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Association Health Plans Act",
+    "date": "2025-05-21",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1847?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "SHIPS for America Act of 2025",
+    "date": "2025-04-30",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1541?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "SAVES Act of 2025",
+    "date": "2026-02-24",
+    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1441?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Kids Online Safety Act",
+    "date": "2025-05-14",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2929-2930)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1748?format=json",
     "source": "US Congress"
   }
 ]
