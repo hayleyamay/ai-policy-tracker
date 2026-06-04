@@ -1,162 +1,162 @@
 [
   {
-    "title": "21st Century ROAD to Housing Act",
+    "title": "Benton MacKaye National Scenic Trail Feasibility Study Act of 2026",
+    "date": "2026-06-03",
+    "action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/2768?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7250?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "CLEAN Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1687?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Supporting the designation of June as Family Month.",
+    "date": "2026-06-03",
+    "action": "Referred to the House Committee on Education and Workforce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1338?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To amend the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993.",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/4463?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
+    "date": "2026-06-03",
+    "action": "Referred to the House Committee on Oversight and Government Reform.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1335?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Recognizing the contributions of academic medicine and observing Academic Medicine Week from June 8 through 12, 2026.",
+    "date": "2026-06-03",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1337?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "date": "2026-06-03",
+    "action": "Placed on the House Calendar, Calendar No. 78.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1336?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Reaffirming the Nation's commitment to one Nation Under God in the Pledge of Allegiance.",
+    "date": "2026-06-03",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1334?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Geothermal Gold Book Development Act",
     "date": "2026-05-20",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "action": "Placed on the Union Calendar, Calendar No. 573.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1299?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5617?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Veterans 2nd Amendment Protection Act",
-    "date": "2026-06-02",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+    "title": "Geothermal Energy Advancement Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/1041?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "21st Century ROAD to Housing Act",
-    "date": "2026-06-02",
-    "action": "Message on House action received in Senate and at desk: House amendment to Senate amendment.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/6644?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026",
-    "date": "2026-06-02",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/6047?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Repeal the TikTok Ban Act",
-    "date": "2025-01-20",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/153?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5631?format=json",
     "source": "US Congress"
   },
   {
     "title": "Secure America Act",
-    "date": "2026-05-20",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.",
+    "date": "2026-06-03",
+    "action": "Measure laid before Senate by motion.",
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
     "source": "US Congress"
   },
   {
-    "title": "A resolution amending rule XXXVII of the Standing Rules of the Senate to prohibit Senators from trading on prediction markets.",
-    "date": "2026-04-30",
-    "action": "Resolution agreed to in Senate with amendments by Unanimous Consent.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/708?format=json",
+    "title": "Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/41?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Blocking CCP Spy Tech Act of 2026",
-    "date": "2026-05-20",
-    "action": "Read twice and referred to the Select Committee on Intelligence.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4586?format=json",
+    "title": "License to Drill Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7831?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Firearm Safety Act of 2026",
-    "date": "2026-04-30",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4454?format=json",
+    "title": "To take certain land in the State of California into trust for the benefit of the Pechanga Band of Indians, and for other purposes.",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5682?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Strength in Diversity Act of 2026",
-    "date": "2026-05-14",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4535?format=json",
+    "title": "Florida Safe Seas Act of 2025",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/3831?format=json",
     "source": "US Congress"
   },
   {
-    "title": "FAIR Labels Act of 2026",
-    "date": "2026-04-30",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4464?format=json",
+    "title": "Cross-Boundary Wildfire Solutions Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/3922?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Vision Lab Choice Act of 2025",
-    "date": "2025-05-12",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1716?format=json",
+    "title": "Albuquerque Indian School Act of 2025",
+    "date": "2026-06-03",
+    "action": "Received in the Senate.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6162?format=json",
     "source": "US Congress"
   },
   {
-    "title": "American Battlefield Protection Program Amendments Act of 2025",
-    "date": "2025-12-17",
-    "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3524?format=json",
+    "title": "Crystal Reservoir Conveyance Act",
+    "date": "2026-06-03",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5911?format=json",
     "source": "US Congress"
   },
   {
-    "title": "NOPE Act of 2026",
-    "date": "2026-04-28",
+    "title": "Protecting Human Rights and Public Health in Foreign Assistance Act",
+    "date": "2026-04-29",
     "action": "Read twice and referred to the Committee on Foreign Relations.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4421?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Vote Without Fear Act",
-    "date": "2026-03-17",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4121?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Chip Security Act",
-    "date": "2025-05-08",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1705?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Association Health Plans Act",
-    "date": "2025-05-21",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1847?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "SHIPS for America Act of 2025",
-    "date": "2025-04-30",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1541?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "SAVES Act of 2025",
-    "date": "2026-02-24",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1441?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Kids Online Safety Act",
-    "date": "2025-05-14",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2929-2930)",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1748?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4436?format=json",
     "source": "US Congress"
   }
 ]
