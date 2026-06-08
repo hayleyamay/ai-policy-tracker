@@ -1,5 +1,133 @@
 [
   {
+    "title": "All Students Count Act of 2026",
+    "date": "2026-05-20",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4579?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "All Students Count Act of 2026",
+    "date": "2026-05-21",
+    "action": "Referred to the House Committee on Education and Workforce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8975?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Gig Is Up Act",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on Ways and Means.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9114?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "BRIDGE Act",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on Foreign Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9093?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Polar Express Act of 2026",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on Transportation and Infrastructure.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9088?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2026",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9111?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Mortgage Choice Act of 2015",
+    "date": "2015-04-16",
+    "action": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 114-49.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/114/hr/685?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To require the Secretary of the Interior to transfer to the Secretary of the Navy administrative jurisdiction of certain land located on Adak Island, Alaska, and for other purposes.",
+    "date": "2026-06-04",
+    "action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9138?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+    "date": "2026-06-03",
+    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9115?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Prevent Government Shutdowns Act of 2026",
+    "date": "2026-06-01",
+    "action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4632?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Robert Lodge Medal of Honor Act",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on Armed Services.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9106?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "SAFE for Survivors Act of 2026",
+    "date": "2026-05-21",
+    "action": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, House Administration, Oversight and Government Reform, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8965?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Patient Choice and Access Act of 2026",
+    "date": "2026-06-02",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9107?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Stop ANTIFA Act of 2026",
+    "date": "2026-06-02",
+    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9109?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Carried Interest Fairness Act of 2025",
+    "date": "2025-02-06",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/445?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Apex Area Technical Corrections Act",
+    "date": "2025-07-15",
+    "action": "Became Public Law No: 119-24.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/618?format=json",
+    "source": "US Congress"
+  },
+  {
     "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
     "date": "2026-06-05",
     "action": "Placed on the Union Calendar, Calendar No. 599.",
@@ -29,134 +157,6 @@
     "action": "Referred to the Subcommittee on Water Resources and Environment.",
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/8016?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Fraud Prevention and Accountability Act",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 596.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8312?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
-    "date": "2026-04-30",
-    "action": "Became Public Law No: 119-86.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7147?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Endangered Salmon Predation Prevention Act",
-    "date": "2018-12-18",
-    "action": "Became Public Law No: 115-329.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/115/s/3119?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Endangered Salmon and Fisheries Predation Prevention Act",
-    "date": "2018-06-27",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/115/hr/2083?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Expressing support for the designation of May 2025 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries.",
-    "date": "2026-01-22",
-    "action": "Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/375?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Predation Reduction of Salmon Act",
-    "date": "2018-07-31",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/115/s/3315?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Pinniped Predator Deterrence Act",
-    "date": "2024-04-30",
-    "action": "Referred to the Subcommittee on Water Resources and Environment.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/118/hr/8158?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To amend the Internal Revenue Code of 1986 to allow a credit against income tax for qualified conservation contributions which include National Scenic Trails.",
-    "date": "2026-06-04",
-    "action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9168?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To require the Secretary of Defense and the Secretary of Homeland Security to improve the transition of medics into the civilian workforce in certain health care occupations and to modify the assistance provided to separated members of the Armed Forces seeking employment with health care providers, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Armed Services.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9140?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To reform the H-1B process, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9157?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "VETRA Act",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Veterans' Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9152?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To designate Tiananmen Square Memorial Boulevard in Washington, District of Columbia, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Oversight and Government Reform.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9156?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To amend the Small Business Act to establish a program under which the Small Business Administration may make supplemental disaster loans to home owner associations to repair common areas damaged by disasters and implement disaster mitigation measures, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Small Business.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9159?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To amend title XIX of the Social Security Act to clarify the intent of Congress with regards to Medicaid financing policies.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Energy and Commerce.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9139?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To increase penalties for the sexual exploitation of children.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9146?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To amend the Richard B. Russell National School Lunch Act to require the Secretary of Agriculture to make grants to eligible entities to acquire and install milk storage-related equipment for use in elementary schools and secondary schools, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9164?format=json",
     "source": "US Congress"
   }
 ]
