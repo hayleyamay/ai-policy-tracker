@@ -1,162 +1,162 @@
 [
   {
-    "title": "All Students Count Act of 2026",
-    "date": "2026-05-20",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "title": "North Platte Canteen Congressional Gold Medal Act",
+    "date": "2026-06-08",
+    "action": "Passed Senate without amendment by Unanimous Consent.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4579?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/645?format=json",
     "source": "US Congress"
   },
   {
-    "title": "All Students Count Act of 2026",
-    "date": "2026-05-21",
-    "action": "Referred to the House Committee on Education and Workforce.",
+    "title": "Ukraine Support Act",
+    "date": "2026-06-08",
+    "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8975?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/2913?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Gig Is Up Act",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on Ways and Means.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9114?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "BRIDGE Act",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on Foreign Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9093?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Polar Express Act of 2026",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on Transportation and Infrastructure.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9088?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2026",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9111?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Mortgage Choice Act of 2015",
-    "date": "2015-04-16",
-    "action": "Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 114-49.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/114/hr/685?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "To require the Secretary of the Interior to transfer to the Secretary of the Navy administrative jurisdiction of certain land located on Adak Island, Alaska, and for other purposes.",
+    "title": "Providing for consideration of the bill (H.R. 2913) to authorize support for Ukraine, and for other purposes.",
     "date": "2026-06-04",
-    "action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9138?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hres/518?format=json",
     "source": "US Congress"
   },
   {
-    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
-    "date": "2026-06-03",
-    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9115?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Prevent Government Shutdowns Act of 2026",
-    "date": "2026-06-01",
-    "action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.",
+    "title": "Women and Lung Cancer Research and Preventive Services Act of 2025",
+    "date": "2026-06-08",
+    "action": "Passed Senate with an amendment by Unanimous Consent.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4632?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/1157?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Robert Lodge Medal of Honor Act",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on Armed Services.",
+    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
+    "date": "2026-06-08",
+    "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9106?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8646?format=json",
     "source": "US Congress"
   },
   {
-    "title": "SAFE for Survivors Act of 2026",
-    "date": "2026-05-21",
-    "action": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, House Administration, Oversight and Government Reform, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "date": "2026-06-04",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8965?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1336?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Patient Choice and Access Act of 2026",
-    "date": "2026-06-02",
-    "action": "Referred to the House Committee on Energy and Commerce.",
+    "title": "Secure America Act",
+    "date": "2026-06-08",
+    "action": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "date": "2026-06-08",
+    "action": "Placed on the House Calendar, Calendar No. 79.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9107?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1345?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Stop ANTIFA Act of 2026",
-    "date": "2026-06-02",
-    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9109?format=json",
+    "title": "BRAVE Burma Act",
+    "date": "2026-03-04",
+    "action": "Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3981?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Carried Interest Fairness Act of 2025",
-    "date": "2025-02-06",
+    "title": "ASAP Act",
+    "date": "2025-11-20",
+    "action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3267?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Protecting America\u2019s Small Oil and Gas Producers and Rural Jobs Act",
+    "date": "2026-05-20",
     "action": "Read twice and referred to the Committee on Finance.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/445?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4604?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Apex Area Technical Corrections Act",
-    "date": "2025-07-15",
-    "action": "Became Public Law No: 119-24.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/618?format=json",
+    "title": "Essential Caregivers Act of 2025",
+    "date": "2025-12-16",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3492?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
-    "date": "2026-06-05",
-    "action": "Placed on the Union Calendar, Calendar No. 599.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9171?format=json",
+    "title": "Stop Price Gouging in Grocery Stores Act of 2026",
+    "date": "2026-02-12",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3892?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
-    "date": "2026-06-05",
-    "action": "Placed on the Union Calendar, Calendar No. 598.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9170?format=json",
+    "title": "More Homes on the Market Act",
+    "date": "2025-12-03",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3332?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Preserving Integrity in Immigration Benefits Act",
-    "date": "2026-01-27",
-    "action": "Placed on the Union Calendar, Calendar No. 398.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/6978?format=json",
+    "title": "Ally\u2019s Act",
+    "date": "2025-12-09",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3400?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Forever Chemical Regulation and Accountability Act of 2026",
-    "date": "2026-03-20",
-    "action": "Referred to the Subcommittee on Water Resources and Environment.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8016?format=json",
+    "title": "Regional Great Lakes Partnership Act of 2026",
+    "date": "2026-05-19",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4573?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Cross-Boundary Wildfire Solutions Act",
+    "date": "2026-06-08",
+    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2033?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Health Equity and Access under the Law for Immigrant Families Act of 2025",
+    "date": "2025-06-24",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2149?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Tribal Access to Electronic Evidence Act",
+    "date": "2025-05-01",
+    "action": "Read twice and referred to the Committee on the Judiciary.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1574?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Reduce Veteran Suicide Act",
+    "date": "2025-06-17",
+    "action": "Read twice and referred to the Committee on Veterans' Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2096?format=json",
     "source": "US Congress"
   }
 ]
