@@ -1,162 +1,162 @@
 [
   {
     "title": "North Platte Canteen Congressional Gold Medal Act",
-    "date": "2026-06-08",
-    "action": "Passed Senate without amendment by Unanimous Consent.",
+    "date": "2026-06-09",
+    "action": "Held at the desk.",
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/645?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Ukraine Support Act",
-    "date": "2026-06-08",
-    "action": "Received in the Senate.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/2913?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Providing for consideration of the bill (H.R. 2913) to authorize support for Ukraine, and for other purposes.",
-    "date": "2026-06-04",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/518?format=json",
-    "source": "US Congress"
-  },
-  {
     "title": "Women and Lung Cancer Research and Preventive Services Act of 2025",
-    "date": "2026-06-08",
-    "action": "Passed Senate with an amendment by Unanimous Consent.",
+    "date": "2026-06-09",
+    "action": "Held at the desk.",
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/1157?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
-    "date": "2026-06-08",
+    "title": "Federal Fraud Prevention Workforce Training Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8428?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Countering China\u2019s Control of the Caucasus Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7668?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Stop Illegal Fishing Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6338?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Federal Program Integrity and Fraud Prevention Act of 2026",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6916?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "US-Japan-ROK Trilateral Cooperation Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/3429?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Developing Overseas Mineral Investments and New Allied Networks for Critical Energies Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7037?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1744?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Block the Use of Transatlantic Technology in Iranian Made Drones Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/2505?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Tehran Incitement to Violence Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6230?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Bonuses for Cost-Cutters and Fraud Preventers Act of 2026",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/428?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "PROFIT Act of 2026",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5248?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "PEACE Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6297?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Legislative Branch Agencies Clarification Act",
+    "date": "2026-06-09",
     "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8646?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6028?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
-    "date": "2026-06-04",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Allied Defense Sales Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1336?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8665?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Secure America Act",
-    "date": "2026-06-08",
-    "action": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
-    "date": "2026-06-08",
-    "action": "Placed on the House Calendar, Calendar No. 79.",
+    "title": "Pre-Payment Fraud Prevention and Treasury Data Access Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1345?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8463?format=json",
     "source": "US Congress"
   },
   {
-    "title": "BRAVE Burma Act",
-    "date": "2026-03-04",
-    "action": "Read twice and referred to the Committee on Foreign Relations.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3981?format=json",
+    "title": "Government Audit and Accountability of Federally Funded State-Administered Programs Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8107?format=json",
     "source": "US Congress"
   },
   {
-    "title": "ASAP Act",
-    "date": "2025-11-20",
-    "action": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3267?format=json",
+    "title": "TRUE Accountability Act",
+    "date": "2026-06-09",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8466?format=json",
     "source": "US Congress"
   },
   {
-    "title": "Protecting America\u2019s Small Oil and Gas Producers and Rural Jobs Act",
-    "date": "2026-05-20",
-    "action": "Read twice and referred to the Committee on Finance.",
+    "title": "A resolution calling on the United Nations Security Council to enforce the existing arms embargo on Darfur and extend it to cover all of Sudan.",
+    "date": "2025-03-12",
+    "action": "Referred to the Committee on Foreign Relations. (text: CR S1716-1717)",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4604?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Essential Caregivers Act of 2025",
-    "date": "2025-12-16",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3492?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Stop Price Gouging in Grocery Stores Act of 2026",
-    "date": "2026-02-12",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3892?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "More Homes on the Market Act",
-    "date": "2025-12-03",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3332?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Ally\u2019s Act",
-    "date": "2025-12-09",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3400?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Regional Great Lakes Partnership Act of 2026",
-    "date": "2026-05-19",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4573?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Cross-Boundary Wildfire Solutions Act",
-    "date": "2026-06-08",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2033?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Health Equity and Access under the Law for Immigrant Families Act of 2025",
-    "date": "2025-06-24",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2149?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Tribal Access to Electronic Evidence Act",
-    "date": "2025-05-01",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1574?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Reduce Veteran Suicide Act",
-    "date": "2025-06-17",
-    "action": "Read twice and referred to the Committee on Veterans' Affairs.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2096?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/sres/126?format=json",
     "source": "US Congress"
   }
 ]
