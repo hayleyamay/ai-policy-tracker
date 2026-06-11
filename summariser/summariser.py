@@ -12,13 +12,19 @@ def summarise_documents(filepath):
         title = document["title"]
         description = document.get("description", "No description available")
         
-        prompt = f"Summarise this AI policy document in 2 sentences for a general audience: {title}. {description}"
+        prompt = f"Write a 2 sentence plain English summary of this AI policy document. Only write the summary, nothing else. If you have limited information, summarise based on the title alone. Title: {title}. Description: {description}"
         
         response = client.chat.completions.create(
             model="llama-3.1-8b-instant",
             messages=[{"role": "user", "content": prompt}]
         )
-        document["summary"] = response.choices[0].message.content
+        summary = response.choices[0].message.content
+
+        bad_phrases = ["I'm ready", "I cannot", "you did not provide", "Please share", "I'm unable"]
+        if any(phrase in summary for phrase in bad_phrases):
+            summary = f"This document covers AI policy related to: {title}"
+
+        document["summary"] = summary
         
         print(f"Summarised: {title}")
     
