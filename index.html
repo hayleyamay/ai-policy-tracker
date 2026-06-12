@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Policy Tracker</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+            color: #333;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 5px;
+        }
+        p.subtitle {
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 6px;
+            background: #ddd;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        button.active {
+            background: #2563eb;
+            color: white;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 16px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .card h2 {
+            font-size: 1.1em;
+            margin: 0 0 8px 0;
+        }
+        .card .meta {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .card .summary {
+            font-size: 0.95em;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .card a {
+            font-size: 0.85em;
+            color: #2563eb;
+        }
+        .source-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            font-weight: bold;
+            margin-left: 8px;
+        }
+        .GOV\\.UK { background: #e0f2fe; color: #0369a1; }
+        .US { background: #fef9c3; color: #854d0e; }
+        .EU { background: #f0fdf4; color: #166534; }
+    </style>
+</head>
+<body>
+    <h1>🌍 AI Policy Tracker</h1>
+    <p class="subtitle">Tracking AI legislation across the UK, US and EU — updated daily</p>
+
+    <div class="filters">
+        <button class="active" onclick="filter('all')">All</button>
+        <button onclick="filter('Gov.UK')">🇬🇧 UK</button>
+        <button onclick="filter('US Congress')">🇺🇸 US</button>
+        <button onclick="filter('EU AI Act Tracker')">🇪🇺 EU</button>
+    </div>
+
+    <div id="results"></div>
+
+    <script>
+        let allDocuments = [];
+        let activeFilter = 'all';
+
+        async function loadData() {
+            const files = [
+                'data/govuk.json',
+                'data/us.json',
+                'data/eu.json'
+            ];
+
+            for (const file of files) {
+                const response = await fetch(file);
+                const data = await response.json();
+                allDocuments = allDocuments.concat(data);
+            }
+
+            displayDocuments(allDocuments);
+        }
+
+        function filter(source) {
+            activeFilter = source;
+            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+
+            if (source === 'all') {
+                displayDocuments(allDocuments);
+            } else {
+                displayDocuments(allDocuments.filter(d => d.source === source));
+            }
+        }
+
+        function displayDocuments(documents) {
+            const container = document.getElementById('results');
+            container.innerHTML = '';
+
+            documents.forEach(doc => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h2>
+                        ${doc.title}
+                        <span class="source-tag ${doc.source.replace('.', '\\.')}">${doc.source}</span>
+                    </h2>
+                    <div class="meta">${doc.date || 'No date'}</div>
+                    <div class="summary">${doc.summary || 'No summary available'}</div>
+                    <a href="${doc.url}" target="_blank">Read full document →</a>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        loadData();
+    </script>
+</body>
+</html>
