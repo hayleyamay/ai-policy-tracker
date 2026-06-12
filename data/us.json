@@ -1,162 +1,182 @@
 [
   {
-    "title": "Enhancing CLIA Act of 2026",
-    "date": "2026-05-19",
-    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "title": "Securing America\u2019s Critical Minerals Supply Act",
+    "date": "2026-02-12",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8890?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/3617?format=json",
+    "source": "US Congress",
+    "summary": "This policy document, the Securing America's Critical Minerals Supply Act, aims to address potential vulnerabilities in the US critical minerals supply by implementing new policies or regulations. The specific goals and mechanisms of the policy are not available in the given information."
   },
   {
-    "title": "Women in Criminal Justice Reform Act",
-    "date": "2026-05-21",
-    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8976?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Veteran Scam Victims Foundation Act",
-    "date": "2026-05-14",
-    "action": "Referred to the House Committee on Veterans' Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8841?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "ZOMBIE Act",
-    "date": "2026-06-10",
+    "title": "Providing for consideration of the bill (H.R. 2189) to modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes; providing for consideration of the bill (H.R. 261) to amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency; providing for consideration of the bill (H.R. 3617) to amend the Department of Energy Organization Act to secure the supply of critical energy resources, including critical minerals and other materials, and for other purposes; and for other purposes.",
+    "date": "2026-02-10",
     "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8467?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hres/1042?format=json",
+    "source": "US Congress",
+    "summary": "This document outlines the consideration of three bills in Congress: one to update firearms laws, one to regulate undersea fiber optic cables in national marine sanctuaries, and one to ensure secure energy resources. These bills aim to modernize various laws and policies."
   },
   {
-    "title": "Taxpayer Funds Oversight and Accountability Act",
-    "date": "2026-06-10",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Undersea Cable Protection Act of 2025",
+    "date": "2026-02-12",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8340?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/261?format=json",
+    "source": "US Congress",
+    "summary": "The Undersea Cable Protection Act of 2025 is a policy that aims to safeguard underwater internet and communication cables. It likely provides regulations and measures to prevent or respond to damage or theft of these vital undersea infrastructure."
   },
   {
-    "title": "Stopping Fraudulent Payments Act",
-    "date": "2026-06-10",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Law-Enforcement Innovate to De-Escalate Act",
+    "date": "2026-02-24",
+    "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8464?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/2189?format=json",
+    "source": "US Congress",
+    "summary": "The Law-Enforcement Innovate to De-Escalate Act aims to promote the use of de-escalation techniques by law enforcement, likely to reduce conflicts and improve community safety. The exact specifics and details of the act are not publicly available."
   },
   {
-    "title": "Fraud Prevention and Accountability Act",
-    "date": "2026-06-10",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8312?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "No Aid for Ghost Students Act of 2026",
-    "date": "2026-06-10",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7892?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "First Rhode Island Regiment Congressional Gold Medal Act",
-    "date": "2025-02-13",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
-    "date": "2026-06-08",
-    "action": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1335?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Cross-Boundary Wildfire Solutions Act",
-    "date": "2026-06-08",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2033?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
-    "date": "2026-06-09",
-    "action": "Referred to the House Committee on House Administration.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hconres/109?format=json",
-    "source": "US Congress"
-  },
-  {
-    "title": "Recruiting Families Using Data Act of 2025",
-    "date": "2025-01-21",
+    "title": "Legalizing Premium Health Care Act of 2026",
+    "date": "2026-05-20",
     "action": "Read twice and referred to the Committee on Finance.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/s/4583?format=json",
+    "source": "US Congress",
+    "summary": "The Legalizing Premium Health Care Act of 2026 is a proposed policy that seeks to regulate or reform the US healthcare system, potentially making premium health care a legal right. The exact details of the act are unknown as no description is available."
   },
   {
-    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
-    "date": "2025-12-17",
-    "action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+    "title": "Increasing Access to Lung Cancer Screening Act",
+    "date": "2026-05-19",
+    "action": "Read twice and referred to the Committee on Finance. (text: CR S2377-2379)",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1377?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/s/4566?format=json",
+    "source": "US Congress",
+    "summary": "The Increasing Access to Lung Cancer Screening Act aims to improve lung cancer detection by increasing access to screening tests. It potentially helps patients get diagnosed and treated earlier for better outcomes."
   },
   {
-    "title": "Secure America Act",
-    "date": "2026-06-10",
-    "action": "Became Public Law No: 119-98.",
+    "title": "IMPACT to Save Moms Act",
+    "date": "2026-05-11",
+    "action": "Read twice and referred to the Committee on Finance.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/s/4481?format=json",
+    "source": "US Congress",
+    "summary": "The IMPACT to Save Moms Act aims to reduce maternal mortality rates and improve healthcare outcomes for mothers. Its purpose is to implement impactful policies and programs to address the issues surrounding maternal mortality."
   },
   {
-    "title": "Protecting America from Chinese Cars Act of 2026",
-    "date": "2026-06-04",
-    "action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9162?format=json",
-    "source": "US Congress"
+    "title": "Promoting Access to Local Agriculture Act of 2026",
+    "date": "2026-05-11",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4483?format=json",
+    "source": "US Congress",
+    "summary": "The Promoting Access to Local Agriculture Act of 2026 likely aims to improve access to local agricultural resources and possibly support local farmers. Its details are unclear due to the lack of description."
   },
   {
-    "title": "FRESH Act",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Education and Workforce.",
+    "title": "Farm, Food, and National Security Act of 2026",
+    "date": "2026-05-19",
+    "action": "Received in the Senate.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9164?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/7567?format=json",
+    "source": "US Congress",
+    "summary": "The 'Farm, Food, and National Security Act of 2026' is a proposed US legislation potentially linking agriculture, food production, and national defense. \n\nThe exact details of the act remain unknown as no description is available."
   },
   {
-    "title": "Critical Access Hospital RIP Act of 2026",
-    "date": "2026-06-04",
-    "action": "Referred to the House Committee on Ways and Means.",
+    "title": "Risk-based Oversight for Integrity Act",
+    "date": "2026-03-27",
+    "action": "Referred to the House Committee on Agriculture.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9163?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/8157?format=json",
+    "source": "US Congress",
+    "summary": "The Risk-based Oversight for Integrity Act is a policy that focuses on a risk-based approach to overseeing certain entities or actions for the purpose of maintaining integrity. The policy aims to prioritize oversight efforts based on the level of risk involved."
   },
   {
-    "title": "Accountability for Government Censorship Act",
-    "date": "2026-06-03",
-    "action": "Referred to the House Committee on Oversight and Government Reform.",
+    "title": "Increasing Access to Lung Cancer Screening Act",
+    "date": "2025-11-20",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9133?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/6178?format=json",
+    "source": "US Congress",
+    "summary": "The Increasing Access to Lung Cancer Screening Act aims to improve the detection and treatment of lung cancer by increasing access to low-dose CT scans. This act likely seeks to reduce health disparities and save lives by providing more people with access to lung cancer screening."
   },
   {
-    "title": "DLARA",
-    "date": "2026-05-20",
-    "action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
+    "title": "Bereaved Parents Rights Act",
+    "date": "2026-05-13",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4507?format=json",
+    "source": "US Congress",
+    "summary": "The Bereaved Parents Rights Act is a policy that aims to provide rights and protections for parents who have lost children, although specific details are not available."
+  },
+  {
+    "title": "Bereaved Parents Rights Act",
+    "date": "2026-05-13",
+    "action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/4238?format=json",
-    "source": "US Congress"
+    "url": "https://api.congress.gov/v3/bill/119/hr/8784?format=json",
+    "source": "US Congress",
+    "summary": "The Bereaved Parents Rights Act outlines rights and protection for the parents of deceased children, providing a framework to support those who have lost a child."
+  },
+  {
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "date": "2025-07-04",
+    "action": "Became Public Law No: 119-21.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
+    "source": "US Congress",
+    "summary": "This US government document outlines a plan to resolve issues and reach agreements. The specific issues or areas of agreement are not stated, but it appears to be part of a larger process to reconcile different perspectives."
+  },
+  {
+    "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
+    "date": "2026-06-11",
+    "action": "Placed on the Union Calendar, Calendar No. 604.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
+    "source": "US Congress",
+    "summary": "This document outlines the 2027 budget allocation for departments such as Labor, Health, and Education in the US government."
+  },
+  {
+    "title": "WELLS Act",
+    "date": "2026-03-05",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7830?format=json",
+    "source": "US Congress",
+    "summary": "The WELLS Act is a document outlining the policies and guidelines for a specific entity or organization, but its content is not available."
+  },
+  {
+    "title": "WELLS Act",
+    "date": "2026-05-11",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4482?format=json",
+    "source": "US Congress",
+    "summary": "The WELLS Act is a policy that does not provide sufficient information for a summary, but based on the title alone, it appears to be a law or regulation aimed at supporting or impacting Wells, possibly referring to Wells Fargo, a US bank."
+  },
+  {
+    "title": "LOAN Act",
+    "date": "2025-08-01",
+    "action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/4862?format=json",
+    "source": "US Congress",
+    "summary": "The LOAN Act policy aims to provide a framework for managing loans. Unfortunately, without further information, its specific goals and details are unknown."
+  },
+  {
+    "title": "Humanitarian Theft Enforcement Act",
+    "date": "2026-03-26",
+    "action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 45 - 1.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7649?format=json",
+    "source": "US Congress",
+    "summary": "The Humanitarian Theft Enforcement Act is a policy document that deals with laws and regulations related to theft in a humanitarian setting. It likely aims to enforce penalties for theft in specific situations, such as natural disasters or refugee camps."
+  },
+  {
+    "title": "CRP Improvement and Flexibility Act of 2025",
+    "date": "2025-07-31",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S4999)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2608?format=json",
+    "source": "US Congress",
+    "summary": "The CRP Improvement and Flexibility Act of 2025 is a policy document intended to improve and increase flexibility in certain areas, but the specific details are not available."
   }
 ]
