@@ -26,7 +26,12 @@ jobs:
 
       - name: Run scrapers
         run: python scraper/run_all.py
-
+      
+      - name: Run summariser
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python summariser/summariser.py
+        
       - name: Save updated data
         run: |
           git config user.name "github-actions"
