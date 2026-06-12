@@ -1,75 +1,115 @@
 [
   {
-    "title": "Small Business Cybersecurity Assistance Evaluation Act of 2026",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 592.",
+    "title": "Enhancing CLIA Act of 2026",
+    "date": "2026-05-19",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8880?format=json",
-    "source": "US Congress",
-    "summary": "This document outlines the policy for evaluating the Small Business Cybersecurity Assistance Program of 2026, which aims to help protect small businesses from cyber threats. The Act likely provides guidelines and criteria for assessing the effectiveness and needs of such programs."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8890?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Save our Safety-Net Hospitals Act of 2025",
-    "date": "2025-08-29",
-    "action": "Referred to the House Committee on Energy and Commerce.",
+    "title": "Women in Criminal Justice Reform Act",
+    "date": "2026-05-21",
+    "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5064?format=json",
-    "source": "US Congress",
-    "summary": "The Save our Safety-Net Hospitals Act of 2025 is a proposed law that aims to protect and support hospitals that provide essential healthcare services to vulnerable communities. The goal of this act is likely to ensure the long-term sustainability and accessibility of safety-net hospitals."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8976?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "COVID Fraud Transparency Act of 2026",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 590.",
+    "title": "Veteran Scam Victims Foundation Act",
+    "date": "2026-05-14",
+    "action": "Referred to the House Committee on Veterans' Affairs.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/826?format=json",
-    "source": "US Congress",
-    "summary": "The COVID Fraud Transparency Act of 2026 aims to increase transparency in the prevention and prosecution of fraud related to the COVID-19 pandemic. The policy likely requires the disclosure of information regarding pandemic-related fraud cases and may establish mechanisms for investigating and punishing those who have committed such fraud."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8841?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Main Street Competes Act",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 595.",
+    "title": "ZOMBIE Act",
+    "date": "2026-06-10",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8882?format=json",
-    "source": "US Congress",
-    "summary": "The Main Street Competes Act is a policy document focusing on supporting small businesses and local communities in the United States. However, without further information, specifics about the policy's objectives and impacts are not available."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8467?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
-    "date": "2026-06-03",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+    "title": "Taxpayer Funds Oversight and Accountability Act",
+    "date": "2026-06-10",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7250?format=json",
-    "source": "US Congress",
-    "summary": "This policy aims to extend the current authority for the Fort Peck Reservation Rural Water System, which likely provides or plans to provide water to rural areas on the Fort Peck Reservation. The reauthorization is a continuation of existing legislation initially signed into law in 2000."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8340?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "SBA Fraud Enforcement Extension Act",
-    "date": "2025-12-02",
-    "action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.",
+    "title": "Stopping Fraudulent Payments Act",
+    "date": "2026-06-10",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/4495?format=json",
-    "source": "US Congress",
-    "summary": "The SBA Fraud Enforcement Extension Act aims to extend or modify various provisions related to fraud enforcement within the Small Business Administration."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8464?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Fraud Prevention and Accountability Act",
+    "date": "2026-06-10",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8312?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "No Aid for Ghost Students Act of 2026",
+    "date": "2026-06-10",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7892?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "First Rhode Island Regiment Congressional Gold Medal Act",
+    "date": "2025-02-13",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
+    "date": "2026-06-08",
+    "action": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1335?format=json",
+    "source": "US Congress"
   },
   {
     "title": "Cross-Boundary Wildfire Solutions Act",
-    "date": "2026-06-03",
-    "action": "Received in the Senate.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/3922?format=json",
-    "source": "US Congress",
-    "summary": "The Cross-Boundary Wildfire Solutions Act is a policy document aimed at addressing and providing solutions for wildfires that occur across boundaries. However, with little information available, the specifics of the policy remain vague and unclear."
+    "date": "2026-06-08",
+    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2033?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Oversight and Transparency for Small Business Certifications Act of 2026",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 593.",
+    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
+    "date": "2026-06-09",
+    "action": "Referred to the House Committee on House Administration.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8879?format=json",
-    "source": "US Congress",
-    "summary": "The Oversight and Transparency for Small Business Certifications Act of 2026 aims to provide increased oversight and transparency for small business certification programs. This likely involves efforts to improve accountability and fairness in the processes used to certify small businesses for various government programs and benefits."
+    "url": "https://api.congress.gov/v3/bill/119/hconres/109?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Recruiting Families Using Data Act of 2025",
+    "date": "2025-01-21",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
+    "date": "2025-12-17",
+    "action": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1377?format=json",
+    "source": "US Congress"
   },
   {
     "title": "Secure America Act",
@@ -77,106 +117,46 @@
     "action": "Became Public Law No: 119-98.",
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
-    "source": "US Congress",
-    "summary": "The Secure America Act aims to enhance national security through various measures, although the specific details are not provided. The exact implications and provisions of this policy remain unclear."
+    "source": "US Congress"
   },
   {
-    "title": "Electing Members to certain standing committees of the House of Representatives.",
-    "date": "2026-06-09",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Protecting America from Chinese Cars Act of 2026",
+    "date": "2026-06-04",
+    "action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1352?format=json",
-    "source": "US Congress",
-    "summary": "This document outlines the process for choosing members to serve on specific standing committees within the US House of Representatives. The policy aims to determine how committee members will be selected and what criteria they must meet."
+    "url": "https://api.congress.gov/v3/bill/119/hr/9162?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act.",
-    "date": "2026-06-09",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "FRESH Act",
+    "date": "2026-06-04",
+    "action": "Referred to the House Committee on Education and Workforce.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1140?format=json",
-    "source": "US Congress",
-    "summary": "The bill (H.R. 5408) aims to accelerate the time it takes for workers to form a union contract under the National Labor Relations Act. Its goal is to improve the efficiency of the union contract process."
+    "url": "https://api.congress.gov/v3/bill/119/hr/9164?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Tribal Warrant Fairness Act",
-    "date": "2026-05-19",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3041?format=json",
-    "source": "US Congress",
-    "summary": "The Tribal Warrant Fairness Act aims to improve fairness in the warrant process for Native American tribes. The specifics of the policy are not available, but it likely addresses disparities in how warrants are issued and enforced in tribal communities."
-  },
-  {
-    "title": "Faster Labor Contracts Act",
-    "date": "2026-06-09",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Critical Access Hospital RIP Act of 2026",
+    "date": "2026-06-04",
+    "action": "Referred to the House Committee on Ways and Means.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5408?format=json",
-    "source": "US Congress",
-    "summary": "This policy document, the Faster Labor Contracts Act, aims to streamline and accelerate the process of labor contracts, although the exact details are unknown."
+    "url": "https://api.congress.gov/v3/bill/119/hr/9163?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Promoting Police Leadership Act",
-    "date": "2026-05-19",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4394?format=json",
-    "source": "US Congress",
-    "summary": "The Promoting Police Leadership Act aims to support and enhance police leadership, although specific details of the policy are not available. The Act likely includes measures to develop and implement effective leadership strategies within police organizations."
-  },
-  {
-    "title": "Lieutenant Osvaldo Albarati Stopping Prison Contraband Act",
-    "date": "2026-05-19",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/736?format=json",
-    "source": "US Congress",
-    "summary": "This policy document appears to be related to an act or law aimed at preventing prison contraband. It likely concerns the efforts of Lieutenant Osvaldo Albarati in enforcing regulations to stop unauthorized items from entering prisons."
-  },
-  {
-    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
-    "date": "2026-06-09",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "Accountability for Government Censorship Act",
+    "date": "2026-06-03",
+    "action": "Referred to the House Committee on Oversight and Government Reform.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1345?format=json",
-    "source": "US Congress",
-    "summary": "The US House of Representatives is considering four bills to improve fraud prevention and program integrity in the country, including a permanent Inspector General and governmentwide reforms. The bills aim to prevent and address government fraud, improve financial prosperity, and ensure eligible individuals receive payments."
+    "url": "https://api.congress.gov/v3/bill/119/hr/9133?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Carla Walker Act",
+    "title": "DLARA",
     "date": "2026-05-20",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1890?format=json",
-    "source": "US Congress",
-    "summary": "The Carla Walker Act is a legislative proposal that aims to establish AI guidelines. However, the exact specifics of the policy are not available."
-  },
-  {
-    "title": "Stop Secret Spending Act of 2025",
-    "date": "2026-03-18",
-    "action": "Committee on Small Business and Entrepreneurship. Hearings held.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/872?format=json",
-    "source": "US Congress",
-    "summary": "The Stop Secret Spending Act of 2025 aims to increase transparency by preventing secret government spending. This policy is likely intended to promote accountability and openness in public finances."
-  },
-  {
-    "title": "Fighting Post-Traumatic Stress Disorder Act of 2025",
-    "date": "2026-05-19",
-    "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/825?format=json",
-    "source": "US Congress",
-    "summary": "The Fighting Post-Traumatic Stress Disorder Act of 2025 aims to provide support and resources for individuals suffering from Post-Traumatic Stress Disorder. This act likely focuses on offering help and services to those affected by traumatic experiences."
-  },
-  {
-    "title": "Take Care of America\u2019s Veterans Act",
-    "date": "2026-06-10",
-    "action": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "action": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9237?format=json",
-    "source": "US Congress",
-    "summary": "The Take Care of America's Veterans Act is a policy aimed at supporting the country's veterans, with the specific details not specified due to the lack of description provided. The goal appears to be improving the well-being and care of American veterans, but the exact measures and initiatives are unknown."
+    "url": "https://api.congress.gov/v3/bill/119/hr/4238?format=json",
+    "source": "US Congress"
   }
 ]
