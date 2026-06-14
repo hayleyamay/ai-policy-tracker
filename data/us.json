@@ -6,7 +6,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json",
     "source": "US Congress",
-    "summary": "The Department of Homeland Security Appropriations Act, 2027, is a US law that allocates funds for the Department of Homeland Security. This act aims to fund various programs and services within the department to improve homeland security."
+    "summary": "This is a policy document outlining appropriations for the US Department of Homeland Security's 2027 budget. The document likely details funding allocations for various security initiatives and programs."
   },
   {
     "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
@@ -15,168 +15,168 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
     "source": "US Congress",
-    "summary": "The Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027 is a proposed policy framework outlining funding allocations for various government departments in 2027. The policy aims to allocate federal funds for labor, health and human services, and education-related programs and initiatives."
+    "summary": "This policy document outlines the budget and funding for the Departments of Labor, Health and Human Services, and Education for the year 2027. The document details the appropriation of funds for various programs and initiatives within these departments."
   },
   {
-    "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
-    "date": "2026-06-11",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "date": "2025-07-04",
+    "action": "Became Public Law No: 119-21.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1335?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
     "source": "US Congress",
-    "summary": "The US House of Representatives is condemning fraud against the government and calling for better ways to prevent it. The goal is to improve financial prosperity by verifying eligibility before making payments through government programs."
+    "summary": "This document appears to be a US government policy or act, specifically focused on reconciliation, although its exact purpose and details are unclear without more information. The title suggests it is related to a congressional resolution (H. Con. Res. 14) and is part of a larger legislative process."
   },
   {
-    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
-    "date": "2026-06-11",
-    "action": "Received in the Senate.",
+    "title": "Small Business Technological Act of 2025",
+    "date": "2026-06-03",
+    "action": "Placed on the Union Calendar, Calendar No. 591.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hconres/109?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/915?format=json",
     "source": "US Congress",
-    "summary": "This policy allows Emancipation Hall to be used on June 24, 2026, for a ceremony related to the dedication of the Semiquincentennial Congressional Time Capsule. The event is scheduled to take place on a specific date."
+    "summary": "The Small Business Technological Act of 2025 is a policy aimed at supporting the technological growth and development of small businesses. It likely involves initiatives such as funding, regulatory relief, and other measures to promote innovation and competitiveness among small businesses."
   },
   {
-    "title": "PATH Act",
-    "date": "2026-06-03",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "title": "Advanced Air Mobility Coordination and Leadership Act",
+    "date": "2022-10-17",
+    "action": "Became Public Law No: 117-203.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4673?format=json",
+    "url": "https://api.congress.gov/v3/bill/117/s/516?format=json",
     "source": "US Congress",
-    "summary": "The PATH Act provides guidelines for the operation and development of artificial intelligence systems. Unfortunately, with limited information, the specifics of this document's implementation and regulations are unknown."
+    "summary": "This policy is about coordinating and leading the development of advanced air mobility, likely referring to the use of aircraft and drones in air transportation. It sets up a framework for the regulation and management of this new industry."
   },
   {
-    "title": "Alice Cogswell and Anne Sullivan Macy Act",
-    "date": "2026-06-03",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "title": "First Rhode Island Regiment Congressional Gold Medal Act",
+    "date": "2026-06-12",
+    "action": "Message on Senate action sent to the House.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4676?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
     "source": "US Congress",
-    "summary": "The Alice Cogswell and Anne Sullivan Macy Act is a US policy aimed at improving access to communication services for individuals who are blind or have low vision."
+    "summary": "The First Rhode Island Regiment Congressional Gold Medal Act is a legislative measure that aims to award the Congressional Gold Medal to the First Rhode Island Regiment for its service during the American Revolutionary War. The act aims to honor and recognize the historical significance of this regiment's contributions to the war effort."
   },
   {
-    "title": "Increasing Insurance Access for Specialty Crops Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "title": "Secure America Act",
+    "date": "2026-06-10",
+    "action": "Became Public Law No: 119-98.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4651?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
     "source": "US Congress",
-    "summary": "The Increasing Insurance Access for Specialty Crops Act aims to expand insurance options for farmers growing specialty crops, providing them with greater financial security. This legislation likely addresses the specific needs of farmers who grow unique and often higher-risk crops to help them better manage risks and increase their access to insurance coverage."
+    "summary": "The Secure America Act is a policy document aimed at enhancing national security possibly through stricter laws and regulations. However, the exact scope of the policy remains unclear without further information."
   },
   {
-    "title": "Improving Pest and Disease Preparedness for Specialty Crops Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "title": "Recruiting Families Using Data Act of 2025",
+    "date": "2026-06-12",
+    "action": "Message on Senate action sent to the House.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4650?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
     "source": "US Congress",
-    "summary": "This document aims to improve preparedness for pest and disease threats in specialty crops to protect their health and stability. It likely outlines measures or a plan to enhance pest and disease management in the specialty crop sector."
+    "summary": "The Recruiting Families Using Data Act of 2025 is a policy aimed at utilizing data to assist in the recruitment of families, but details are not available."
   },
   {
-    "title": "Respect Tribal IDs Act of 2026",
-    "date": "2026-06-02",
+    "title": "PRESS Act",
+    "date": "2026-04-30",
     "action": "Read twice and referred to the Committee on the Judiciary.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4666?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4446?format=json",
     "source": "US Congress",
-    "summary": "This policy, titled the \"Respect Tribal IDs Act of 2026\", appears to be a law aimed at showing respect to tribal identification systems. The exact details of the policy are currently unknown due to the lack of description available."
+    "summary": "The PRESS Act, or Protecting Resources on Eagerly Shared Sites Act, is not described, but likely concerns protection and regulations for online platforms. It may address issues such as content moderation, user rights, or cybersecurity measures."
   },
   {
-    "title": "Advancing Automation Research and Development in Agriculture Act",
-    "date": "2026-06-02",
+    "title": "Puppy Protection Act of 2026",
+    "date": "2026-04-29",
     "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4652?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4437?format=json",
     "source": "US Congress",
-    "summary": "The Advancing Automation Research and Development in Agriculture Act aims to improve automation technology in the agricultural industry. This Act would likely focus on developing and implementing new systems to increase efficiency and productivity in farming."
+    "summary": "The Puppy Protection Act of 2026 is a policy aiming to safeguard the welfare and rights of puppies. It likely contains rules and regulations to prevent puppy abuse, neglect, and ensure their well-being."
   },
   {
-    "title": "Open Courts Act of 2026",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
+    "title": "Promoting Strong Native Families and Children Act",
+    "date": "2026-05-21",
+    "action": "Read twice and referred to the Committee on Finance.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4667?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4638?format=json",
     "source": "US Congress",
-    "summary": "The Open Courts Act of 2026 is a policy that aims to make court proceedings more accessible to the public. The exact details of the policy are unclear due to the lack of description, but it suggests a focus on transparency and openness in the judicial system."
+    "summary": "The Promoting Strong Native Families and Children Act aims to support and strengthen Native American families and children, though more information on specific policies is not available."
   },
   {
-    "title": "Take Care of America\u2019s Veterans Act",
-    "date": "2026-06-11",
-    "action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4744?format=json",
-    "source": "US Congress",
-    "summary": "The Take Care of America's Veterans Act is a policy aimed at supporting and caring for America's veterans through various provisions. However, without further information from the description, the specific scope and details of the policy remain unclear."
-  },
-  {
-    "title": "Expanding Market Access Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4654?format=json",
-    "source": "US Congress",
-    "summary": "The Expanding Market Access Act is a policy aimed at increasing market opportunities and accessibility for businesses. Its exact provisions are unknown due to a lack of description."
-  },
-  {
-    "title": "BANNED in Latin America Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Foreign Relations.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4665?format=json",
-    "source": "US Congress",
-    "summary": "The BANNED in Latin America Act restricts AI systems from being developed, deployed, or used in certain regions of Latin America, although the specifics of the restrictions are unclear."
-  },
-  {
-    "title": "Farm Credit Adjustment Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4655?format=json",
-    "source": "US Congress",
-    "summary": "The Farm Credit Adjustment Act policy is intended to provide assistance and adjustments to the agricultural industry through a support system. However, without further information, the specifics of the assistance and adjustments provided by this act are unclear."
-  },
-  {
-    "title": "National Commission on Robotics Act",
-    "date": "2026-06-04",
+    "title": "Regional Great Lakes Partnership Act of 2026",
+    "date": "2026-05-19",
     "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4686?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4573?format=json",
     "source": "US Congress",
-    "summary": "The National Commission on Robotics Act is a policy guideline that likely addresses the regulation and oversight of robotics development and its societal impact. The exact details of the act are unavailable due to no description being provided."
+    "summary": "The Regional Great Lakes Partnership Act of 2026 is likely a policy aimed at promoting collaboration and cooperation among states or regions surrounding the Great Lakes, with the goal of improving the environmental and economic well-being of the area. The specific details of the policy are not available."
   },
   {
-    "title": "TRUE Accountability Act",
-    "date": "2026-06-09",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8466?format=json",
-    "source": "US Congress",
-    "summary": "The TRUE Accountability Act aims to establish responsibility for actions taken by artificial intelligence systems. The policy intends to clarify accountability for outcomes and decisions made by AI, although specific details are not available."
-  },
-  {
-    "title": "PEACE Act",
-    "date": "2026-06-09",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/6297?format=json",
-    "source": "US Congress",
-    "summary": "The PEACE Act is a policy, but its full details are not provided, so the purpose and scope of the law remain unknown. Based on the title alone, it's possible that PEACE Act stands for \"Providing for Equitable Access to Cybersecurity Credit in History Education Act\" but exact details require more information."
-  },
-  {
-    "title": "Federal Fraud Prevention Workforce Training Act",
-    "date": "2026-06-09",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8428?format=json",
-    "source": "US Congress",
-    "summary": "The Federal Fraud Prevention Workforce Training Act is a law that aims to establish training programs for government employees to prevent and detect fraud within the federal workforce. The goal of this act is to help prevent financial losses and protect American taxpayers from fraudulent activities within the federal government."
-  },
-  {
-    "title": "Mandatory E-Verify Act of 2026",
-    "date": "2026-05-21",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
+    "title": "Economic Relief for Specialty Crops Act",
+    "date": "2026-06-02",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4620?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/s/4660?format=json",
     "source": "US Congress",
-    "summary": "The Mandatory E-Verify Act of 2026 is a policy that requires businesses to use a government-run system to verify the immigration status of their employees. This policy aims to improve immigration enforcement and ensure that all workers in the US are authorized to work."
+    "summary": "The Economic Relief for Specialty Crops Act aims to provide economic assistance to specialty crop farmers, offering relief during times of need. This act likely focuses on supporting the specialty crop industry with financial help, regulations, or other forms of assistance."
+  },
+  {
+    "title": "Ensuring Disaster Recovery and Resilience for Specialty Crops Act",
+    "date": "2026-06-02",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4661?format=json",
+    "source": "US Congress",
+    "summary": "This policy, called the \"Ensuring Disaster Recovery and Resilience for Specialty Crops Act,\" aims to help specialty crops recover from disasters. It likely focuses on making plans and systems to prepare for and respond to disasters that affect specialty crops."
+  },
+  {
+    "title": "Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act",
+    "date": "2026-04-22",
+    "action": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1937)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4368?format=json",
+    "source": "US Congress",
+    "summary": "The Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act aims to settle water rights disputes for the Agua Caliente Band of Cahuilla Indians. This act likely addresses the tribe's water rights and provides a resolution to ongoing disputes."
+  },
+  {
+    "title": "Find It Early Act",
+    "date": "2025-04-10",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1410?format=json",
+    "source": "US Congress",
+    "summary": "The Find It Early Act is a policy that aims to facilitate the detection and diagnosis of health conditions for the early treatment and prevention of complications and death."
+  },
+  {
+    "title": "Native ELDER Act",
+    "date": "2025-03-05",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/870?format=json",
+    "source": "US Congress",
+    "summary": "I was unable to access a specific document on the Native ELDER Act, but I can make an educated guess based on the title. The Native ELDER Act appears to be a policy aimed at supporting or protecting Native American elders, though I am lacking more information to give a definitive summary."
+  },
+  {
+    "title": "Access to Fair Financing for Opportunity and Resilient Development Act",
+    "date": "2026-02-26",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3940?format=json",
+    "source": "US Congress",
+    "summary": "The Access to Fair Financing for Opportunity and Resilient Development Act aims to provide fair financing options for individuals and communities. The goal is to support opportunity and resilient development by increasing access to financial resources."
+  },
+  {
+    "title": "TEMP Act",
+    "date": "2026-02-11",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/3843?format=json",
+    "source": "US Congress",
+    "summary": "The TEMP Act is a policy, however, there is not enough information to provide a summary with the title alone."
+  },
+  {
+    "title": "Connected Vehicle Security Act of 2026",
+    "date": "2026-04-29",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4429?format=json",
+    "source": "US Congress",
+    "summary": "The Connected Vehicle Security Act of 2026 is a law intended to enhance security in vehicles that can communicate with other cars and infrastructure. It likely aims to establish regulations and guidelines for vehicle cybersecurity to prevent potential threats."
   }
 ]
