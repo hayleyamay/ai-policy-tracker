@@ -1,12 +1,102 @@
 [
   {
+    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
+    "date": "2026-06-05",
+    "action": "Placed on the Union Calendar, Calendar No. 599.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9171?format=json",
+    "source": "US Congress",
+    "summary": "This act is a U.S. government appropriations bill for the Department of the Interior and environment-related agencies in fiscal year 2027. It likely outlines funding and policy decisions for these agencies."
+  },
+  {
+    "title": "Carnivals are Real Entertainment Act",
+    "date": "2025-04-08",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/2729?format=json",
+    "source": "US Congress",
+    "summary": "The Carnivals are Real Entertainment Act appears to be a law that acknowledges and supports the value of carnivals as a type of legitimate entertainment. The exact specifics of the policy are unclear due to a lack of detailed information."
+  },
+  {
     "title": "Department of Homeland Security Appropriations Act, 2027",
     "date": "2026-06-12",
     "action": "Placed on the Union Calendar, Calendar No. 605.",
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json",
     "source": "US Congress",
-    "summary": "This is a policy document outlining appropriations for the US Department of Homeland Security's 2027 budget. The document likely details funding allocations for various security initiatives and programs."
+    "summary": "The Department of Homeland Security Appropriations Act, 2027 outlines federal funding allocation for the Department of Homeland Security to support its operations and initiatives. This act aims to provide the necessary resources to ensure the security and resilience of the United States."
+  },
+  {
+    "title": "Next-Generation Geothermal Research and Development Act",
+    "date": "2026-05-20",
+    "action": "Ordered to be Reported (Amended) by Voice Vote.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8790?format=json",
+    "source": "US Congress",
+    "summary": "The Next-Generation Geothermal Research and Development Act is a policy that aims to support and fund research into next-generation geothermal technology. This policy likely aims to increase the availability of geothermal energy and provide a cleaner alternative to traditional fossil fuels."
+  },
+  {
+    "title": "To amend title 49, United States Code, to grant the United States Virgin Islands and Puerto Rico eligibility to issue commercial driver's licenses, and for other purposes.",
+    "date": "2025-12-01",
+    "action": "Referred to the Subcommittee on Highways and Transit.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5656?format=json",
+    "source": "US Congress",
+    "summary": "This policy aims to allow Puerto Rico and the United States Virgin Islands to issue commercial driver's licenses. The change is part of a broader update to US law."
+  },
+  {
+    "title": "Natural GAS Act of 2025",
+    "date": "2025-02-13",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1281?format=json",
+    "source": "US Congress",
+    "summary": "The Natural GAS Act of 2025 is a proposed legislation that likely aims to regulate or manage natural gas resources. The exact specifics and goals of the act are not specified."
+  },
+  {
+    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
+    "date": "2026-06-08",
+    "action": "Received in the Senate.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8646?format=json",
+    "source": "US Congress",
+    "summary": "This act is an appropriations bill that allocates funds to various government agencies involved in agriculture, rural development, and food and drug regulation. It aims to support these sectors through funding allocations as part of the 2027 federal budget."
+  },
+  {
+    "title": "To permanently extend the exemption from the engine compartment portion of the pre-trip vehicle inspection skills testing requirement for school bus drivers, and for other purposes.",
+    "date": "2025-03-26",
+    "action": "Referred to the Subcommittee on Highways and Transit.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/2360?format=json",
+    "source": "US Congress",
+    "summary": "This policy aims to prolong a specific exemption from pre-trip inspections for school bus drivers. It appears to be related to vehicle safety regulations and the qualifications of school bus drivers."
+  },
+  {
+    "title": "To amend the Marine Mammal Protection Act of 1972 to allow the transport, purchase, and sale of pelts of, and handicrafts, garments, and art produced from, Southcentral and Southeast Alaska northern sea otters that are taken for subsistence purposes.",
+    "date": "2026-06-03",
+    "action": "Subcommittee Hearings Held",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8401?format=json",
+    "source": "US Congress",
+    "summary": "This policy amends the Marine Mammal Protection Act to allow the sale and trade of certain Alaska northern sea otter products for subsistence purposes. It specifically focuses on the transport, purchase, and sale of items like pelts and handicrafts made from these otters in specific Alaska regions."
+  },
+  {
+    "title": "ARTIST Act",
+    "date": "2026-06-12",
+    "action": "Signed by President.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/254?format=json",
+    "source": "US Congress",
+    "summary": "The ARTIST Act is a policy document with no provided description, but its title suggests it may relate to supporting artists or creatives through the use of advanced technologies and regulations."
+  },
+  {
+    "title": "Highway Funding Transferability Improvement Act",
+    "date": "2025-07-23",
+    "action": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/1733?format=json",
+    "source": "US Congress",
+    "summary": "The Highway Funding Transferability Improvement Act aims to improve the transferability of highway funding to support more efficient and effective use of available funds. The exact details of the policy are not specified, but it suggests a potential reorganization of how highway funding is allocated and utilized."
   },
   {
     "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
@@ -15,7 +105,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
     "source": "US Congress",
-    "summary": "This policy document outlines the budget and funding for the Departments of Labor, Health and Human Services, and Education for the year 2027. The document details the appropriation of funds for various programs and initiatives within these departments."
+    "summary": "This act is a government spending bill that likely funds departments of Labor, Health and Human Services, and Education for the year 2027. The bill likely appropriates funds for various programs and initiatives within these departments."
   },
   {
     "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
@@ -24,7 +114,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
     "source": "US Congress",
-    "summary": "This document appears to be a US government policy or act, specifically focused on reconciliation, although its exact purpose and details are unclear without more information. The title suggests it is related to a congressional resolution (H. Con. Res. 14) and is part of a larger legislative process."
+    "summary": "This act addresses a reconciliation plan in accordance with Title II of House Concurrent Resolution 14. The specifics of the act are not provided due to a lack of description."
   },
   {
     "title": "Small Business Technological Act of 2025",
@@ -33,7 +123,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/915?format=json",
     "source": "US Congress",
-    "summary": "The Small Business Technological Act of 2025 is a policy aimed at supporting the technological growth and development of small businesses. It likely involves initiatives such as funding, regulatory relief, and other measures to promote innovation and competitiveness among small businesses."
+    "summary": "The Small Business Technological Act of 2025 aims to support and enhance technology capabilities for small businesses in the US. However, without further specifics, its exact provisions and goals remain unclear."
   },
   {
     "title": "Advanced Air Mobility Coordination and Leadership Act",
@@ -42,7 +132,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/117/s/516?format=json",
     "source": "US Congress",
-    "summary": "This policy is about coordinating and leading the development of advanced air mobility, likely referring to the use of aircraft and drones in air transportation. It sets up a framework for the regulation and management of this new industry."
+    "summary": "The Advanced Air Mobility Coordination and Leadership Act aims to coordinate and provide leadership in the development and implementation of advanced air mobility technology. Its focus is on establishing a framework for safe and efficient integration of advanced air mobility systems into the national airspace."
   },
   {
     "title": "First Rhode Island Regiment Congressional Gold Medal Act",
@@ -51,7 +141,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
     "source": "US Congress",
-    "summary": "The First Rhode Island Regiment Congressional Gold Medal Act is a legislative measure that aims to award the Congressional Gold Medal to the First Rhode Island Regiment for its service during the American Revolutionary War. The act aims to honor and recognize the historical significance of this regiment's contributions to the war effort."
+    "summary": "The First Rhode Island Regiment Congressional Gold Medal Act is a law that likely involves awarding a Congressional Gold Medal to a specific group, but no further information is available about the specifics of the award. It is presumably related to the history and service of the First Rhode Island Regiment."
   },
   {
     "title": "Secure America Act",
@@ -60,7 +150,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
     "source": "US Congress",
-    "summary": "The Secure America Act is a policy document aimed at enhancing national security possibly through stricter laws and regulations. However, the exact scope of the policy remains unclear without further information."
+    "summary": "The Secure America Act is a policy aimed at improving national security in the United States to protect its citizens and interests."
   },
   {
     "title": "Recruiting Families Using Data Act of 2025",
@@ -69,7 +159,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
     "source": "US Congress",
-    "summary": "The Recruiting Families Using Data Act of 2025 is a policy aimed at utilizing data to assist in the recruitment of families, but details are not available."
+    "summary": "The Recruiting Families Using Data Act of 2025 is a policy that likely deals with the use of data to recruit families for various purposes. The exact scope and intent of the policy are not specified."
   },
   {
     "title": "PRESS Act",
@@ -78,34 +168,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/4446?format=json",
     "source": "US Congress",
-    "summary": "The PRESS Act, or Protecting Resources on Eagerly Shared Sites Act, is not described, but likely concerns protection and regulations for online platforms. It may address issues such as content moderation, user rights, or cybersecurity measures."
-  },
-  {
-    "title": "Puppy Protection Act of 2026",
-    "date": "2026-04-29",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4437?format=json",
-    "source": "US Congress",
-    "summary": "The Puppy Protection Act of 2026 is a policy aiming to safeguard the welfare and rights of puppies. It likely contains rules and regulations to prevent puppy abuse, neglect, and ensure their well-being."
-  },
-  {
-    "title": "Promoting Strong Native Families and Children Act",
-    "date": "2026-05-21",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4638?format=json",
-    "source": "US Congress",
-    "summary": "The Promoting Strong Native Families and Children Act aims to support and strengthen Native American families and children, though more information on specific policies is not available."
-  },
-  {
-    "title": "Regional Great Lakes Partnership Act of 2026",
-    "date": "2026-05-19",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4573?format=json",
-    "source": "US Congress",
-    "summary": "The Regional Great Lakes Partnership Act of 2026 is likely a policy aimed at promoting collaboration and cooperation among states or regions surrounding the Great Lakes, with the goal of improving the environmental and economic well-being of the area. The specific details of the policy are not available."
+    "summary": "The PRESS Act is a proposed law that outlines guidelines for the use and regulation of artificial intelligence systems. However, without more information, its specific details and implications are unknown."
   },
   {
     "title": "Economic Relief for Specialty Crops Act",
@@ -114,69 +177,6 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/4660?format=json",
     "source": "US Congress",
-    "summary": "The Economic Relief for Specialty Crops Act aims to provide economic assistance to specialty crop farmers, offering relief during times of need. This act likely focuses on supporting the specialty crop industry with financial help, regulations, or other forms of assistance."
-  },
-  {
-    "title": "Ensuring Disaster Recovery and Resilience for Specialty Crops Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4661?format=json",
-    "source": "US Congress",
-    "summary": "This policy, called the \"Ensuring Disaster Recovery and Resilience for Specialty Crops Act,\" aims to help specialty crops recover from disasters. It likely focuses on making plans and systems to prepare for and respond to disasters that affect specialty crops."
-  },
-  {
-    "title": "Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act",
-    "date": "2026-04-22",
-    "action": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1937)",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4368?format=json",
-    "source": "US Congress",
-    "summary": "The Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act aims to settle water rights disputes for the Agua Caliente Band of Cahuilla Indians. This act likely addresses the tribe's water rights and provides a resolution to ongoing disputes."
-  },
-  {
-    "title": "Find It Early Act",
-    "date": "2025-04-10",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1410?format=json",
-    "source": "US Congress",
-    "summary": "The Find It Early Act is a policy that aims to facilitate the detection and diagnosis of health conditions for the early treatment and prevention of complications and death."
-  },
-  {
-    "title": "Native ELDER Act",
-    "date": "2025-03-05",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/870?format=json",
-    "source": "US Congress",
-    "summary": "I was unable to access a specific document on the Native ELDER Act, but I can make an educated guess based on the title. The Native ELDER Act appears to be a policy aimed at supporting or protecting Native American elders, though I am lacking more information to give a definitive summary."
-  },
-  {
-    "title": "Access to Fair Financing for Opportunity and Resilient Development Act",
-    "date": "2026-02-26",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3940?format=json",
-    "source": "US Congress",
-    "summary": "The Access to Fair Financing for Opportunity and Resilient Development Act aims to provide fair financing options for individuals and communities. The goal is to support opportunity and resilient development by increasing access to financial resources."
-  },
-  {
-    "title": "TEMP Act",
-    "date": "2026-02-11",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/3843?format=json",
-    "source": "US Congress",
-    "summary": "The TEMP Act is a policy, however, there is not enough information to provide a summary with the title alone."
-  },
-  {
-    "title": "Connected Vehicle Security Act of 2026",
-    "date": "2026-04-29",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4429?format=json",
-    "source": "US Congress",
-    "summary": "The Connected Vehicle Security Act of 2026 is a law intended to enhance security in vehicles that can communicate with other cars and infrastructure. It likely aims to establish regulations and guidelines for vehicle cybersecurity to prevent potential threats."
+    "summary": "The Economic Relief for Specialty Crops Act aims to provide financial assistance to growers of specialty crops during times of economic hardship. This law likely offers funding or other forms of relief to help maintain the livelihoods of these farmers."
   }
 ]
