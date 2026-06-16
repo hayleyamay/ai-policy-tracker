@@ -1,102 +1,120 @@
 [
   {
-    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
-    "date": "2026-06-05",
-    "action": "Placed on the Union Calendar, Calendar No. 599.",
+    "title": "Protect America\u2019s Innovation and Economic Security from CCP Act",
+    "date": "2026-06-15",
+    "action": "Placed on the Union Calendar, Calendar No. 607.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9171?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/1468?format=json",
     "source": "US Congress",
-    "summary": "This legislation is an appropriations bill focusing on funding for the Department of the Interior, Environment, and Related Agencies for the year 2027. The act aims to provide necessary financial support for various government agencies and programs within its scope."
+    "summary": "The Protect America's Innovation and Economic Security from CCP Act aims to safeguard US innovation and economic interests from potential threats posed by the Chinese Communist Party (CCP). The policy likely entails measures to counter Chinese influence in the US, particularly in areas such as technology and trade."
   },
   {
-    "title": "Carnivals are Real Entertainment Act",
-    "date": "2025-04-08",
+    "title": "A resolution expressing support for the designation of the month of June 2026 as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2026, as \"National Post-Traumatic Stress Awareness Day\".",
+    "date": "2026-06-08",
+    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2670; text: CR S2666)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/sres/758?format=json",
+    "source": "US Congress",
+    "summary": "This resolution supports making June 2026 \"National Post-Traumatic Stress Awareness Month\" and June 27 a special awareness day. The goal is to draw attention to mental health issues stemming from traumatic experiences."
+  },
+  {
+    "title": "National Defense Authorization Act for Fiscal Year 2026",
+    "date": "2025-11-12",
+    "action": "Held at the desk.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/2296?format=json",
+    "source": "US Congress",
+    "summary": "The National Defense Authorization Act for Fiscal Year 2026 outlines plans and funding for military activities in the US for the 2026 financial year. The document aims to provide a framework for the defense budget and policies of the US government for 2026."
+  },
+  {
+    "title": "A bill to expand the mission of the Export-Import Bank of the United States and focus on building export-related domestic critical industries that produce goods and services that support employment in the United States and strengthen global competitiveness, and for other purposes.",
+    "date": "2026-06-15",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S2786-2791; Sponsor introductory remarks on measure: CR S2786)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4781?format=json",
+    "source": "US Congress",
+    "summary": "This bill aims to expand the Export-Import Bank's mission to support domestic industries involved in exporting goods and services. Its goal is to create US employment opportunities and boost global competitiveness."
+  },
+  {
+    "title": "Returning Senate Joint Resolution 3 to the Senate.",
+    "date": "2025-03-11",
+    "action": "Motion to reconsider laid on the table Agreed to without objection.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/212?format=json",
+    "source": "US Congress",
+    "summary": "The Senate Joint Resolution 3 is being returned to the Senate, but it's unclear why. The specifics of this action cannot be determined without further information."
+  },
+  {
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+    "date": "2025-04-10",
+    "action": "Became Public Law No: 119-5.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hjres/25?format=json",
+    "source": "US Congress",
+    "summary": "This policy aims to allow Congress to disapprove of an IRS rule about how brokers report the proceeds of digital asset sales. The rule reportedly deals with brokers who regularly facilitate sales of digital assets."
+  },
+  {
+    "title": "Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship or nationality of, or otherwise owes allegiance to, a country other than the United States from serving as a Representative or Senator in Congress, a Judge of the Supreme Court or any inferior court, an Ambassador, public Minister or Consul, or any other officer of the United States which requires the advice and consent of the Senate, or the President or Vice President unless the person formally and permanently relinquishes such citizenship, nationality, or allegiance.",
+    "date": "2026-06-03",
     "action": "Referred to the House Committee on the Judiciary.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/2729?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hjres/194?format=json",
     "source": "US Congress",
-    "summary": "The Carnivals are Real Entertainment Act aims to regulate and promote carnivals as a legitimate form of entertainment."
+    "summary": "This policy proposes amending the US Constitution to limit certain government positions, such as Congress and Supreme Court judges, to US citizens only. The amendment would require individuals with dual citizenship to renounce their non-US allegiance before holding these offices."
   },
   {
-    "title": "Department of Homeland Security Appropriations Act, 2027",
-    "date": "2026-06-12",
-    "action": "Placed on the Union Calendar, Calendar No. 605.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json",
-    "source": "US Congress",
-    "summary": "The Department of Homeland Security Appropriations Act, 2027, provides funding for the Department of Homeland Security for the 2027 fiscal year, aiming to enhance national security and public safety. This act likely outlines specific allocations for various security initiatives, programs, and agencies within the department."
-  },
-  {
-    "title": "Next-Generation Geothermal Research and Development Act",
-    "date": "2026-05-20",
-    "action": "Ordered to be Reported (Amended) by Voice Vote.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8790?format=json",
-    "source": "US Congress",
-    "summary": "This policy document, called the \"Next-Generation Geothermal Research and Development Act\", aims to promote the development of new geothermal energy technologies for the future. This act likely outlines plans for research, investment, and implementation of innovative methods to harness geothermal energy more efficiently."
-  },
-  {
-    "title": "To amend title 49, United States Code, to grant the United States Virgin Islands and Puerto Rico eligibility to issue commercial driver's licenses, and for other purposes.",
-    "date": "2025-12-01",
-    "action": "Referred to the Subcommittee on Highways and Transit.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5656?format=json",
-    "source": "US Congress",
-    "summary": "This bill aims to grant commercial driver's license eligibility to residents of the US Virgin Islands and Puerto Rico. It also includes provisions for other purposes, though the specific details are not specified."
-  },
-  {
-    "title": "Natural GAS Act of 2025",
-    "date": "2025-02-13",
-    "action": "Referred to the House Committee on Energy and Commerce.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/1281?format=json",
-    "source": "US Congress",
-    "summary": "The Natural GAS Act of 2025 is a policy document that likely focuses on legislation affecting the natural gas industry. However, the actual details of the policy are unknown without further description or information."
-  },
-  {
-    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
-    "date": "2026-06-08",
-    "action": "Received in the Senate.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8646?format=json",
-    "source": "US Congress",
-    "summary": "This document outlines the appropriations for various government agencies involved in agricultural and food-related programs, with the primary focus on allocating funds for the fiscal year 2027. The act aims to support and regulate the development of agriculture, rural areas, and food safety through the allocation of these funds."
-  },
-  {
-    "title": "To permanently extend the exemption from the engine compartment portion of the pre-trip vehicle inspection skills testing requirement for school bus drivers, and for other purposes.",
-    "date": "2025-03-26",
-    "action": "Referred to the Subcommittee on Highways and Transit.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/2360?format=json",
-    "source": "US Congress",
-    "summary": "This document proposes a permanent exemption from a specific vehicle safety inspection requirement for school bus drivers in the engine compartment during skills testing. The intention is likely to improve efficiency and reduce administrative burdens for school bus drivers."
-  },
-  {
-    "title": "To amend the Marine Mammal Protection Act of 1972 to allow the transport, purchase, and sale of pelts of, and handicrafts, garments, and art produced from, Southcentral and Southeast Alaska northern sea otters that are taken for subsistence purposes.",
-    "date": "2026-06-03",
-    "action": "Subcommittee Hearings Held",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8401?format=json",
-    "source": "US Congress",
-    "summary": "This policy aims to amend the Marine Mammal Protection Act to allow the trade of southcentral and southeast Alaskan sea otter products, taken for subsistence purposes. The changes would likely permit the sale and purchase of sea otter items such as pelts, handicrafts, and garments."
-  },
-  {
-    "title": "ARTIST Act",
-    "date": "2026-06-12",
-    "action": "Signed by President.",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "date": "2025-12-05",
+    "action": "Became Public Law No: 119-47.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/254?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/sjres/80?format=json",
     "source": "US Congress",
-    "summary": "The ARTIST Act is a policy aimed at promoting and supporting artists and creatives across various industries with its initiatives and programs. The details of the policy are not provided, but it implies a focus on artistic and creative talent development and support."
+    "summary": "This document outlines a US congressional resolution disapproving a rule made by the Bureau of Land Management. The rule pertains to the National Petroleum Reserve in Alaska, an area where oil and gas reserves are managed."
   },
   {
-    "title": "Highway Funding Transferability Improvement Act",
-    "date": "2025-07-23",
-    "action": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/1733?format=json",
+    "title": "Subpoena Abuse Prevention Act",
+    "date": "2026-05-21",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8966?format=json",
     "source": "US Congress",
-    "summary": "The Highway Funding Transferability Improvement Act aims to improve the transferability of highway funding between states. However, the specifics of the act's goals and implementation are not described in the provided information."
+    "summary": "The Subpoena Abuse Prevention Act is a policy that aims to prevent misuse of subpoenas, which are court orders requiring individuals or organizations to provide evidence or testimony. The details of its implementation and scope are not available."
+  },
+  {
+    "title": "Equitable Access to School Facilities Act",
+    "date": "2026-06-02",
+    "action": "Placed on the Union Calendar, Calendar No. 586.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7086?format=json",
+    "source": "US Congress",
+    "summary": "The Equitable Access to School Facilities Act aims to provide fair access to school facilities for all students, regardless of their background or status. The law ensures that schools are inclusive and accommodate the needs of everyone."
+  },
+  {
+    "title": "Critical Minerals Supply Chain Resiliency Act of 2026",
+    "date": "2026-06-09",
+    "action": "Placed on the Union Calendar, Calendar No. 602.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5929?format=json",
+    "source": "US Congress",
+    "summary": "The Critical Minerals Supply Chain Resiliency Act of 2026 aims to make critical mineral supply chains in the United States more resilient and secure. It is an unidentified law designed to strengthen America's reliance on essential minerals."
+  },
+  {
+    "title": "FLEX Act",
+    "date": "2026-05-13",
+    "action": "Placed on the Union Calendar, Calendar No. 566.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7082?format=json",
+    "source": "US Congress",
+    "summary": "The FLEX Act aims to provide a framework for flexible work arrangements, allowing employees to have more control over their work-life balance. The policy is likely to benefit employees by giving them autonomy to manage their time and employers by improving retention and productivity."
+  },
+  {
+    "title": "Empower Charter School Educators to Lead Act",
+    "date": "2026-01-13",
+    "action": "Placed on the Union Calendar, Calendar No. 379.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/3453?format=json",
+    "source": "US Congress",
+    "summary": "This act aims to empower educators at charter schools to take on leading roles and make better decisions for the education of their students. Its specific provisions and objectives are currently unknown due to lack of available information."
   },
   {
     "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
@@ -105,78 +123,60 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
     "source": "US Congress",
-    "summary": "This policy document appears to be an appropriation bill for federal funding related to labor, health services, education, and other associated areas for the year 2027. The bill likely outlines specific allocations and regulations for government spending in these sectors."
+    "summary": "This document outlines appropriations for the Departments of Labor, Health and Human Services, and Education for the 2027 fiscal year, providing funding for various government programs and agencies. It likely allocates budget allocations and sets spending policies for these departments."
   },
   {
-    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
-    "date": "2025-07-04",
-    "action": "Became Public Law No: 119-21.",
+    "title": "A resolution expressing support for the designation of July 2026 as \"National Sarcoma Awareness Month\".",
+    "date": "2026-06-09",
+    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2705; text: CR S2703)",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/sres/765?format=json",
+    "source": "US Congress",
+    "summary": "This document is a resolution from an organization expressing their support to officially recognize July 2026 as a month to raise awareness about sarcoma, a type of cancer. The goal of this recognition is to bring attention to the condition and potentially support further research and education."
+  },
+  {
+    "title": "Military Readiness Permitting Efficiency Act of 2026",
+    "date": "2026-06-08",
+    "action": "Referred to the House Committee on Armed Services.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9188?format=json",
     "source": "US Congress",
-    "summary": "This document appears to be a policy about reconciliation, likely in a governmental context, and is related to a Congressional resolution. It doesn't provide further details due to lack of description."
+    "summary": "The Military Readiness Permitting Efficiency Act of 2026 aims to reduce bureaucratic delays in obtaining permits and approvals for military operations, ensuring a smoother and more efficient process for military readiness. This act seeks to streamline permitting processes to better support national defense efforts."
   },
   {
-    "title": "Small Business Technological Act of 2025",
-    "date": "2026-06-03",
-    "action": "Placed on the Union Calendar, Calendar No. 591.",
+    "title": "Prior Authorization Reform for Autoimmune and Blood Disorders Act",
+    "date": "2026-06-08",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/915?format=json",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9192?format=json",
     "source": "US Congress",
-    "summary": "Based on the title, here's a 2-sentence summary: The Small Business Technological Act of 2025 aims to help small businesses adopt and utilize technology to improve their operations. The specifics of the policy are unknown, but it likely involves some form of support or regulation for small businesses in the tech sector."
+    "summary": "The Prior Authorization Reform for Autoimmune and Blood Disorders Act aims to simplify the process of getting approval for treatments for autoimmune and blood disorders. This likely involves reducing bureaucratic hurdles or requirements for patients to access necessary medication."
   },
   {
-    "title": "Advanced Air Mobility Coordination and Leadership Act",
-    "date": "2022-10-17",
-    "action": "Became Public Law No: 117-203.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/117/s/516?format=json",
+    "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+    "date": "2026-06-08",
+    "action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9183?format=json",
     "source": "US Congress",
-    "summary": "The Advanced Air Mobility Coordination and Leadership Act is a policy aimed at coordinating efforts to advance air mobility technology in the US. It likely focuses on the development, implementation, and regulation of emerging air vehicles such as eVTOLs and personal drones."
+    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 is aimed at mitigating the negative effects of artificial intelligence on the environment. The act likely includes policies and regulations to minimize AI's ecological footprint."
   },
   {
-    "title": "First Rhode Island Regiment Congressional Gold Medal Act",
-    "date": "2026-06-12",
-    "action": "Message on Senate action sent to the House.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
+    "title": "Right to Record Act of 2026",
+    "date": "2026-06-08",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9189?format=json",
     "source": "US Congress",
-    "summary": "This policy aims to provide the Congressional Gold Medal to the First Rhode Island Regiment for its role in the American Revolutionary War and its contributions to the nation's history. The goal of the policy is to honor the regiment's bravery and service."
+    "summary": "The Right to Record Act of 2026 is a policy aimed at protecting individuals' rights to record and capture information in public spaces. The policy likely outlines laws and regulations surrounding recording devices and their usage in certain environments."
   },
   {
-    "title": "Secure America Act",
-    "date": "2026-06-10",
-    "action": "Became Public Law No: 119-98.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
+    "title": "Powering the Future of American Space Dominance Act",
+    "date": "2026-06-08",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9193?format=json",
     "source": "US Congress",
-    "summary": "The Secure America Act appears to be a policy aimed at enhancing national security in the United States, although its specific provisions and details are not available. Its name suggests it might include measures for protecting the country from threats both internally and externally."
-  },
-  {
-    "title": "Recruiting Families Using Data Act of 2025",
-    "date": "2026-06-12",
-    "action": "Message on Senate action sent to the House.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
-    "source": "US Congress",
-    "summary": "The Recruiting Families Using Data Act of 2025 appears to be a policy document that focuses on the responsible use of data to recruit families. Its exact provisions are unclear without further information."
-  },
-  {
-    "title": "PRESS Act",
-    "date": "2026-04-30",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4446?format=json",
-    "source": "US Congress",
-    "summary": "The PRESS Act is an unnamed AI policy document with no available description. It likely deals with regulations or laws surrounding artificial intelligence, but the specifics are unknown."
-  },
-  {
-    "title": "Economic Relief for Specialty Crops Act",
-    "date": "2026-06-02",
-    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4660?format=json",
-    "source": "US Congress",
-    "summary": "The Economic Relief for Specialty Crops Act appears to be a policy aimed at providing economic assistance to specialty crop growers. The exact details and provisions are not available due to the lack of description."
+    "summary": "The Powering the Future of American Space Dominance Act aims to enhance the United States' space capabilities and position it as a leading power in space exploration and security. The exact details and measures of the act are not specified."
   }
 ]
