@@ -30,4 +30,5 @@ def get_eu_ai_policy():
 
     print(f"Saved {len(documents)} documents to data/eu.json")
 
-get_eu_ai_policy()
+if __name__ == "__main__":
+    get_eu_ai_policy()

@@ -27,4 +27,5 @@ def get_govuk_ai_policy():
     
     print(f"Saved {len(documents)} documents to data/govuk.json")
 
-get_govuk_ai_policy() 
+if __name__ == "__main__":
+    get_govuk_ai_policy()

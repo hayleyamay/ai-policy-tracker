@@ -29,4 +29,5 @@ def get_us_ai_policy():
     
     print(f"Saved {len(documents)} documents to data/us.json")
 
-get_us_ai_policy()
+if __name__ == "__main__":
+    get_us_ai_policy()
