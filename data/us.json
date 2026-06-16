@@ -6,7 +6,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9171?format=json",
     "source": "US Congress",
-    "summary": "This act is a U.S. government appropriations bill for the Department of the Interior and environment-related agencies in fiscal year 2027. It likely outlines funding and policy decisions for these agencies."
+    "summary": "This legislation is an appropriations bill focusing on funding for the Department of the Interior, Environment, and Related Agencies for the year 2027. The act aims to provide necessary financial support for various government agencies and programs within its scope."
   },
   {
     "title": "Carnivals are Real Entertainment Act",
@@ -15,7 +15,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/2729?format=json",
     "source": "US Congress",
-    "summary": "The Carnivals are Real Entertainment Act appears to be a law that acknowledges and supports the value of carnivals as a type of legitimate entertainment. The exact specifics of the policy are unclear due to a lack of detailed information."
+    "summary": "The Carnivals are Real Entertainment Act aims to regulate and promote carnivals as a legitimate form of entertainment."
   },
   {
     "title": "Department of Homeland Security Appropriations Act, 2027",
@@ -24,7 +24,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json",
     "source": "US Congress",
-    "summary": "The Department of Homeland Security Appropriations Act, 2027 outlines federal funding allocation for the Department of Homeland Security to support its operations and initiatives. This act aims to provide the necessary resources to ensure the security and resilience of the United States."
+    "summary": "The Department of Homeland Security Appropriations Act, 2027, provides funding for the Department of Homeland Security for the 2027 fiscal year, aiming to enhance national security and public safety. This act likely outlines specific allocations for various security initiatives, programs, and agencies within the department."
   },
   {
     "title": "Next-Generation Geothermal Research and Development Act",
@@ -33,7 +33,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/8790?format=json",
     "source": "US Congress",
-    "summary": "The Next-Generation Geothermal Research and Development Act is a policy that aims to support and fund research into next-generation geothermal technology. This policy likely aims to increase the availability of geothermal energy and provide a cleaner alternative to traditional fossil fuels."
+    "summary": "This policy document, called the \"Next-Generation Geothermal Research and Development Act\", aims to promote the development of new geothermal energy technologies for the future. This act likely outlines plans for research, investment, and implementation of innovative methods to harness geothermal energy more efficiently."
   },
   {
     "title": "To amend title 49, United States Code, to grant the United States Virgin Islands and Puerto Rico eligibility to issue commercial driver's licenses, and for other purposes.",
@@ -42,7 +42,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/5656?format=json",
     "source": "US Congress",
-    "summary": "This policy aims to allow Puerto Rico and the United States Virgin Islands to issue commercial driver's licenses. The change is part of a broader update to US law."
+    "summary": "This bill aims to grant commercial driver's license eligibility to residents of the US Virgin Islands and Puerto Rico. It also includes provisions for other purposes, though the specific details are not specified."
   },
   {
     "title": "Natural GAS Act of 2025",
@@ -51,7 +51,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/1281?format=json",
     "source": "US Congress",
-    "summary": "The Natural GAS Act of 2025 is a proposed legislation that likely aims to regulate or manage natural gas resources. The exact specifics and goals of the act are not specified."
+    "summary": "The Natural GAS Act of 2025 is a policy document that likely focuses on legislation affecting the natural gas industry. However, the actual details of the policy are unknown without further description or information."
   },
   {
     "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
@@ -60,7 +60,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/8646?format=json",
     "source": "US Congress",
-    "summary": "This act is an appropriations bill that allocates funds to various government agencies involved in agriculture, rural development, and food and drug regulation. It aims to support these sectors through funding allocations as part of the 2027 federal budget."
+    "summary": "This document outlines the appropriations for various government agencies involved in agricultural and food-related programs, with the primary focus on allocating funds for the fiscal year 2027. The act aims to support and regulate the development of agriculture, rural areas, and food safety through the allocation of these funds."
   },
   {
     "title": "To permanently extend the exemption from the engine compartment portion of the pre-trip vehicle inspection skills testing requirement for school bus drivers, and for other purposes.",
@@ -69,7 +69,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/2360?format=json",
     "source": "US Congress",
-    "summary": "This policy aims to prolong a specific exemption from pre-trip inspections for school bus drivers. It appears to be related to vehicle safety regulations and the qualifications of school bus drivers."
+    "summary": "This document proposes a permanent exemption from a specific vehicle safety inspection requirement for school bus drivers in the engine compartment during skills testing. The intention is likely to improve efficiency and reduce administrative burdens for school bus drivers."
   },
   {
     "title": "To amend the Marine Mammal Protection Act of 1972 to allow the transport, purchase, and sale of pelts of, and handicrafts, garments, and art produced from, Southcentral and Southeast Alaska northern sea otters that are taken for subsistence purposes.",
@@ -78,7 +78,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/8401?format=json",
     "source": "US Congress",
-    "summary": "This policy amends the Marine Mammal Protection Act to allow the sale and trade of certain Alaska northern sea otter products for subsistence purposes. It specifically focuses on the transport, purchase, and sale of items like pelts and handicrafts made from these otters in specific Alaska regions."
+    "summary": "This policy aims to amend the Marine Mammal Protection Act to allow the trade of southcentral and southeast Alaskan sea otter products, taken for subsistence purposes. The changes would likely permit the sale and purchase of sea otter items such as pelts, handicrafts, and garments."
   },
   {
     "title": "ARTIST Act",
@@ -87,7 +87,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/254?format=json",
     "source": "US Congress",
-    "summary": "The ARTIST Act is a policy document with no provided description, but its title suggests it may relate to supporting artists or creatives through the use of advanced technologies and regulations."
+    "summary": "The ARTIST Act is a policy aimed at promoting and supporting artists and creatives across various industries with its initiatives and programs. The details of the policy are not provided, but it implies a focus on artistic and creative talent development and support."
   },
   {
     "title": "Highway Funding Transferability Improvement Act",
@@ -96,7 +96,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/1733?format=json",
     "source": "US Congress",
-    "summary": "The Highway Funding Transferability Improvement Act aims to improve the transferability of highway funding to support more efficient and effective use of available funds. The exact details of the policy are not specified, but it suggests a potential reorganization of how highway funding is allocated and utilized."
+    "summary": "The Highway Funding Transferability Improvement Act aims to improve the transferability of highway funding between states. However, the specifics of the act's goals and implementation are not described in the provided information."
   },
   {
     "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
@@ -105,7 +105,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
     "source": "US Congress",
-    "summary": "This act is a government spending bill that likely funds departments of Labor, Health and Human Services, and Education for the year 2027. The bill likely appropriates funds for various programs and initiatives within these departments."
+    "summary": "This policy document appears to be an appropriation bill for federal funding related to labor, health services, education, and other associated areas for the year 2027. The bill likely outlines specific allocations and regulations for government spending in these sectors."
   },
   {
     "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
@@ -114,7 +114,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/1?format=json",
     "source": "US Congress",
-    "summary": "This act addresses a reconciliation plan in accordance with Title II of House Concurrent Resolution 14. The specifics of the act are not provided due to a lack of description."
+    "summary": "This document appears to be a policy about reconciliation, likely in a governmental context, and is related to a Congressional resolution. It doesn't provide further details due to lack of description."
   },
   {
     "title": "Small Business Technological Act of 2025",
@@ -123,7 +123,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/915?format=json",
     "source": "US Congress",
-    "summary": "The Small Business Technological Act of 2025 aims to support and enhance technology capabilities for small businesses in the US. However, without further specifics, its exact provisions and goals remain unclear."
+    "summary": "Based on the title, here's a 2-sentence summary: The Small Business Technological Act of 2025 aims to help small businesses adopt and utilize technology to improve their operations. The specifics of the policy are unknown, but it likely involves some form of support or regulation for small businesses in the tech sector."
   },
   {
     "title": "Advanced Air Mobility Coordination and Leadership Act",
@@ -132,7 +132,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/117/s/516?format=json",
     "source": "US Congress",
-    "summary": "The Advanced Air Mobility Coordination and Leadership Act aims to coordinate and provide leadership in the development and implementation of advanced air mobility technology. Its focus is on establishing a framework for safe and efficient integration of advanced air mobility systems into the national airspace."
+    "summary": "The Advanced Air Mobility Coordination and Leadership Act is a policy aimed at coordinating efforts to advance air mobility technology in the US. It likely focuses on the development, implementation, and regulation of emerging air vehicles such as eVTOLs and personal drones."
   },
   {
     "title": "First Rhode Island Regiment Congressional Gold Medal Act",
@@ -141,7 +141,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/567?format=json",
     "source": "US Congress",
-    "summary": "The First Rhode Island Regiment Congressional Gold Medal Act is a law that likely involves awarding a Congressional Gold Medal to a specific group, but no further information is available about the specifics of the award. It is presumably related to the history and service of the First Rhode Island Regiment."
+    "summary": "This policy aims to provide the Congressional Gold Medal to the First Rhode Island Regiment for its role in the American Revolutionary War and its contributions to the nation's history. The goal of the policy is to honor the regiment's bravery and service."
   },
   {
     "title": "Secure America Act",
@@ -150,7 +150,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/2?format=json",
     "source": "US Congress",
-    "summary": "The Secure America Act is a policy aimed at improving national security in the United States to protect its citizens and interests."
+    "summary": "The Secure America Act appears to be a policy aimed at enhancing national security in the United States, although its specific provisions and details are not available. Its name suggests it might include measures for protecting the country from threats both internally and externally."
   },
   {
     "title": "Recruiting Families Using Data Act of 2025",
@@ -159,7 +159,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/162?format=json",
     "source": "US Congress",
-    "summary": "The Recruiting Families Using Data Act of 2025 is a policy that likely deals with the use of data to recruit families for various purposes. The exact scope and intent of the policy are not specified."
+    "summary": "The Recruiting Families Using Data Act of 2025 appears to be a policy document that focuses on the responsible use of data to recruit families. Its exact provisions are unclear without further information."
   },
   {
     "title": "PRESS Act",
@@ -168,7 +168,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/4446?format=json",
     "source": "US Congress",
-    "summary": "The PRESS Act is a proposed law that outlines guidelines for the use and regulation of artificial intelligence systems. However, without more information, its specific details and implications are unknown."
+    "summary": "The PRESS Act is an unnamed AI policy document with no available description. It likely deals with regulations or laws surrounding artificial intelligence, but the specifics are unknown."
   },
   {
     "title": "Economic Relief for Specialty Crops Act",
@@ -177,6 +177,6 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/4660?format=json",
     "source": "US Congress",
-    "summary": "The Economic Relief for Specialty Crops Act aims to provide financial assistance to growers of specialty crops during times of economic hardship. This law likely offers funding or other forms of relief to help maintain the livelihoods of these farmers."
+    "summary": "The Economic Relief for Specialty Crops Act appears to be a policy aimed at providing economic assistance to specialty crop growers. The exact details and provisions are not available due to the lack of description."
   }
 ]
