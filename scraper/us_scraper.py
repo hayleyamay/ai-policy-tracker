@@ -1,7 +1,8 @@
 import requests 
 import json 
+import os
 def get_us_ai_policy():
-    api_key = "CrAOq4650zQ6b9vhx5ixG6iWBfjuV5lhYPzOQmUk"
+    api_key = os.environ["CONGRESS_API_KEY"]
     url = f"https://api.congress.gov/v3/bill?query=artificial+intelligence&sort=updateDate+desc&api_key={api_key}"
 
     headers = {
