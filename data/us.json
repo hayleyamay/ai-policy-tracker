@@ -6,7 +6,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/1468?format=json",
     "source": "US Congress",
-    "summary": "The Protect America's Innovation and Economic Security from CCP Act aims to safeguard US innovation and economic interests from potential threats posed by the Chinese Communist Party (CCP). The policy likely entails measures to counter Chinese influence in the US, particularly in areas such as technology and trade."
+    "summary": "The \"Protect America's Innovation and Economic Security from CCP Act\" is a policy aimed at safeguarding US innovation and economic security from the potential threats of the Chinese Communist Party. It likely involves measures to counter China's influence, protect US intellectual property, and promote American competitiveness in key industries."
   },
   {
     "title": "A resolution expressing support for the designation of the month of June 2026 as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2026, as \"National Post-Traumatic Stress Awareness Day\".",
@@ -15,7 +15,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/sres/758?format=json",
     "source": "US Congress",
-    "summary": "This resolution supports making June 2026 \"National Post-Traumatic Stress Awareness Month\" and June 27 a special awareness day. The goal is to draw attention to mental health issues stemming from traumatic experiences."
+    "summary": "This policy calls for national recognition of post-traumatic stress awareness. It advocates for June 2026 to be \"National Post-Traumatic Stress Awareness Month\" and June 27, 2026, to be \"National Post-Traumatic Stress Awareness Day.\""
   },
   {
     "title": "National Defense Authorization Act for Fiscal Year 2026",
@@ -24,7 +24,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/2296?format=json",
     "source": "US Congress",
-    "summary": "The National Defense Authorization Act for Fiscal Year 2026 outlines plans and funding for military activities in the US for the 2026 financial year. The document aims to provide a framework for the defense budget and policies of the US government for 2026."
+    "summary": "This policy document appears to be a law outlining the authorization and funding for the US military's defense programs and activities for the 2026 fiscal year. It likely includes provisions for military spending, personnel, procurement, and other defense-related matters."
   },
   {
     "title": "A bill to expand the mission of the Export-Import Bank of the United States and focus on building export-related domestic critical industries that produce goods and services that support employment in the United States and strengthen global competitiveness, and for other purposes.",
@@ -33,7 +33,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/s/4781?format=json",
     "source": "US Congress",
-    "summary": "This bill aims to expand the Export-Import Bank's mission to support domestic industries involved in exporting goods and services. Its goal is to create US employment opportunities and boost global competitiveness."
+    "summary": "This bill aims to expand the Export-Import Bank's mission to support domestic critical industries that create US jobs and increase global competitiveness. The ultimate goal is to strengthen the US economy through exports and job creation."
   },
   {
     "title": "Returning Senate Joint Resolution 3 to the Senate.",
@@ -42,7 +42,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hres/212?format=json",
     "source": "US Congress",
-    "summary": "The Senate Joint Resolution 3 is being returned to the Senate, but it's unclear why. The specifics of this action cannot be determined without further information."
+    "summary": "The document is about formally returning a proposed Senate resolution to its original place in the Senate process, allowing further consideration and action. It's a procedural step that doesn't necessarily imply approval or rejection of the resolution's contents."
   },
   {
     "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
@@ -51,7 +51,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hjres/25?format=json",
     "source": "US Congress",
-    "summary": "This policy aims to allow Congress to disapprove of an IRS rule about how brokers report the proceeds of digital asset sales. The rule reportedly deals with brokers who regularly facilitate sales of digital assets."
+    "summary": "This bill aims to block a new rule from the IRS regarding how digital asset sales are reported to the government. The proposed rule changes how brokers report gross proceeds from digital asset sales to the IRS."
   },
   {
     "title": "Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship or nationality of, or otherwise owes allegiance to, a country other than the United States from serving as a Representative or Senator in Congress, a Judge of the Supreme Court or any inferior court, an Ambassador, public Minister or Consul, or any other officer of the United States which requires the advice and consent of the Senate, or the President or Vice President unless the person formally and permanently relinquishes such citizenship, nationality, or allegiance.",
@@ -60,7 +60,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hjres/194?format=json",
     "source": "US Congress",
-    "summary": "This policy proposes amending the US Constitution to limit certain government positions, such as Congress and Supreme Court judges, to US citizens only. The amendment would require individuals with dual citizenship to renounce their non-US allegiance before holding these offices."
+    "summary": "This amendment proposes adding a citizenship requirement to certain US government positions to ensure those serving have an exclusive allegiance to the United States. It aims to prevent people with dual citizenship or foreign allegiances from holding key government roles."
   },
   {
     "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
@@ -69,7 +69,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/sjres/80?format=json",
     "source": "US Congress",
-    "summary": "This document outlines a US congressional resolution disapproving a rule made by the Bureau of Land Management. The rule pertains to the National Petroleum Reserve in Alaska, an area where oil and gas reserves are managed."
+    "summary": "This document outlines a US Congress attempt to reject a rule made by the Bureau of Land Management that involves a plan for the National Petroleum Reserve in Alaska. The plan aims to manage the reserve's activities."
   },
   {
     "title": "Subpoena Abuse Prevention Act",
@@ -78,7 +78,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/8966?format=json",
     "source": "US Congress",
-    "summary": "The Subpoena Abuse Prevention Act is a policy that aims to prevent misuse of subpoenas, which are court orders requiring individuals or organizations to provide evidence or testimony. The details of its implementation and scope are not available."
+    "summary": "The Subpoena Abuse Prevention Act aims to prevent misuse of subpoenas and protect individuals from undue investigation or prosecution. This likely involves setting limits or regulations to ensure law enforcement and other entities do not issue excessive or unjustified subpoenas."
   },
   {
     "title": "Equitable Access to School Facilities Act",
@@ -87,7 +87,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/7086?format=json",
     "source": "US Congress",
-    "summary": "The Equitable Access to School Facilities Act aims to provide fair access to school facilities for all students, regardless of their background or status. The law ensures that schools are inclusive and accommodate the needs of everyone."
+    "summary": "The Equitable Access to School Facilities Act is a policy aiming to ensure that all individuals have equal access to school facilities. However, due to the lack of description, it's unclear what specific facilities or circumstances the act addresses."
   },
   {
     "title": "Critical Minerals Supply Chain Resiliency Act of 2026",
@@ -96,7 +96,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/5929?format=json",
     "source": "US Congress",
-    "summary": "The Critical Minerals Supply Chain Resiliency Act of 2026 aims to make critical mineral supply chains in the United States more resilient and secure. It is an unidentified law designed to strengthen America's reliance on essential minerals."
+    "summary": "The Critical Minerals Supply Chain Resiliency Act of 2026 aims to strengthen the security and reliability of critical minerals supply chains. This act likely focuses on measures to mitigate potential disruptions in the supply of essential minerals."
   },
   {
     "title": "FLEX Act",
@@ -105,7 +105,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/7082?format=json",
     "source": "US Congress",
-    "summary": "The FLEX Act aims to provide a framework for flexible work arrangements, allowing employees to have more control over their work-life balance. The policy is likely to benefit employees by giving them autonomy to manage their time and employers by improving retention and productivity."
+    "summary": "Unfortunately, with no description available, a summary is difficult to create. However, the title 'FLEX Act' implies a flexible policy or law, likely designed to grant people or entities more ability to adapt. \n\nHere is a 2 sentence plain English summary:\n\nThe FLEX Act is a policy or law that aims to provide flexibility to certain groups or entities. The exact details and purpose of the FLEX Act remain unclear due to the lack of available information."
   },
   {
     "title": "Empower Charter School Educators to Lead Act",
@@ -114,7 +114,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/3453?format=json",
     "source": "US Congress",
-    "summary": "This act aims to empower educators at charter schools to take on leading roles and make better decisions for the education of their students. Its specific provisions and objectives are currently unknown due to lack of available information."
+    "summary": "The Empower Charter School Educators to Lead Act aims to empower educators at charter schools, but its specific details are not provided in the title or description."
   },
   {
     "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
@@ -123,7 +123,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
     "source": "US Congress",
-    "summary": "This document outlines appropriations for the Departments of Labor, Health and Human Services, and Education for the 2027 fiscal year, providing funding for various government programs and agencies. It likely allocates budget allocations and sets spending policies for these departments."
+    "summary": "The Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027 aims to provide funding for various government departments that support workforce development, healthcare, and education programs. It is an appropriations act that outlines how funds will be allocated to these departments for the fiscal year 2027."
   },
   {
     "title": "A resolution expressing support for the designation of July 2026 as \"National Sarcoma Awareness Month\".",
@@ -132,7 +132,7 @@
     "chamber": "Senate",
     "url": "https://api.congress.gov/v3/bill/119/sres/765?format=json",
     "source": "US Congress",
-    "summary": "This document is a resolution from an organization expressing their support to officially recognize July 2026 as a month to raise awareness about sarcoma, a type of cancer. The goal of this recognition is to bring attention to the condition and potentially support further research and education."
+    "summary": "This policy aims to express support for designating July 2026 as \"National Sarcoma Awareness Month\". The goal is to raise awareness about sarcomas, a rare type of cancer, during the designated month."
   },
   {
     "title": "Military Readiness Permitting Efficiency Act of 2026",
@@ -141,7 +141,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9188?format=json",
     "source": "US Congress",
-    "summary": "The Military Readiness Permitting Efficiency Act of 2026 aims to reduce bureaucratic delays in obtaining permits and approvals for military operations, ensuring a smoother and more efficient process for military readiness. This act seeks to streamline permitting processes to better support national defense efforts."
+    "summary": "The Military Readiness Permitting Efficiency Act of 2026 aims to improve the efficiency of permitting processes for military readiness activities. This act likely seeks to facilitate smoother operations and quicker decision-making for military-related projects."
   },
   {
     "title": "Prior Authorization Reform for Autoimmune and Blood Disorders Act",
@@ -150,7 +150,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9192?format=json",
     "source": "US Congress",
-    "summary": "The Prior Authorization Reform for Autoimmune and Blood Disorders Act aims to simplify the process of getting approval for treatments for autoimmune and blood disorders. This likely involves reducing bureaucratic hurdles or requirements for patients to access necessary medication."
+    "summary": "The Prior Authorization Reform for Autoimmune and Blood Disorders Act aims to simplify healthcare access for people with autoimmune and blood disorders by reducing bureaucratic hurdles in the approval process. The proposed legislation seeks to bring about more streamlined and efficient prior authorization requirements."
   },
   {
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
@@ -159,7 +159,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9183?format=json",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 is aimed at mitigating the negative effects of artificial intelligence on the environment. The act likely includes policies and regulations to minimize AI's ecological footprint."
+    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 aims to address the environmental effects of artificial intelligence systems. This act likely establishes regulations to mitigate the negative environmental consequences of AI."
   },
   {
     "title": "Right to Record Act of 2026",
@@ -168,7 +168,7 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9189?format=json",
     "source": "US Congress",
-    "summary": "The Right to Record Act of 2026 is a policy aimed at protecting individuals' rights to record and capture information in public spaces. The policy likely outlines laws and regulations surrounding recording devices and their usage in certain environments."
+    "summary": "The Right to Record Act of 2026 is a law that protects the rights of individuals to record and capture images or sounds, likely in public places. This law likely imposes restrictions on who can restrict or prevent such recordings from being made, and may have implications for law enforcement, surveillance, and individual freedoms."
   },
   {
     "title": "Powering the Future of American Space Dominance Act",
@@ -177,6 +177,6 @@
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9193?format=json",
     "source": "US Congress",
-    "summary": "The Powering the Future of American Space Dominance Act aims to enhance the United States' space capabilities and position it as a leading power in space exploration and security. The exact details and measures of the act are not specified."
+    "summary": "The Powering the Future of American Space Dominance Act is a proposed law aimed at advancing American space capabilities. The exact details and goals of the act are unknown without further information."
   }
 ]
