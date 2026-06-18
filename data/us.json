@@ -4,7 +4,7 @@
     "date": "2026-06-03",
     "action": "Placed on the Union Calendar, Calendar No. 594.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8881?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
     "source": "US Congress"
   },
   {
@@ -12,7 +12,7 @@
     "date": "2026-06-02",
     "action": "Read twice and referred to the Committee on Armed Services.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4656?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4656",
     "source": "US Congress"
   },
   {
@@ -20,7 +20,7 @@
     "date": "2026-06-11",
     "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4762?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4762",
     "source": "US Congress"
   },
   {
@@ -28,7 +28,7 @@
     "date": "2026-06-08",
     "action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9183?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
     "source": "US Congress"
   },
   {
@@ -36,7 +36,7 @@
     "date": "2026-05-19",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8893?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
     "source": "US Congress"
   },
   {
@@ -44,7 +44,7 @@
     "date": "2026-06-15",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9326?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9326",
     "source": "US Congress"
   },
   {
@@ -52,7 +52,7 @@
     "date": "2026-06-15",
     "action": "Referred to the House Committee on Oversight and Government Reform.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9323?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
     "source": "US Congress"
   },
   {
@@ -60,7 +60,7 @@
     "date": "2026-04-23",
     "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8479?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8479",
     "source": "US Congress"
   },
   {
@@ -68,7 +68,7 @@
     "date": "2026-06-11",
     "action": "Referred to the House Committee on Energy and Commerce.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9285?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9285",
     "source": "US Congress"
   },
   {
@@ -76,7 +76,7 @@
     "date": "2026-06-11",
     "action": "Referred to the House Committee on the Judiciary.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9279?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9279",
     "source": "US Congress"
   },
   {
@@ -84,7 +84,7 @@
     "date": "2026-06-11",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9307?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9307",
     "source": "US Congress"
   },
   {
@@ -92,7 +92,7 @@
     "date": "2026-06-11",
     "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4770?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4770",
     "source": "US Congress"
   },
   {
@@ -100,7 +100,7 @@
     "date": "2026-03-19",
     "action": "Placed on the House Calendar, Calendar No. 67.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/1007?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1007",
     "source": "US Congress"
   },
   {
@@ -108,7 +108,7 @@
     "date": "2026-02-24",
     "action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/3679?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/3679",
     "source": "US Congress"
   },
   {
@@ -116,7 +116,7 @@
     "date": "2026-06-10",
     "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4743?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4743",
     "source": "US Congress"
   },
   {
@@ -124,7 +124,7 @@
     "date": "2026-06-10",
     "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4742?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4742",
     "source": "US Congress"
   },
   {
@@ -132,7 +132,7 @@
     "date": "2025-09-10",
     "action": "Referred to the House Committee on House Administration.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5272?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
     "source": "US Congress"
   },
   {
@@ -140,7 +140,7 @@
     "date": "2026-05-21",
     "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4627?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4627",
     "source": "US Congress"
   },
   {
@@ -148,7 +148,7 @@
     "date": "2026-06-09",
     "action": "Read twice and referred to the Committee on Environment and Public Works.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4727?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
     "source": "US Congress"
   },
   {
@@ -156,7 +156,7 @@
     "date": "2026-03-17",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7968?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/7968",
     "source": "US Congress"
   },
   {
@@ -164,7 +164,7 @@
     "date": "2026-06-08",
     "action": "Read twice and referred to the Committee on Armed Services.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4707?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
     "source": "US Congress"
   },
   {
@@ -172,7 +172,7 @@
     "date": "2026-04-22",
     "action": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8283?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
     "source": "US Congress"
   },
   {
@@ -180,7 +180,7 @@
     "date": "2025-09-15",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5351?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
     "source": "US Congress"
   },
   {
@@ -188,7 +188,7 @@
     "date": "2025-12-09",
     "action": "Referred to the House Committee on Energy and Commerce.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/6529?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "source": "US Congress"
   },
   {
@@ -196,7 +196,7 @@
     "date": "2026-06-03",
     "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9125?format=json",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
     "source": "US Congress"
   }
 ]

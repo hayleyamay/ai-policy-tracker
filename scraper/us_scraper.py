@@ -38,12 +38,30 @@ def get_us_ai_policy():
             for item in bills:
                 title = item.get("title", "")
                 if any(keyword in title.lower() for keyword in ai_keywords):
+                    congress = item.get("congress", "")
+                    bill_type = item.get("type", "").lower()
+                    number = item.get("number", "")
+
+                    type_map = {
+                        "hr": "house-bill",
+                        "s": "senate-bill",
+                        "hjres": "house-joint-resolution",
+                        "sjres": "senate-joint-resolution",
+                        "hconres": "house-concurrent-resolution",
+                        "sconres": "senate-concurrent-resolution",
+                        "hres": "house-resolution",
+                        "sres": "senate-resolution"
+                    }
+
+                    bill_type_url = type_map.get(bill_type, bill_type)
+                    public_url = f"https://www.congress.gov/bill/{congress}th-congress/{bill_type_url}/{number}"
+
                     document = {
                         "title": title,
                         "date": item.get("latestAction", {}).get("actionDate", "No date"),
                         "action": item.get("latestAction", {}).get("text", "No action recorded"),
                         "chamber": item.get("originChamber", "Unknown"),
-                        "url": item.get("url", ""),
+                        "url": public_url,
                         "source": "US Congress"
                     }
                     documents.append(document)
