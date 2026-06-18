@@ -1,156 +1,27 @@
 [
   {
-    "title": "Protect America\u2019s Innovation and Economic Security from CCP Act",
-    "date": "2026-06-15",
-    "action": "Placed on the Union Calendar, Calendar No. 607.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/1468?format=json",
-    "source": "US Congress",
-    "summary": "This policy aims to protect America's innovation and economic security from China. The name suggests it targets the Chinese Communist Party (CCP) in some way."
-  },
-  {
-    "title": "A resolution expressing support for the designation of the month of June 2026 as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2026, as \"National Post-Traumatic Stress Awareness Day\".",
-    "date": "2026-06-08",
-    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2670; text: CR S2666)",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/758?format=json",
-    "source": "US Congress",
-    "summary": "This policy expresses support for recognizing June 2026 as \"National Post-Traumatic Stress Awareness Month.\" It also advocates for June 27, 2026, to be designated as \"National Post-Traumatic Stress Awareness Day.\""
-  },
-  {
-    "title": "National Defense Authorization Act for Fiscal Year 2026",
-    "date": "2025-11-12",
-    "action": "Held at the desk.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/2296?format=json",
-    "source": "US Congress",
-    "summary": "The National Defense Authorization Act for Fiscal Year 2026 outlines the rules and budget for the US defense department for the 2026 financial year. The document likely authorizes funding and sets policies for the country's national defense."
-  },
-  {
-    "title": "A bill to expand the mission of the Export-Import Bank of the United States and focus on building export-related domestic critical industries that produce goods and services that support employment in the United States and strengthen global competitiveness, and for other purposes.",
-    "date": "2026-06-15",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S2786-2791; Sponsor introductory remarks on measure: CR S2786)",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/s/4781?format=json",
-    "source": "US Congress",
-    "summary": "This bill aims to expand the mission of the Export-Import Bank of the United States, focusing on domestic industries that support US employment and global competitiveness. It also has additional purposes not specified in the provided title."
-  },
-  {
-    "title": "Returning Senate Joint Resolution 3 to the Senate.",
-    "date": "2025-03-11",
-    "action": "Motion to reconsider laid on the table Agreed to without objection.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hres/212?format=json",
-    "source": "US Congress",
-    "summary": "This is a document regarding a Senate joint resolution being returned to the Senate, but lacks further information to provide a detailed summary."
-  },
-  {
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
-    "date": "2025-04-10",
-    "action": "Became Public Law No: 119-5.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hjres/25?format=json",
-    "source": "US Congress",
-    "summary": "This document is a proposal to disapprove a tax rule submitted by the Internal Revenue Service regarding digital asset sales. The rule in question deals with brokers reporting gross proceeds from digital asset transactions."
-  },
-  {
-    "title": "Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship or nationality of, or otherwise owes allegiance to, a country other than the United States from serving as a Representative or Senator in Congress, a Judge of the Supreme Court or any inferior court, an Ambassador, public Minister or Consul, or any other officer of the United States which requires the advice and consent of the Senate, or the President or Vice President unless the person formally and permanently relinquishes such citizenship, nationality, or allegiance.",
+    "title": "SBA Artificial Intelligence Utilization Act of 2026",
     "date": "2026-06-03",
-    "action": "Referred to the House Committee on the Judiciary.",
+    "action": "Placed on the Union Calendar, Calendar No. 594.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hjres/194?format=json",
-    "source": "US Congress",
-    "summary": "This policy aims to ban people with dual citizenship or foreign allegiances from holding high-level US government positions such as Congress members, Supreme Court judges, ambassadors, and officers that require Senate confirmation. The goal is to ensure that key US government roles are held only by people with a single, permanent commitment to the United States."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8881?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-    "date": "2025-12-05",
-    "action": "Became Public Law No: 119-47.",
-    "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sjres/80?format=json",
-    "source": "US Congress",
-    "summary": "This policy document is about a joint resolution to disapprove a rule by the Bureau of Land Management regarding Alaska's National Petroleum Reserve. The resolution seeks to block a decision on the management of this reserve."
-  },
-  {
-    "title": "Subpoena Abuse Prevention Act",
-    "date": "2026-05-21",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/8966?format=json",
-    "source": "US Congress",
-    "summary": "The Subpoena Abuse Prevention Act is a law designed to prevent the misuse of subpoenas. It aims to protect individuals and organizations from being harassed or unfairly targeted with excessive legal requests."
-  },
-  {
-    "title": "Equitable Access to School Facilities Act",
+    "title": "Secure and Accountable Military AI Act of 2026",
     "date": "2026-06-02",
-    "action": "Placed on the Union Calendar, Calendar No. 586.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7086?format=json",
-    "source": "US Congress",
-    "summary": "The Equitable Access to School Facilities Act aims to provide fair access to school facilities for all students, promoting equal opportunities. This act focuses on ensuring that all students have equal access to resources and facilities regardless of their background or demographic."
-  },
-  {
-    "title": "Critical Minerals Supply Chain Resiliency Act of 2026",
-    "date": "2026-06-09",
-    "action": "Placed on the Union Calendar, Calendar No. 602.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/5929?format=json",
-    "source": "US Congress",
-    "summary": "The Critical Minerals Supply Chain Resiliency Act of 2026 is a legislation aimed at enhancing the reliability and security of the United States' supply chain for critical minerals. This likely involves policies to mitigate risks and dependencies on foreign suppliers."
-  },
-  {
-    "title": "FLEX Act",
-    "date": "2026-05-13",
-    "action": "Placed on the Union Calendar, Calendar No. 566.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/7082?format=json",
-    "source": "US Congress",
-    "summary": "The FLEX Act seems to be a policy or legislation that aims to introduce flexibility to existing rules, but more information is needed for a detailed understanding. The exact goals and scope of the FLEX Act cannot be determined without further information."
-  },
-  {
-    "title": "Empower Charter School Educators to Lead Act",
-    "date": "2026-01-13",
-    "action": "Placed on the Union Calendar, Calendar No. 379.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/3453?format=json",
-    "source": "US Congress",
-    "summary": "The Empower Charter School Educators to Lead Act is a policy aimed at giving more authority and autonomy to charter school educators. However, a detailed description of the policy's provisions or goals is not available."
-  },
-  {
-    "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2027",
-    "date": "2026-06-11",
-    "action": "Placed on the Union Calendar, Calendar No. 604.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9260?format=json",
-    "source": "US Congress",
-    "summary": "This policy document outlines the budget and spending allocations for departments of labor, health, and education for 2027. It appears to be a federal appropriations act that guides the funding for various government programs related to these areas."
-  },
-  {
-    "title": "A resolution expressing support for the designation of July 2026 as \"National Sarcoma Awareness Month\".",
-    "date": "2026-06-09",
-    "action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2705; text: CR S2703)",
+    "action": "Read twice and referred to the Committee on Armed Services.",
     "chamber": "Senate",
-    "url": "https://api.congress.gov/v3/bill/119/sres/765?format=json",
-    "source": "US Congress",
-    "summary": "This policy aims to raise awareness for a specific type of cancer, encouraging people to support its designation as a national awareness month in July 2026. The goal is to promote education and understanding about sarcomas, a rare and often misunderstood form of cancer."
+    "url": "https://api.congress.gov/v3/bill/119/s/4656?format=json",
+    "source": "US Congress"
   },
   {
-    "title": "Military Readiness Permitting Efficiency Act of 2026",
-    "date": "2026-06-08",
-    "action": "Referred to the House Committee on Armed Services.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9188?format=json",
-    "source": "US Congress",
-    "summary": "The Military Readiness Permitting Efficiency Act of 2026 aims to improve the efficiency of permitting processes for military readiness activities. This act likely seeks to create a system that simplifies and expedites the permitting process to support military operations."
-  },
-  {
-    "title": "Prior Authorization Reform for Autoimmune and Blood Disorders Act",
-    "date": "2026-06-08",
-    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9192?format=json",
-    "source": "US Congress",
-    "summary": "The Prior Authorization Reform for Autoimmune and Blood Disorders Act aims to reform the prior authorization process for individuals suffering from autoimmune and blood disorders. This potentially involves changing regulations to simplify or expedite approval for medical treatments."
+    "title": "A bill to require the Secretary of Homeland Security to conduct annual assessments on threats to the United States posed by the use of generative artificial intelligence for terrorism, and for other purposes.",
+    "date": "2026-06-11",
+    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4762?format=json",
+    "source": "US Congress"
   },
   {
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
@@ -158,25 +29,174 @@
     "action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "chamber": "House",
     "url": "https://api.congress.gov/v3/bill/119/hr/9183?format=json",
-    "source": "US Congress",
-    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 is a policy intended to address the environmental effects caused by artificial intelligence. It likely aims to establish guidelines or regulations to mitigate these negative impacts and promote sustainable AI development."
+    "source": "US Congress"
   },
   {
-    "title": "Right to Record Act of 2026",
-    "date": "2026-06-08",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9189?format=json",
-    "source": "US Congress",
-    "summary": "The Right to Record Act of 2026 is a law that gives individuals the right to record and share public information. The full details and implications of the law are not specified."
-  },
-  {
-    "title": "Powering the Future of American Space Dominance Act",
-    "date": "2026-06-08",
+    "title": "Protecting Consumers from Deceptive AI Act",
+    "date": "2026-05-19",
     "action": "Referred to the House Committee on Science, Space, and Technology.",
     "chamber": "House",
-    "url": "https://api.congress.gov/v3/bill/119/hr/9193?format=json",
-    "source": "US Congress",
-    "summary": "The Powering the Future of American Space Dominance Act aims to support American leadership in space exploration and development. The details of the policy are not available in the given information, but its title suggests a focus on space-related policies and advancements."
+    "url": "https://api.congress.gov/v3/bill/119/hr/8893?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To promote United States leadership in technical standards by directing the National Institute of Standards and Technology and the Department of State to take certain actions to encourage and enable United States participation in developing standards and specifications for artificial intelligence and other critical and emerging technologies, and for other purposes.",
+    "date": "2026-06-15",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9326?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To establish the Department of Advanced Technology and Artificial Intelligence, and for other purposes.",
+    "date": "2026-06-15",
+    "action": "Referred to the House Committee on Oversight and Government Reform.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9323?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Protecting Consumers from Deceptive AI Act",
+    "date": "2026-04-23",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8479?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Heat Emergency Assessment and Tracking using AI Act",
+    "date": "2026-06-11",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9285?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To provide for a right of action against Federal employees for violations of First Amendment rights relating to the use or development of artificial intelligence.",
+    "date": "2026-06-11",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9279?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "To require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
+    "date": "2026-06-11",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9307?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
+    "date": "2026-06-11",
+    "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4770?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financial services and housing industries.",
+    "date": "2026-03-19",
+    "action": "Placed on the House Calendar, Calendar No. 67.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hres/1007?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Small Business Artificial Intelligence Advancement Act",
+    "date": "2026-02-24",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/3679?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "A bill to require the Office of Financial Research to compel data relating to the financing of artificial intelligence development, provide that data to Congress, and issue recommendations to financial regulatory agencies and Congress to mitigate financial stability risk, and for other purposes.",
+    "date": "2026-06-10",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4743?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "A bill to authorize certain labor market data collection activities and to improve Federal measurement of the workforce impacts of artificial intelligence, and for other purposes.",
+    "date": "2026-06-10",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4742?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Protect Elections from Deceptive AI Act",
+    "date": "2025-09-10",
+    "action": "Referred to the House Committee on House Administration.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5272?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "FARM AI Act of 2026",
+    "date": "2026-05-21",
+    "action": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4627?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "A bill to require the Administrator of the Environmental Protection Agency to carry out a study on the environmental impacts of artificial intelligence data centers and associated energy infrastructure, to require the Director of the National Institute of Standards and Technology to convene a consortium on such environmental impacts, and to require the Administrator to develop a reporting system for the reporting of the environmental impacts of artificial intelligence, and for other purposes.",
+    "date": "2026-06-09",
+    "action": "Read twice and referred to the Committee on Environment and Public Works.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4727?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Small AI Innovators Empowerment Act",
+    "date": "2026-03-17",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/7968?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "A bill to amend title 10, United States Code, to establish a policy for the Department of Defense on maximizing autonomy and artificial intelligence systems, to establish requirements relating to Department review and verification of autonomous weapon systems, and artificial intelligence capabilities, and for other purposes.",
+    "date": "2026-06-08",
+    "action": "Read twice and referred to the Committee on Armed Services.",
+    "chamber": "Senate",
+    "url": "https://api.congress.gov/v3/bill/119/s/4707?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Deterring American AI Model Theft Act of 2026",
+    "date": "2026-04-22",
+    "action": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/8283?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "NSF AI Education Act of 2025",
+    "date": "2025-09-15",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/5351?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Protecting Families from AI Data Center Energy Costs Act",
+    "date": "2025-12-09",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/6529?format=json",
+    "source": "US Congress"
+  },
+  {
+    "title": "Sectoral AI Governance Act of 2026",
+    "date": "2026-06-03",
+    "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://api.congress.gov/v3/bill/119/hr/9125?format=json",
+    "source": "US Congress"
   }
 ]
