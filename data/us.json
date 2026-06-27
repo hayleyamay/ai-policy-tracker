@@ -1,219 +1,12 @@
 [
   {
-    "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-    "date": "2026-06-08",
-    "action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
-    "source": "US Congress",
-    "summary": "This document outlines a policy that aims to mitigate the environmental impacts of artificial intelligence."
-  },
-  {
-    "title": "Sectoral AI Governance Act of 2026",
-    "date": "2026-06-03",
-    "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
-    "source": "US Congress",
-    "summary": "The Sectoral AI Governance Act of 2026 is a proposed law that aims to establish regulations and guidelines for the development and use of artificial intelligence in different sectors, such as business, healthcare, finance, and education. This law likely seeks to balance the benefits of AI with concerns about safety, security, and ethics in various sectors of society."
-  },
-  {
-    "title": "To require certain artificial intelligence model developers to submit reports to the Secretary of Commerce, and for other purposes.",
-    "date": "2026-06-25",
-    "action": "Referred to the House Committee on Energy and Commerce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
-    "source": "US Congress",
-    "summary": "This policy aims to regulate certain artificial intelligence model developers by requiring them to submit reports to the Secretary of Commerce for other purposes. The policy's specific requirements and details are not available in this information."
-  },
-  {
-    "title": "Algorithmic Accountability Act of 2025",
-    "date": "2025-09-19",
-    "action": "Referred to the House Committee on Energy and Commerce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
-    "source": "US Congress",
-    "summary": "The Algorithmic Accountability Act of 2025 is a policy document aiming to establish accountability for algorithms that are used by government agencies, and possibly other organizations, with a goal of increasing transparency and preventing harm to individuals. The Act's specific provisions and goals are unclear without further information."
-  },
-  {
-    "title": "Federal Artificial Intelligence Risk Management Act of 2026",
-    "date": "2026-05-14",
-    "action": "Referred to the House Committee on Science, Space, and Technology.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8819",
-    "source": "US Congress",
-    "summary": "The Federal Artificial Intelligence Risk Management Act of 2026 is a law aimed at managing risks associated with artificial intelligence. It likely outlines policies and regulations to address potential safety and security concerns in AI development and deployment."
-  },
-  {
-    "title": "SBA Artificial Intelligence Utilization Act of 2026",
+    "title": "Protecting Families from AI Data Center Energy Costs Act",
     "date": "2026-06-24",
-    "action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+    "action": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.",
     "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "source": "US Congress",
-    "summary": "The SBA Artificial Intelligence Utilization Act of 2026 aims to establish guidelines for the use of artificial intelligence within the Small Business Administration. This act likely provides regulations or frameworks for the implementation and integration of AI within the SBA."
-  },
-  {
-    "title": "A bill to address the effects of artificial intelligence-enabled systems, including artificial intelligence chatbots, on older adults, and for other purposes.",
-    "date": "2026-06-24",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
-    "source": "US Congress",
-    "summary": "This policy document proposes a bill to address the impact of artificial intelligence (AI) on older adults. The bill aims to address the effects of AI-enabled systems, including chatbots, for the benefit of this demographic."
-  },
-  {
-    "title": "Artificial Intelligence Data Center Moratorium Act",
-    "date": "2026-06-24",
-    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
-    "source": "US Congress",
-    "summary": "The Artificial Intelligence Data Center Moratorium Act prohibits the establishment of new artificial intelligence data centers in a certain area until further notice."
-  },
-  {
-    "title": "Unleashing AI Innovation in Financial Services Act",
-    "date": "2026-06-24",
-    "action": "Placed on the Union Calendar, Calendar No. 619.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
-    "source": "US Congress",
-    "summary": "The Unleashing AI Innovation in Financial Services Act is a policy aimed at promoting the development and use of artificial intelligence in the financial industry. The exact goals and details of the policy are unknown without additional information, but it likely seeks to balance innovation with regulatory oversight."
-  },
-  {
-    "title": "To amend the National Institute of Standards and Technology Act to direct the Director of the National Institute of Standards and Technology to establish a pilot program and develop voluntary disclosure standards relating to the use of artificial intelligence systems by private sector entities, and for other purposes.",
-    "date": "2026-06-24",
-    "action": "Referred to the House Committee on Science, Space, and Technology.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9439",
-    "source": "US Congress",
-    "summary": "This policy aims to establish a pilot program at the National Institute of Standards and Technology to develop voluntary guidelines for private companies using artificial intelligence systems. The goal is to promote transparency and accountability in AI use by private sector entities."
-  },
-  {
-    "title": "China AI Power Report Act",
-    "date": "2026-01-21",
-    "action": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
-    "source": "US Congress",
-    "summary": "The China AI Power Report Act is a policy that presumably deals with the regulation and guidelines for artificial intelligence in China, but the provided information is too limited to understand its specifics."
-  },
-  {
-    "title": "To direct the Comptroller General of the United States to conduct a study on the impacts of artificial intelligence on the workforce in the United States, and for other purposes.",
-    "date": "2026-06-24",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9427",
-    "source": "US Congress",
-    "summary": "This bill directs the Comptroller General of the United States to study how artificial intelligence is affecting the workforce in the US and identify its impacts for other purposes. The goal is to understand and potentially address the effects of AI on employment and the economy."
-  },
-  {
-    "title": "Responsible Artificial Intelligence Defense Act of 2026",
-    "date": "2026-06-08",
-    "action": "Read twice and referred to the Committee on Armed Services.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
-    "source": "US Congress",
-    "summary": "The Responsible Artificial Intelligence Defense Act of 2026 aims to regulate and manage the development and use of artificial intelligence in a way that prioritizes national security and human well-being."
-  },
-  {
-    "title": "A bill to require providers of certain artificial intelligence systems to implement child safety by design, parental settings, and independent audits, to prohibit child targeted advertising and the sale or sharing of children's personal information, and for other purposes.",
-    "date": "2026-06-23",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4855",
-    "source": "US Congress",
-    "summary": "This bill aims to protect children from AI system safety risks and targeted advertising by implementing design safeguards, parental controls, and independent audits. It also prohibits the sale or sharing of children's personal information."
-  },
-  {
-    "title": "READ AI Models Act",
-    "date": "2025-12-04",
-    "action": "Referred to the House Committee on Science, Space, and Technology.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
-    "source": "US Congress",
-    "summary": "The READ AI Models Act is a policy that deals with AI models, but the exact details are unknown due to the lack of description. More information would be needed to provide a comprehensive summary of its content."
-  },
-  {
-    "title": "Workforce for AI Trust Act",
-    "date": "2026-06-18",
-    "action": "Referred to the House Committee on Science, Space, and Technology.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
-    "source": "US Congress",
-    "summary": "The Workforce for AI Trust Act is a proposed law that aims to develop and maintain trust in artificial intelligence by promoting a responsible and inclusive workforce within the AI industry. The exact details of the policy are not specified, but it likely focuses on establishing guidelines and regulations for the development and use of AI in the workforce."
-  },
-  {
-    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
-    "date": "2026-05-12",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
-    "source": "US Congress",
-    "summary": "The K-12 AI Literacy and Readiness Act of 2026 is a policy aimed at improving students' knowledge and understanding of artificial intelligence in schools from kindergarten to grade 12. The goal of the act is to prepare students for an AI-driven future by enhancing their education in this field."
-  },
-  {
-    "title": "Preventing AI Censorship Act",
-    "date": "2026-06-11",
-    "action": "Referred to the House Committee on the Judiciary.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9279",
-    "source": "US Congress",
-    "summary": "The Preventing AI Censorship Act aims to create a law protecting freedom of speech by limiting the power of Artificial Intelligence systems to censor content. This law seeks to prevent AI from suppressing or modifying user-generated content unfairly."
-  },
-  {
-    "title": "Generative AI Terrorism Risk Assessment Act",
-    "date": "2026-06-11",
-    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4762",
-    "source": "US Congress",
-    "summary": "The Generative AI Terrorism Risk Assessment Act aims to evaluate and assess the potential risks of generative AI. The policy is likely focused on mitigating or preventing any potential threats from generative AI capabilities."
-  },
-  {
-    "title": "Department of Advanced Technology and Artificial Intelligence Act",
-    "date": "2026-06-15",
-    "action": "Referred to the House Committee on Oversight and Government Reform.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
-    "source": "US Congress",
-    "summary": "This is a policy document about a new act that likely deals with regulations and guidelines for the Department of Advanced Technology and Artificial Intelligence. The specifics of the act's provisions and regulations are not yet clear."
-  },
-  {
-    "title": "Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026",
-    "date": "2026-06-11",
-    "action": "Read twice and referred to the Committee on Rules and Administration.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
-    "source": "US Congress",
-    "summary": "The Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026 is a policy aimed at preventing the misuse of artificial intelligence in elections. The act likely addresses concerns about AI-manipulated voting systems, disinformation, or other forms of AI-driven electoral interference."
-  },
-  {
-    "title": "To require reports regarding artificial intelligence-related job impacts, and for other purposes.",
-    "date": "2026-06-18",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9352",
-    "source": "US Congress",
-    "summary": "This policy aims to require reports about how artificial intelligence is affecting jobs. It also covers some other purposes, but those are not specified."
-  },
-  {
-    "title": "A bill to prohibit certain uses of automated decision systems by employers, and for other purposes.",
-    "date": "2026-06-18",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4833",
-    "source": "US Congress",
-    "summary": "This bill aims to restrict employers from using automated decision systems in certain ways. Its purpose encompasses more than just regulating automated systems for employers."
-  },
-  {
-    "title": "A bill to amend the Internal Revenue Code of 1986 to impose an excise tax on systemically important AI activity, and for other purposes.",
-    "date": "2026-06-18",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4825",
-    "source": "US Congress",
-    "summary": "This bill proposes to add a new tax on certain activities involving systems considered crucial to operations, specifically those that utilize AI technology. The bill aims to impose an additional financial burden on companies that engage in what's considered \"systemically important\" AI activity."
+    "summary": "This policy document aims to protect families from rising AI data center energy costs. The goal appears to be shielding households from financial burdens caused by the high energy expenses associated with artificial intelligence data centers."
   },
   {
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
@@ -222,7 +15,214 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 is a proposed law that aims to address the environmental effects of artificial intelligence. The exact details of the law are not available."
+    "summary": "This policy, the Artificial Intelligence Environmental Impacts Act of 2026, aims to address the potential environmental effects of artificial intelligence. It likely seeks to create regulations and guidelines to mitigate any negative impacts that AI technology may have on the environment."
+  },
+  {
+    "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+    "date": "2026-06-08",
+    "action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+    "source": "US Congress",
+    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 aims to mitigate the environmental effects caused by artificial intelligence systems. It likely establishes regulations and guidelines to minimize AI's environmental footprint."
+  },
+  {
+    "title": "To require certain artificial intelligence model developers to submit reports to the Secretary of Commerce, and for other purposes.",
+    "date": "2026-06-25",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+    "source": "US Congress",
+    "summary": "This policy aims to require certain developers of artificial intelligence models to submit reports to the US Secretary of Commerce. The policy's exact requirements and purposes are not specified in the given title."
+  },
+  {
+    "title": "To require certain artificial intelligence model developers to submit reports to the Secretary of Commerce, and for other purposes.",
+    "date": "2026-06-25",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+    "source": "US Congress",
+    "summary": "This policy aims to require certain artificial intelligence model developers to submit reports to the Secretary of Commerce. The reports would be used for unspecified \"other purposes\", suggesting further regulation and oversight of AI model developers."
+  },
+  {
+    "title": "To direct the Comptroller General of the United States to conduct a study on the impacts of artificial intelligence on the workforce in the United States, and for other purposes.",
+    "date": "2026-06-24",
+    "action": "Referred to the House Committee on Education and Workforce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9427",
+    "source": "US Congress",
+    "summary": "This policy aims to conduct a study on how artificial intelligence affects the workforce in the United States. The study will analyze the potential impacts of AI on employment in the country."
+  },
+  {
+    "title": "To amend the National Institute of Standards and Technology Act to direct the Director of the National Institute of Standards and Technology to establish a pilot program and develop voluntary disclosure standards relating to the use of artificial intelligence systems by private sector entities, and for other purposes.",
+    "date": "2026-06-24",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9439",
+    "source": "US Congress",
+    "summary": "This policy aims to direct the National Institute of Standards and Technology to create a pilot program and develop standards for private companies to openly disclose the use of artificial intelligence systems. The goal is to have a clearer understanding of how AI is being used in the private sector."
+  },
+  {
+    "title": "Artificial Intelligence Data Center Moratorium Act",
+    "date": "2026-06-24",
+    "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+    "source": "US Congress",
+    "summary": "The Artificial Intelligence Data Center Moratorium Act is a policy that establishes a temporary halt on the construction of new artificial intelligence data centers. The purpose of this moratorium is likely related to environmental, energy, or other concerns associated with the increasing demand for AI data storage and processing."
+  },
+  {
+    "title": "Sectoral AI Governance Act of 2026",
+    "date": "2026-06-03",
+    "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
+    "source": "US Congress",
+    "summary": "The Sectoral AI Governance Act of 2026 is a policy aimed at regulating Artificial Intelligence (AI) in specific sectors. The exact content and objectives of the policy are not known without further information, but it likely addresses issues such as AI safety, accountability, and ethics in different industries."
+  },
+  {
+    "title": "Algorithmic Accountability Act of 2025",
+    "date": "2025-09-19",
+    "action": "Referred to the House Committee on Energy and Commerce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
+    "source": "US Congress",
+    "summary": "The Algorithmic Accountability Act of 2025 is a policy that regulates the use and accountability of algorithms in making decisions that impact people's lives. This act aims to establish oversight and responsibility for algorithms to ensure they are fair, transparent, and free from bias."
+  },
+  {
+    "title": "Federal Artificial Intelligence Risk Management Act of 2026",
+    "date": "2026-05-14",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8819",
+    "source": "US Congress",
+    "summary": "This policy, the Federal Artificial Intelligence Risk Management Act of 2026, aims to regulate the risks associated with Artificial Intelligence. Its purpose is to establish guidelines for the safe development and use of AI technologies."
+  },
+  {
+    "title": "SBA Artificial Intelligence Utilization Act of 2026",
+    "date": "2026-06-24",
+    "action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+    "source": "US Congress",
+    "summary": "The SBA Artificial Intelligence Utilization Act of 2026 is a policy aimed at governing the use of artificial intelligence within the Small Business Administration. The specifics of the policy remain unclear due to a lack of description."
+  },
+  {
+    "title": "A bill to address the effects of artificial intelligence-enabled systems, including artificial intelligence chatbots, on older adults, and for other purposes.",
+    "date": "2026-06-24",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
+    "source": "US Congress",
+    "summary": "This policy aims to address the impact of artificial intelligence, including chatbots, on older adults and covers additional purposes related to the issue. It appears to focus on the potential effects of AI on older adults."
+  },
+  {
+    "title": "Unleashing AI Innovation in Financial Services Act",
+    "date": "2026-06-24",
+    "action": "Placed on the Union Calendar, Calendar No. 619.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+    "source": "US Congress",
+    "summary": "This document outlines a policy aimed at promoting artificial intelligence (AI) innovation in the financial services sector. The Unleashing AI Innovation in Financial Services Act likely seeks to create an environment that fosters the development and use of AI technologies in the financial industry."
+  },
+  {
+    "title": "China AI Power Report Act",
+    "date": "2026-01-21",
+    "action": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+    "source": "US Congress",
+    "summary": "The China AI Power Report Act is a proposed policy that aims to shape and direct the development of artificial intelligence in China. Without additional information, it is unclear what specific aspects of AI development this policy would regulate or support."
+  },
+  {
+    "title": "Responsible Artificial Intelligence Defense Act of 2026",
+    "date": "2026-06-08",
+    "action": "Read twice and referred to the Committee on Armed Services.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
+    "source": "US Congress",
+    "summary": "The Responsible Artificial Intelligence Defense Act of 2026 is a law aimed at regulating the development and use of artificial intelligence technology in a responsible and secure manner. It likely seeks to establish rules and guidelines for AI developers and users to ensure the technology serves the public interest rather than posing a threat."
+  },
+  {
+    "title": "READ AI Models Act",
+    "date": "2025-12-04",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+    "source": "US Congress",
+    "summary": "The READ AI Models Act is a policy that deals with AI models, but no further information is available to provide a detailed summary."
+  },
+  {
+    "title": "Workforce for AI Trust Act",
+    "date": "2026-06-18",
+    "action": "Referred to the House Committee on Science, Space, and Technology.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
+    "source": "US Congress",
+    "summary": "The Workforce for AI Trust Act is a policy aimed at establishing trust in artificial intelligence by defining a framework for the development and deployment of reliable and transparent AI systems. The act likely addresses aspects such as AI accountability, liability, and workforce training to ensure public trust in AI-driven technologies."
+  },
+  {
+    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
+    "date": "2026-05-12",
+    "action": "Referred to the House Committee on Education and Workforce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
+    "source": "US Congress",
+    "summary": "The K-12 AI Literacy and Readiness Act of 2026 aims to enhance knowledge and skills of students in the areas of artificial intelligence, ensuring they are well-equipped for the future. This act aims to make the students AI-literate and ready to work in a technologically driven workforce."
+  },
+  {
+    "title": "Preventing AI Censorship Act",
+    "date": "2026-06-11",
+    "action": "Referred to the House Committee on the Judiciary.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9279",
+    "source": "US Congress",
+    "summary": "This policy document, titled \"Preventing AI Censorship Act\", aims to address the issue of censorship in artificial intelligence, although its specific details are unavailable."
+  },
+  {
+    "title": "Generative AI Terrorism Risk Assessment Act",
+    "date": "2026-06-11",
+    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4762",
+    "source": "US Congress",
+    "summary": "The Generative AI Terrorism Risk Assessment Act is a law aimed at assessing the potential risks of generative AI systems being used for terrorist purposes. The act likely involves legislation or regulations to identify, prevent, and potentially mitigate the threat of terrorist activities facilitated by advanced AI technology."
+  },
+  {
+    "title": "Department of Advanced Technology and Artificial Intelligence Act",
+    "date": "2026-06-15",
+    "action": "Referred to the House Committee on Oversight and Government Reform.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9323",
+    "source": "US Congress",
+    "summary": "The Department of Advanced Technology and Artificial Intelligence Act is a policy that likely establishes a department or agency responsible for advanced technology and artificial intelligence. The details of the policy are not available due to a lack of description."
+  },
+  {
+    "title": "Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026",
+    "date": "2026-06-11",
+    "action": "Read twice and referred to the Committee on Rules and Administration.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4774",
+    "source": "US Congress",
+    "summary": "The Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2026 is a law aimed at preventing the use of fake or manipulated AI in elections. It likely puts regulations in place to ensure AI is used honestly and transparently in electoral processes."
+  },
+  {
+    "title": "A bill to prohibit certain uses of automated decision systems by employers, and for other purposes.",
+    "date": "2026-06-18",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4833",
+    "source": "US Congress",
+    "summary": "This document is a proposed bill that aims to restrict the use of automated decision-making systems by employers."
+  },
+  {
+    "title": "A bill to amend the Internal Revenue Code of 1986 to impose an excise tax on systemically important AI activity, and for other purposes.",
+    "date": "2026-06-18",
+    "action": "Read twice and referred to the Committee on Finance.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4825",
+    "source": "US Congress",
+    "summary": "This bill proposes to add an excise tax to certain AI-related activities considered \"systemically important.\" The tax would help fund \"other purposes\" that aren't specified in the title."
   },
   {
     "title": "Secure and Accountable Military AI Act of 2026",
@@ -231,7 +231,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4656",
     "source": "US Congress",
-    "summary": "The Secure and Accountable Military AI Act of 2026 is legislation aimed at ensuring the safe and responsible use of artificial intelligence in military contexts. It likely includes measures to maintain transparency, oversight, and accountability in the development and deployment of military AI systems."
+    "summary": "This bill aims to implement safety standards and accountability for the military use of AI technology in the United States, ensuring its secure and responsible deployment. The Act of 2026 seeks to establish clear regulations and oversight to mitigate potential risks associated with AI in military operations."
   },
   {
     "title": "Protecting Consumers from Deceptive AI Act",
@@ -240,7 +240,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
     "source": "US Congress",
-    "summary": "The Protecting Consumers from Deceptive AI Act aims to safeguard consumers from misleading AI technologies and ensure transparency in their use. This law likely establishes guidelines and regulations to prevent AI from being used in ways that deceive or harm consumers."
+    "summary": "The Protecting Consumers from Deceptive AI Act is a policy aiming to safeguard consumers from potential harm caused by deceptive artificial intelligence technologies. Its main goal is to establish guidelines and regulations that ensure AI systems are transparent, reliable, and fair."
   },
   {
     "title": "Protecting Consumers from Deceptive AI Act",
@@ -249,7 +249,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8479",
     "source": "US Congress",
-    "summary": "The Protecting Consumers from Deceptive AI Act aims to safeguard consumers from misleading or false information presented by artificial intelligence. It likely establishes regulations to hold AI developers accountable for any deceptive practices and prevent harm to consumers."
+    "summary": "This document is likely to be a law that aims to safeguard consumers from false or misleading information provided by artificial intelligence systems, ensuring transparency and preventing potential harm. The act's goal is to establish regulations and guidelines for the development and deployment of trustworthy AI technology that benefits consumers."
   },
   {
     "title": "Heat Emergency Assessment and Tracking using AI Act",
@@ -258,15 +258,6 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9285",
     "source": "US Congress",
-    "summary": "This act aims to assess and track heat emergencies using artificial intelligence. The policy likely focuses on how AI can be used to monitor and respond to heat-related crises."
-  },
-  {
-    "title": "Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financial services and housing industries.",
-    "date": "2026-03-19",
-    "action": "Placed on the House Calendar, Calendar No. 67.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1007",
-    "source": "US Congress",
-    "summary": "The US House of Representatives has expressed its stance on the use of artificial intelligence in the financial services and housing industries. The exact terms of the policy are not specified in this title."
+    "summary": "The Heat Emergency Assessment and Tracking using AI Act is a policy aimed at leveraging artificial intelligence to effectively track and assess heat emergencies. This act aims to develop a system for early detection and mitigation of heat-related crises."
   }
 ]
