@@ -5,7 +5,7 @@
     "date": "2021-05-20T13:57:16Z",
     "url": "https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-government-response-to-report",
     "source": "Gov.UK",
-    "summary": "The government has responded to a 2020 report on artificial intelligence and public standards by outlining its plans to address related issues. The specific measures detailed in the response are based on the report's recommendations and aims to shape the development of AI in line with societal values."
+    "summary": "The UK government has issued a response to recommendations made by a committee on artificial intelligence and public standards, outlining its plans to address the issues raised. The response is based on the committee's 2020 report, Artificial Intelligence and Public Standards, and outlines the government's policy direction on this topic."
   },
   {
     "title": "Report and impact assessment on Copyright and Artificial Intelligence",
@@ -13,7 +13,7 @@
     "date": "2026-03-18T11:03:00Z",
     "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "This report assesses the impact of using copyrighted materials in the development of artificial intelligence systems. It explores the potential effects of copyright laws on AI systems and their applications."
+    "summary": "This policy document reports on the use of copyrighted materials in the development of AI systems, assessing their potential impact on copyright laws. It aims to examine how the use of copyrighted works in AI creation may affect existing copyright regulations and the rights of creators."
   },
   {
     "title": "Generative artificial intelligence (AI) in education",
@@ -21,7 +21,7 @@
     "date": "2025-08-12T14:25:14Z",
     "url": "https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education",
     "source": "Gov.UK",
-    "summary": "The Department for Education's policy focuses on the responsible use of generative AI in education, aiming to balance its potential benefits with risks and concerns. This approach likely encompasses guidelines or regulations for teachers, students, and institutions to ensure safe and effective integration of generative AI in educational settings."
+    "summary": "The Department for Education has a position on the use of generative AI in education that outlines how it plans to regulate and support its use. They aim to ensure that generative AI is used in a way that complements and improves teaching and learning, rather than replacing or undermining it."
   },
   {
     "title": "Transport artificial intelligence action plan",
@@ -29,7 +29,7 @@
     "date": "2025-06-09T23:00:00Z",
     "url": "https://www.gov.uk/government/publications/transport-artificial-intelligence-action-plan",
     "source": "Gov.UK",
-    "summary": "This document outlines a plan for using artificial intelligence in transportation. It aims to balance the benefits and risks of AI in the transport sector."
+    "summary": "The Transport artificial intelligence action plan outlines how the Department for Transport (DfT) will work with the transport sector to harness the benefits and minimize the risks of artificial intelligence. This plan aims to ensure a safe and efficient integration of AI into the transport system."
   },
   {
     "title": "Copyright and artificial intelligence: progress report",
@@ -37,7 +37,7 @@
     "date": "2025-12-15T11:38:04Z",
     "url": "https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report",
     "source": "Gov.UK",
-    "summary": "This report discusses the use of copyrighted materials in the development of artificial intelligence systems, as mandated by the Data (Use and Access) Act. It appears to be an update on how AI systems are being developed using copyrighted works, possibly highlighting recent progress or key findings."
+    "summary": "This document reports on the current state of using copyrighted works in the creation of artificial intelligence systems, focusing on adherence to Section 137 of the Data (Use and Access) Act. It provides an update on the development of AI systems and their reliance on copyrighted material."
   },
   {
     "title": "The regulation of artificial intelligence as a medical device: government response to the RHC",
@@ -45,7 +45,7 @@
     "date": "2025-03-10T09:30:06Z",
     "url": "https://www.gov.uk/government/publications/the-regulation-of-artificial-intelligence-as-a-medical-device-government-response-to-the-rhc",
     "source": "Gov.UK",
-    "summary": "The government is creating regulations for the use of artificial intelligence in medical devices in response to a council's recommendations. The goal is to ensure AI medical devices are safe and effective for use in healthcare settings."
+    "summary": "The government is responding to recommendations from the Regulatory Horizons Council to regulate the use of artificial intelligence as a medical device. This policy aims to address the regulation of AI in medical contexts for safe and effective use."
   },
   {
     "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
@@ -53,7 +53,7 @@
     "date": "2024-04-23T23:00:00Z",
     "url": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
     "source": "Gov.UK",
-    "summary": "This document outlines Ofqual's approach to regulating artificial intelligence in qualifications. It aims to provide guidance on how AI will be used in the sector under Ofqual's regulation."
+    "summary": "Ofqual is developing a plan to regulate how artificial intelligence is used in qualifications, such as exams, to ensure fairness and accuracy. This approach was requested by government ministers who want to oversee the use of AI in the education sector."
   },
   {
     "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
@@ -61,7 +61,7 @@
     "date": "2021-02-22T17:35:00Z",
     "url": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The UK government has responded to a report from the House of Lords Select Committee on Artificial Intelligence, outlining its plans to address the concerns and recommendations made in the report. The government's response aims to ensure the safe and responsible development of artificial intelligence in the UK, following the committee's warnings of complacency."
+    "summary": "The UK government has responded to a report from the House of Lords Select Committee on Artificial Intelligence, highlighting the need to address concerns about the development and use of AI in the country. The response aims to address and implement recommendations to ensure the safe and responsible development of AI technology."
   },
   {
     "title": "AI and Public Standards \u2013 Terms of Reference",
@@ -69,7 +69,7 @@
     "date": "2019-03-25T09:00:01Z",
     "url": "https://www.gov.uk/government/publications/ai-and-public-standards-terms-of-reference",
     "source": "Gov.UK",
-    "summary": "This document outlines the terms of reference and frequently asked questions for a committee's review of the intersection between artificial intelligence and public standards. The committee will examine how AI aligns with or impacts public standards, such as accountability and transparency."
+    "summary": "This document sets out the terms of reference for a review into the intersection of artificial intelligence and public standards. The review aims to clarify the relationship between AI and public standards."
   },
   {
     "title": "CSPL submission to Science and Technology Committee inquiry on Governance of AI",
@@ -77,6 +77,6 @@
     "date": "2023-04-12T09:24:47Z",
     "url": "https://www.gov.uk/government/publications/cspl-submission-to-science-and-technology-committee-inquiry-on-governance-of-ai",
     "source": "Gov.UK",
-    "summary": "The Cabinet Office's Committee on Standards in Public Life (CSPL) has provided written input to a government inquiry about regulating Artificial Intelligence. This submission aims to inform the governance of AI in public life."
+    "summary": "The CSPL submitted evidence to the Science and Technology Committee's inquiry on how to govern artificial intelligence. The submission aims to provide input on guidelines for regulating AI."
   }
 ]
