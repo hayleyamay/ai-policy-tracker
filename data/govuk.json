@@ -5,7 +5,7 @@
     "date": "2021-05-20T13:57:16Z",
     "url": "https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-government-response-to-report",
     "source": "Gov.UK",
-    "summary": "The government is responding to a report on artificial intelligence and public standards by outlining its position on this issue. The response aims to address the committee's recommendations and provide a clear direction for how the government will handle AI in relation to public standards."
+    "summary": "The government has published a response to a report on Artificial Intelligence and Public Standards, outlining their approach to addressing its recommendations. The response likely details their plans and proposals to regulate and develop artificial intelligence in a way that balances public benefits with potential risks and challenges."
   },
   {
     "title": "Generative artificial intelligence (AI) in education",
@@ -13,7 +13,7 @@
     "date": "2025-08-12T14:25:14Z",
     "url": "https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education",
     "source": "Gov.UK",
-    "summary": "This policy document outlines the Department for Education's stance on using generative AI tools in educational settings. It aims to provide a framework for the responsible use of generative AI in education to support teaching and learning."
+    "summary": "The Department for Education has a policy on generative artificial intelligence in education. This policy sets out the DfE's position on the use of AI tools that generate content, such as essays and answers."
   },
   {
     "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
@@ -21,7 +21,7 @@
     "date": "2026-07-16T08:30:05Z",
     "url": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
     "source": "Gov.UK",
-    "summary": "Ofqual is creating a policy to regulate the use of artificial intelligence in qualifications. This policy was developed in response to requests from government departments concerned with education and technology."
+    "summary": "Ofqual outlines their approach to regulating artificial intelligence (AI) in qualifications, such as exams and assessments. The document aims to address the growing use of AI in this sector, as requested by the UK government's education and science ministers."
   },
   {
     "title": "Report and impact assessment on Copyright and Artificial Intelligence",
@@ -29,7 +29,7 @@
     "date": "2026-03-18T11:03:00Z",
     "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The report assesses the impact of using copyrighted material in the development of artificial intelligence systems. It examines the copyright implications of AI creation."
+    "summary": "This report assesses the intersection of copyright and artificial intelligence, examining how copyrighted works are used in AI development. It evaluates the impact of this relationship on copyright law and rights holders."
   },
   {
     "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
@@ -37,7 +37,7 @@
     "date": "2021-02-22T17:35:00Z",
     "url": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The UK government has responded to a House of Lords Select Committee report on Artificial Intelligence, with the intention to address concerns and challenges raised in the report. The government's response outlines its plans and policies to ensure the beneficial development and use of AI in the UK."
+    "summary": "The UK government has responded to a report from the House of Lords Select Committee on Artificial Intelligence, addressing concerns and recommendations. The response aims to ensure the UK's position as a leading tech nation while mitigating potential risks associated with AI."
   },
   {
     "title": "AI and Public Standards \u2013 Terms of Reference",
@@ -45,7 +45,7 @@
     "date": "2019-03-25T09:00:01Z",
     "url": "https://www.gov.uk/government/publications/ai-and-public-standards-terms-of-reference",
     "source": "Gov.UK",
-    "summary": "This document outlines the terms of reference and frequently asked questions for a committee reviewing the relationship between artificial intelligence and public standards. The review aims to examine how AI interacts with public standards in society."
+    "summary": "The document outlines the scope of work for a committee reviewing the relationship between artificial intelligence and public standards. The review aims to provide guidance on how artificial intelligence can be integrated into public standards and services."
   },
   {
     "title": "CSPL submission to Science and Technology Committee inquiry on Governance of AI",
@@ -53,7 +53,7 @@
     "date": "2023-04-12T09:24:47Z",
     "url": "https://www.gov.uk/government/publications/cspl-submission-to-science-and-technology-committee-inquiry-on-governance-of-ai",
     "source": "Gov.UK",
-    "summary": "The UK's Committee on Standards in Public Life (CSPL) has provided evidence to a parliamentary inquiry into how artificial intelligence should be governed. The submission likely offers recommendations for overseeing the development and use of AI in the UK."
+    "summary": "The government has submitted evidence to a parliamentary committee examining how to regulate the development and use of artificial intelligence. The document is a contribution to the inquiry on AI governance."
   },
   {
     "title": "Impact of AI on the regulation of medical products",
@@ -61,7 +61,7 @@
     "date": "2024-04-30T08:01:56Z",
     "url": "https://www.gov.uk/government/publications/impact-of-ai-on-the-regulation-of-medical-products",
     "source": "Gov.UK",
-    "summary": "This policy document explores how artificial intelligence affects the regulation and approval of medical products. \n\nIt aims to implement principles outlined in the Artificial Intelligence White Paper to address these changes."
+    "summary": "The document discusses the potential impact of artificial intelligence on the regulation of medical products, aiming to understand its effects and implications. It involves implementing the principles outlined in the AI White Paper to guide this understanding and regulation."
   },
   {
     "title": "Defence Artificial Intelligence Strategy",
@@ -69,7 +69,7 @@
     "date": "2022-06-15T10:08:18Z",
     "url": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy",
     "source": "Gov.UK",
-    "summary": "The Defence department aims to become the world's leading Defence organisation in the use of Artificial Intelligence. This is based on the goals of efficiency, effectiveness, trustworthiness, and global influence."
+    "summary": "The Defence Artificial Intelligence Strategy aims to make the Defence organisation the most effective, efficient, and trusted in the world for its size. This vision involves achieving influential use of AI in Defence capabilities."
   },
   {
     "title": "Transport artificial intelligence action plan",
@@ -77,6 +77,6 @@
     "date": "2025-06-09T23:00:00Z",
     "url": "https://www.gov.uk/government/publications/transport-artificial-intelligence-action-plan",
     "source": "Gov.UK",
-    "summary": "The Transport artificial intelligence action plan outlines how the Department for Transport will work with the transport sector to develop and use AI technology. This aims to maximize the benefits of AI while minimizing potential risks in the transport system."
+    "summary": "The Department for Transport (DfT) has created an action plan to leverage the benefits of artificial intelligence in the transport sector while mitigating potential risks. The plan outlines how the DfT will work with the transport industry to harness the opportunities presented by AI."
   }
 ]
