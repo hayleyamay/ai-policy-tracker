@@ -1,75 +1,12 @@
 [
   {
-    "title": "Expanding AI Voices Act",
+    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
     "date": "2026-07-21",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5050",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
     "source": "US Congress",
-    "summary": "The Expanding AI Voices Act aims to introduce new policies and measures surrounding the use of artificial intelligence, although the specific details are not provided. The title suggests that the act may focus on broadening or improving the capabilities of AI voices."
-  },
-  {
-    "title": "Homestake AI Act of 2026",
-    "date": "2026-07-15",
-    "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4991",
-    "source": "US Congress",
-    "summary": "The Homestake AI Act of 2026 is a policy document that likely outlines regulations or guidelines governing the use of artificial intelligence technology, possibly addressing concerns around its impact on society."
-  },
-  {
-    "title": "A bill to require a strategy to align immigration-related policies with the national interest in ensuring United States leadership and dominance in artificial intelligence and in strengthening the broader ecosystem of scientific, technological, and entrepreneurial innovation, while protecting national security.",
-    "date": "2026-08-06",
-    "action": "Read twice and referred to the Committee on the Judiciary.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
-    "source": "US Congress",
-    "summary": "This bill aims to create a strategy to align US immigration policies with national interests in AI and innovation, while also protecting national security. Its goal is to position the US as a leader in AI and promote its scientific, technological, and entrepreneurial advancement."
-  },
-  {
-    "title": "A bill to amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.",
-    "date": "2026-08-06",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
-    "source": "US Congress",
-    "summary": "This is a proposed law that aims to modify an existing financial stability law to include duties related to artificial intelligence in the financial sector. The law would be designed to help the Financial Stability Oversight Council manage potential risks associated with AI in the financial system."
-  },
-  {
-    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
-    "date": "2026-08-04",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
-    "source": "US Congress",
-    "summary": "The K-12 AI Literacy and Readiness Act of 2026 is a policy aimed at improving K-12 students' awareness and understanding of artificial intelligence. It likely seeks to prepare students for a future where AI technology is increasingly present in daily life."
-  },
-  {
-    "title": "LEARN AI Act",
-    "date": "2026-07-23",
-    "action": "Referred to the House Committee on Education and Workforce.",
-    "chamber": "House",
-    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9907",
-    "source": "US Congress",
-    "summary": "The LEARN AI Act is a policy document that most likely deals with laws and regulations surrounding Artificial Intelligence. However, without more information, the specific details and purpose of the act remain unclear."
-  },
-  {
-    "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
-    "date": "2026-08-05",
-    "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
-    "source": "US Congress",
-    "summary": "The Children's Artificial Intelligence Toy Safety Act of 2026 is a policy aimed at improving the safety of AI-powered toys for children by establishing regulations and guidelines. The goal of this act is to protect children from potential harm caused by malfunctioning or unsecured AI toys."
-  },
-  {
-    "title": "Youth AI Privacy Act",
-    "date": "2026-08-05",
-    "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
-    "source": "US Congress",
-    "summary": "The Youth AI Privacy Act aims to protect the personal data and online rights of minors. The act would establish rules for businesses handling children's information online."
+    "summary": "This policy aims to prevent the exploitation of fabricated information using artificial intelligence. The Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026 likely aims to regulate AI technology to stop false or misleading information spread through AI systems."
   },
   {
     "title": "A bill to prevent foreign adversaries from threatening the national security of the United States by extracting key technical features of closed-source, United States-owned artificial intelligence models, and for other purposes.",
@@ -78,7 +15,97 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5252",
     "source": "US Congress",
-    "summary": "This bill aims to protect US national security by preventing foreign adversaries from accessing technical features of US-owned closed-source artificial intelligence models. It seeks to prevent the extraction of these features for other purposes that could threaten national security."
+    "summary": "This document proposes a law to protect US national security by preventing foreign adversaries from accessing and understanding certain US-developed artificial intelligence models. The goal is to prevent these countries from using this information to threaten the US."
+  },
+  {
+    "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
+    "date": "2026-08-06",
+    "action": "Read twice and referred to the Committee on Armed Services.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
+    "source": "US Congress",
+    "summary": "This bill aims to establish a process for generating accurate lists of materials required for artificial intelligence systems. The goal is to promote transparency and efficiency in the development and deployment of artificial intelligence."
+  },
+  {
+    "title": "A bill to require a report on the artificial intelligence power of the People's Republic of China.",
+    "date": "2026-08-07",
+    "action": "Read twice and referred to the Committee on Foreign Relations.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
+    "source": "US Congress",
+    "summary": "This bill aims to require a report on the artificial intelligence capabilities of China, potentially shedding light on the country's advancements. The report would likely focus on evaluating China's progress in AI development, its applications, and any potential implications."
+  },
+  {
+    "title": "A bill to require a strategy to align immigration-related policies with the national interest in ensuring United States leadership and dominance in artificial intelligence and in strengthening the broader ecosystem of scientific, technological, and entrepreneurial innovation, while protecting national security.",
+    "date": "2026-08-06",
+    "action": "Read twice and referred to the Committee on the Judiciary.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
+    "source": "US Congress",
+    "summary": "This bill aims to develop a strategy that aligns US immigration policies with the national interest in AI, innovation, and national security. It intends to ensure US leadership in AI while strengthening innovation and protecting national security."
+  },
+  {
+    "title": "A bill to amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.",
+    "date": "2026-08-06",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
+    "source": "US Congress",
+    "summary": "This bill proposes changes to the Financial Stability Act of 2010 by assigning the Financial Stability Oversight Council additional duties related to artificial intelligence in the financial sector. It is intended to address potential risks and issues related to AI in finance for other purposes."
+  },
+  {
+    "title": "Expanding AI Voices Act",
+    "date": "2026-07-21",
+    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5050",
+    "source": "US Congress",
+    "summary": "The Expanding AI Voices Act aims to increase the presence and influence of artificial intelligence systems in various aspects of society. The policy's goals and specific actions are not mentioned in the title, leaving details undisclosed."
+  },
+  {
+    "title": "Homestake AI Act of 2026",
+    "date": "2026-07-15",
+    "action": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4991",
+    "source": "US Congress",
+    "summary": "The Homestake AI Act of 2026 is a policy document that outlines guidelines and regulations for the development and use of artificial intelligence, although specific details are unavailable due to a lack of description."
+  },
+  {
+    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
+    "date": "2026-08-04",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
+    "source": "US Congress",
+    "summary": "This document outlines a policy regarding AI literacy and readiness in US K-12 education, aiming to prepare students for an era with artificial intelligence. The exact details are not specified, but it likely proposes ways to incorporate AI education into the curriculum."
+  },
+  {
+    "title": "LEARN AI Act",
+    "date": "2026-07-23",
+    "action": "Referred to the House Committee on Education and Workforce.",
+    "chamber": "House",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9907",
+    "source": "US Congress",
+    "summary": "The LEARN AI Act appears to be a policy document related to Artificial Intelligence. The title suggests it may focus on regulations or guidelines for the safe and controlled development or use of AI, possibly in a learning or educational context."
+  },
+  {
+    "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
+    "date": "2026-08-05",
+    "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
+    "source": "US Congress",
+    "summary": "The Children's Artificial Intelligence Toy Safety Act of 2026 aims to protect children from potential risks associated with artificial intelligence-powered toys. This act would likely introduce safety regulations and guidelines for the development, sale, and use of AI toys designed for children."
+  },
+  {
+    "title": "Youth AI Privacy Act",
+    "date": "2026-08-05",
+    "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
+    "source": "US Congress",
+    "summary": "The Youth AI Privacy Act is a policy designed to protect the personal data and online information of young people in the context of artificial intelligence. The aim of the act is to establish guidelines and regulations for companies using AI to ensure young people's online privacy is safeguarded."
   },
   {
     "title": "K\u201312 AI Literacy and Readiness Act of 2026",
@@ -87,7 +114,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
     "source": "US Congress",
-    "summary": "The K-12 AI Literacy and Readiness Act of 2026 aims to provide students with a foundation in artificial intelligence and prepare them for a rapidly changing technological landscape. This act seeks to enhance the education system's ability to address the growing importance of AI in modern society."
+    "summary": "This policy, the K\u201312 AI Literacy and Readiness Act of 2026, aims to improve how US schools educate students on artificial intelligence. The goal is to make children more ready for an AI-driven society by the time they reach K-12 age."
   },
   {
     "title": "Understanding AI in the Classroom Act",
@@ -96,7 +123,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
     "source": "US Congress",
-    "summary": "The Understanding AI in the Classroom Act is a policy that aims to inform educators and students about the proper use of artificial intelligence in educational settings to improve learning outcomes. This act likely seeks to provide guidance and regulations for the integration of AI technology in classrooms."
+    "summary": "The Understanding AI in the Classroom Act is a policy intended to promote the integration of artificial intelligence in educational settings. The specific goals and implementation details of the policy are not immediately clear from the title alone."
   },
   {
     "title": "NSF AI Education Act of 2025",
@@ -105,7 +132,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
     "source": "US Congress",
-    "summary": "The NSF AI Education Act of 2025 is a policy aimed at developing education and training programs to advance artificial intelligence. This act likely seeks to prepare the US workforce and students for a future with growing AI technology integration."
+    "summary": "The NSF AI Education Act of 2025 is a policy aimed at promoting education and research in the field of artificial intelligence through funding from the US National Science Foundation. The Act likely focuses on initiatives that enhance AI literacy, prepare educators and students for AI-driven careers, and advance AI-related knowledge in the US."
   },
   {
     "title": "Expressing the sense of the House of Representatives that every American and community impacted by the construction or operation of an artificial intelligence data center should have the right to transparency and local autonomy.",
@@ -114,7 +141,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1471",
     "source": "US Congress",
-    "summary": "This document is about expressing congressional support for transparency and community control over artificial intelligence data centers in the US. It suggests that nearby communities and individuals should be involved in decision-making about AI data centers."
+    "summary": "This document aims to ensure transparency and local control for communities affected by artificial intelligence data centers. It seeks to pass this as a sense of the House of Representatives."
   },
   {
     "title": "Deterring American AI Model Theft Act of 2026",
@@ -123,7 +150,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
     "source": "US Congress",
-    "summary": "The Deterring American AI Model Theft Act of 2026 is a proposed law aimed at preventing the theft of American artificial intelligence models. The Act would likely establish new protections and penalties for individuals or countries that steal or misuse American AI technology."
+    "summary": "The Deterring American AI Model Theft Act of 2026 is a proposed law aimed at preventing the unauthorized theft of American artificial intelligence models. This law is intended to protect the intellectual property and sensitive data of AI technologies developed in the United States."
   },
   {
     "title": "No AI Data Centers on Federal Lands Act",
@@ -132,7 +159,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
     "source": "US Congress",
-    "summary": "The \"No AI Data Centers on Federal Lands Act\" aims to prohibit the construction of artificial intelligence data centers on federal lands in order to protect and preserve these public areas."
+    "summary": "The No AI Data Centers on Federal Lands Act aims to prohibit the construction of artificial intelligence data centers on federal lands in the United States. This law seeks to limit the physical presence of AI data centers to private lands, potentially controlling data center placement nationwide."
   },
   {
     "title": "Protecting Families from AI Data Center Energy Costs Act",
@@ -141,7 +168,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "source": "US Congress",
-    "summary": "This policy aims to protect families by addressing the costs associated with energy used by AI data centers. The act likely seeks to regulate or mitigate the financial burden of AI data center energy consumption on households."
+    "summary": "This bill aims to help families by protecting them from rising energy costs associated with data centers that power artificial intelligence. The exact details and methods of protection are not specified."
   },
   {
     "title": "Conversational AI Services Act",
@@ -150,7 +177,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9757",
     "source": "US Congress",
-    "summary": "The Conversational AI Services Act is a policy that likely outlines regulations and guidelines for the development and use of conversational artificial intelligence. Its specifics are unknown because no description is available."
+    "summary": "The Conversational AI Services Act likely outlines a set of rules and regulations for the development and use of conversational AI services, intended to ensure their responsible and transparent deployment. This policy will likely establish guidelines for data protection, user consent, and fair business practices in the conversational AI industry."
   },
   {
     "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
@@ -159,7 +186,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
     "source": "US Congress",
-    "summary": "This policy document appears to be about a new law concerning coordination between artificial intelligence and physical systems, specifically enacted in the year 2026. The specifics of the law are unknown due to the description being unavailable, but it likely addresses issues related to the development and application of AI in physical environments."
+    "summary": "The Artificial Intelligence Physical Systems Coordination Act of 2026 aims to regulate and coordinate the development and use of artificial intelligence within physical systems. This act likely seeks to ensure safe and controlled integration of AI technology in various physical applications."
   },
   {
     "title": "Stop AI Price Gouging and Wage Fixing Act of 2025",
@@ -168,16 +195,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
     "source": "US Congress",
-    "summary": "This bill, known as the Stop AI Price Gouging and Wage Fixing Act of 2025, aims to prevent exploitative practices in the field of artificial intelligence by addressing price gouging and wage fixing. It likely seeks to establish regulations to promote fairness, transparency, and accountability in the development and deployment of AI systems."
-  },
-  {
-    "title": "Future of Artificial Intelligence Innovation Act of 2026",
-    "date": "2026-03-19",
-    "action": "Star Print ordered on the bill.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3952",
-    "source": "US Congress",
-    "summary": "The Future of Artificial Intelligence Innovation Act of 2026 is a proposed law aimed at guiding the development and regulation of artificial intelligence in the United States. It likely seeks to balance innovation with safeguards to ensure AI benefits society while minimizing potential risks."
+    "summary": "The Stop AI Price Gouging and Wage Fixing Act of 2025 aims to protect consumers and workers from unfair practices related to artificial intelligence. This act likely addresses concerns about AI-driven price inflation and unfair wage practices."
   },
   {
     "title": "Artificial Intelligence Civil Rights Act of 2025",
@@ -186,7 +204,16 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Civil Rights Act of 2025 appears to be a law designed to protect individual rights and prevent bias in the development and use of artificial intelligence technologies. Its purpose is likely to ensure that AI systems promote fairness, accountability, and equality for all people."
+    "summary": "The Artificial Intelligence Civil Rights Act of 2025 is a proposed law that aims to protect individuals from potential harm caused by artificial intelligence. It presumably establishes guidelines and regulations to ensure AI systems are developed and used in a way that respects human rights and dignity."
+  },
+  {
+    "title": "Future of Artificial Intelligence Innovation Act of 2026",
+    "date": "2026-03-19",
+    "action": "Star Print ordered on the bill.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3952",
+    "source": "US Congress",
+    "summary": "The Future of Artificial Intelligence Innovation Act of 2026 is a proposed policy aimed at guiding the development and use of artificial intelligence. The act likely establishes guidelines and regulations to balance the benefits and risks of AI innovation."
   },
   {
     "title": "Responsible Artificial Intelligence for Veterans Act of 2026",
@@ -195,7 +222,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
     "source": "US Congress",
-    "summary": "The Responsible Artificial Intelligence for Veterans Act of 2026 aims to create a responsible and accountable use of AI for the benefit of US veterans. The policy focuses on developing AI solutions that support and serve the veteran community."
+    "summary": "This document outlines a policy for using artificial intelligence in a way that is responsible and beneficial to veterans. It likely aims to ensure that AI is used for the betterment of veterans' lives and addresses any concerns that may arise from its use."
   },
   {
     "title": "Aging with Artificial Intelligence Act of 2026",
@@ -204,16 +231,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
     "source": "US Congress",
-    "summary": "The Aging with Artificial Intelligence Act of 2026 is a proposed legislation that aims to ensure older individuals are effectively integrated into society using AI technologies. Its specifics are unknown, but it may address issues such as age-related disparities in AI access and use."
-  },
-  {
-    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
-    "date": "2026-07-21",
-    "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
-    "source": "US Congress",
-    "summary": "The Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026 aims to protect against potential misuse of artificial intelligence by individuals or organizations. This act seeks to establish guidelines and regulations to ensure responsible AI development and usage."
+    "summary": "This is an unknown policy document, but based on the title, it seems the Aging with Artificial Intelligence Act of 2026 aims to address how society can support and adapt to aging populations alongside advancements in artificial intelligence technology. The specifics of this policy are currently unclear without further information."
   },
   {
     "title": "FARM AI Act of 2026",
@@ -222,7 +240,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9686",
     "source": "US Congress",
-    "summary": "The FARM AI Act of 2026 is a policy that likely regulates or oversees the use of Artificial Intelligence in farming or rural areas. Its specifics cannot be determined without more information, but it may aim to improve agricultural efficiency, safety, or sustainability through AI technologies."
+    "summary": "The FARM AI Act of 2026 is a proposed policy that targets the agriculture section's use and development of artificial intelligence. However, without further information, its specific details and goals remain unknown."
   },
   {
     "title": "FARM AI Act of 2026",
@@ -231,7 +249,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4627",
     "source": "US Congress",
-    "summary": "The FARM AI Act of 2026 is a policy document that likely addresses the regulation and development of Artificial Intelligence (AI) technology within the agricultural sector. The specifics of the policy are unknown without further information, but it may aim to promote innovation and efficiency in farming through AI adoption."
+    "summary": "The FARM AI Act of 2026 is a proposed policy document that aims to regulate and oversee the use of Artificial Intelligence in agricultural settings. However, without additional information, the specific goals and measures of this policy are currently unknown."
   },
   {
     "title": "CREATE AI Act",
@@ -240,7 +258,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4441",
     "source": "US Congress",
-    "summary": "The CREATE AI Act is likely a proposed policy aimed at creating regulations or guidelines for the development and use of Artificial Intelligence systems. The actual details of the policy are not available as no description is provided."
+    "summary": "The CREATE AI Act is a US policy document that likely aims to regulate the development of artificial intelligence. However, without a description, it's unclear what specific provisions or goals the Act contains."
   },
   {
     "title": "Unleashing AI Innovation in Financial Services Act",
@@ -249,7 +267,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
     "source": "US Congress",
-    "summary": "The Unleashing AI Innovation in Financial Services Act aims to create an environment that encourages and supports the development of artificial intelligence in the financial services industry. The policy seeks to promote innovation while ensuring the integrity and security of financial systems."
+    "summary": "The Unleashing AI Innovation in Financial Services Act aims to promote the development and use of artificial intelligence in the financial sector, likely increasing innovation and technological advancements. It may provide a regulatory framework to ensure the safe and responsible integration of AI in financial services."
   },
   {
     "title": "Protecting Consumers from Deceptive AI Act",
@@ -258,7 +276,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
     "source": "US Congress",
-    "summary": "The Protecting Consumers from Deceptive AI Act is a proposed law aimed at safeguarding consumers from misleading or deceptive Artificial Intelligence (AI) practices. This act likely seeks to establish regulations and guidelines for the development, use, and advertisement of AI technologies to ensure transparency and fairness."
+    "summary": "The Protecting Consumers from Deceptive AI Act is a policy aimed at safeguarding consumers from misleading or false AI-generated information. The law likely seeks to regulate and punish practices that use AI to deceive or mislead the public for personal or financial gain."
   },
   {
     "title": "SBA Artificial Intelligence Utilization Act of 2026",
@@ -267,6 +285,6 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
     "source": "US Congress",
-    "summary": "The SBA Artificial Intelligence Utilization Act of 2026 is a policy document that aims to establish guidelines for the use of artificial intelligence within the Small Business Administration. The specifics of the policy are unknown without further information, but it likely focuses on harnessing AI for the benefit of small businesses."
+    "summary": "This policy, \"SBA Artificial Intelligence Utilization Act of 2026,\" likely relates to the Small Business Administration's (SBA) use of AI in business. The specifics of the policy are unclear without further information."
   }
 ]
