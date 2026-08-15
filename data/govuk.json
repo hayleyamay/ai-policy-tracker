@@ -5,7 +5,7 @@
     "date": "2021-05-20T13:57:16Z",
     "url": "https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-government-response-to-report",
     "source": "Gov.UK",
-    "summary": "The government is responding to a 2020 report on artificial intelligence and public standards with a new policy. This policy aims to regulate and promote responsible use of AI in public services."
+    "summary": "The government response to a 2020 report on artificial intelligence and public standards outlines its plans to regulate AI in various sectors, such as healthcare and finance, to ensure public safety and trust. The government aims to develop and implement standards for AI used in public services, while also promoting innovation and economic growth."
   },
   {
     "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
@@ -13,7 +13,7 @@
     "date": "2026-07-16T08:30:05Z",
     "url": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
     "source": "Gov.UK",
-    "summary": "Ofqual's policy document outlines its approach to regulating artificial intelligence in qualifications. It was published in response to a request from the UK government to address AI's use in the qualifications sector."
+    "summary": "Ofqual has created a policy to regulate the use of artificial intelligence in qualifications. The policy aims to ensure AI use in the qualifications sector is safe and fair."
   },
   {
     "title": "Report and impact assessment on Copyright and Artificial Intelligence",
@@ -21,7 +21,7 @@
     "date": "2026-03-18T11:03:00Z",
     "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "This report examines how copyright law affects the use of original works in developing artificial intelligence systems. It assesses the potential impact of copyright on the creation and utilization of AI technology."
+    "summary": "This document assesses the use of copyrighted materials in the creation of artificial intelligence systems and examines potential copyright implications. It aims to provide guidance on the copyright impact of AI system development."
   },
   {
     "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
@@ -29,7 +29,7 @@
     "date": "2021-02-22T17:35:00Z",
     "url": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The UK government has responded to a report highlighting concerns about the impact of artificial intelligence in the country. The response aims to address these concerns and take steps to ensure the responsible development and deployment of AI."
+    "summary": "The UK government has issued a response to the House of Lords Select Committee's report on the need for improved safety and regulation of artificial intelligence in the country. The response outlines steps the government will take to address the concerns raised by the committee."
   },
   {
     "title": "AI and Public Standards \u2013 Terms of Reference",
@@ -37,7 +37,7 @@
     "date": "2019-03-25T09:00:01Z",
     "url": "https://www.gov.uk/government/publications/ai-and-public-standards-terms-of-reference",
     "source": "Gov.UK",
-    "summary": "The 'AI and Public Standards \u2013 Terms of Reference' outlines the terms and FAQs for a committee reviewing how artificial intelligence fits into public standards. The review's goal is likely to establish guidelines and frameworks for AI technology in the public sector."
+    "summary": "This document outlines the terms and reference for a review into how artificial intelligence affects public standards. It also includes a section of frequently asked questions (FAQs) to guide the committee's assessment."
   },
   {
     "title": "CSPL submission to Science and Technology Committee inquiry on Governance of AI",
@@ -45,7 +45,7 @@
     "date": "2023-04-12T09:24:47Z",
     "url": "https://www.gov.uk/government/publications/cspl-submission-to-science-and-technology-committee-inquiry-on-governance-of-ai",
     "source": "Gov.UK",
-    "summary": "The CSPL has submitted written evidence to an inquiry on AI governance, likely outlining their views on how AI should be controlled and regulated. The submission aims to inform the Science and Technology Committee's understanding of AI governance."
+    "summary": "The Communication Services and Public Fundraising Regulation Policy (CSPL) has submitted evidence to an inquiry about the governance of Artificial Intelligence."
   },
   {
     "title": "Impact of AI on the regulation of medical products",
@@ -53,7 +53,7 @@
     "date": "2024-04-30T08:01:56Z",
     "url": "https://www.gov.uk/government/publications/impact-of-ai-on-the-regulation-of-medical-products",
     "source": "Gov.UK",
-    "summary": "This document aims to understand how artificial intelligence affects the regulation of medical products. It plans to implement principles outlined in the AI White Paper to ensure effective regulation."
+    "summary": "This policy aims to regulate medical products impacted by Artificial Intelligence. It will implement principles from the Artificial Intelligence White Paper to achieve this goal."
   },
   {
     "title": "Defence Artificial Intelligence Strategy",
@@ -61,7 +61,7 @@
     "date": "2022-06-15T10:08:18Z",
     "url": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy",
     "source": "Gov.UK",
-    "summary": "The UK Defence Artificial Intelligence Strategy aims to make the Defence organisation the most effective and influential in the world for its size when it comes to artificial intelligence. It focuses on achieving excellence in AI while being efficient and trusted."
+    "summary": "The Defence Artificial Intelligence Strategy aims to make the defence organisation one of the world's most effective and efficient in using AI, while also being trusted and influential. It sets out to achieve this through a strategic approach to the development and use of AI in defence-related activities."
   },
   {
     "title": "Transport artificial intelligence action plan",
@@ -69,7 +69,7 @@
     "date": "2025-06-09T23:00:00Z",
     "url": "https://www.gov.uk/government/publications/transport-artificial-intelligence-action-plan",
     "source": "Gov.UK",
-    "summary": "This document outlines a plan for the Department for Transport (DfT) to use artificial intelligence (AI) in the transport sector, while also addressing potential risks associated with its use. The goal of the plan is to maximize the benefits of AI in transportation while ensuring its safe and effective implementation."
+    "summary": "The Transport artificial intelligence action plan is a government strategy to utilize AI technology in the transport sector, while addressing potential risks and challenges. This plan aims to work collaboratively with the transport industry to unlock the benefits of AI."
   },
   {
     "title": "Copyright and artificial intelligence: progress report",
@@ -77,6 +77,6 @@
     "date": "2025-12-15T11:38:04Z",
     "url": "https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report",
     "source": "Gov.UK",
-    "summary": "This report discusses how copyrighted materials are used in the development of artificial intelligence systems. It is an assessment of progress made under specific guidelines set by the Data (Use and Access) Act."
+    "summary": "This policy document is a progress report on the use of copyrighted works in artificial intelligence system development, focusing on compliance with the Data (Use and Access) Act. It appears to address copyright concerns related to AI development."
   }
 ]
