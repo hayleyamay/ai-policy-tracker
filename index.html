@@ -29,10 +29,33 @@
             color: #666;
             margin-bottom: 20px;
         }
+        .search-container {
+            margin-bottom: 16px;
+        }
+        .search-container input {
+            width: 100%;
+            padding: 10px 16px;
+            font-size: 1em;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            box-sizing: border-box;
+            background: white;
+        }
+        .search-container input:focus {
+            outline: none;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 2px rgba(37,99,235,0.1);
+        }
+        .search-hint {
+            font-size: 0.8em;
+            color: #999;
+            margin-top: 6px;
+        }
         .filters {
             display: flex;
             gap: 10px;
             margin-bottom: 20px;
+            flex-wrap: wrap;
         }
         button {
             padding: 8px 16px;
@@ -45,6 +68,11 @@
         button.active {
             background: #2563eb;
             color: white;
+        }
+        .results-count {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 12px;
         }
         .card {
             background: white;
@@ -82,74 +110,152 @@
         .GOV\\.UK { background: #e0f2fe; color: #0369a1; }
         .US { background: #fef9c3; color: #854d0e; }
         .EU { background: #f0fdf4; color: #166534; }
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        mark {
+            background: #fef9c3;
+            border-radius: 2px;
+            padding: 0 2px;
+        }
     </style>
 </head>
 <body>
     <h1>🌍 AI Policy Tracker</h1>
     <p class="subtitle">Tracking AI legislation across the UK, US and EU — updated daily</p>
 
-    <div class="filters">
-        <button class="active" onclick="filter('all')">All</button>
-        <button onclick="filter('Gov.UK')">🇬🇧 UK</button>
-        <button onclick="filter('US Congress')">🇺🇸 US</button>
-        <button onclick="filter('EU AI Act Tracker')">🇪🇺 EU</button>
+    <div class="search-container">
+        <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Search by topic or country — e.g. 'schools in italy' or 'military AI'"
+        />
+        <p class="search-hint">Try: education, healthcare, safety, military, environment, privacy</p>
     </div>
 
+    <div class="filters">
+        <button class="active" onclick="setRegionFilter('all', this)">All</button>
+        <button onclick="setRegionFilter('Gov.UK', this)">🇬🇧 UK</button>
+        <button onclick="setRegionFilter('US Congress', this)">🇺🇸 US</button>
+        <button onclick="setRegionFilter('EU AI Act Tracker', this)">🇪🇺 EU</button>
+    </div>
+
+    <div class="results-count" id="resultsCount"></div>
     <div id="results"></div>
 
     <script>
         let allDocuments = [];
-        let activeFilter = 'all';
+        let activeRegion = 'all';
+
+        const stopWords = new Set([
+            "in", "of", "the", "a", "an", "and", "or", "for",
+            "to", "with", "about", "on", "at", "by", "from",
+            "is", "are", "was", "were", "be", "been", "has",
+            "have", "had", "will", "would", "could", "should",
+            "it", "its", "this", "that", "these", "those",
+            "i", "my", "we", "our", "you", "your", "he", "she",
+            "they", "their", "not", "no", "as", "but", "so"
+        ])
 
         async function loadData() {
             const files = [
                 'data/govuk.json',
                 'data/us.json',
                 'data/eu.json'
-            ];
+            ]
 
             for (const file of files) {
-                const response = await fetch(file);
-                const data = await response.json();
-                allDocuments = allDocuments.concat(data);
+                const response = await fetch(file)
+                const data = await response.json()
+                allDocuments = allDocuments.concat(data)
             }
 
-            displayDocuments(allDocuments);
+            applyFilters()
         }
 
-        function filter(source) {
-            activeFilter = source;
-            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+        function setRegionFilter(region, btn) {
+            activeRegion = region
+            document.querySelectorAll('button').forEach(b => b.classList.remove('active'))
+            btn.classList.add('active')
+            applyFilters()
+        }
 
-            if (source === 'all') {
-                displayDocuments(allDocuments);
-            } else {
-                displayDocuments(allDocuments.filter(d => d.source === source));
+        function getSearchKeywords() {
+            const raw = document.getElementById('searchInput').value.trim().toLowerCase()
+            if (!raw) return []
+            return raw.split(/\s+/).filter(word => !stopWords.has(word) && word.length > 1)
+        }
+
+        function applyFilters() {
+            const keywords = getSearchKeywords()
+
+            let filtered = allDocuments
+
+            // Apply region filter
+            if (activeRegion !== 'all') {
+                filtered = filtered.filter(d => d.source === activeRegion)
             }
+
+            // Apply keyword search
+            if (keywords.length > 0) {
+                filtered = filtered.filter(doc => {
+                    const searchText = [
+                        doc.title || '',
+                        doc.summary || '',
+                        doc.description || '',
+                        doc.source || ''
+                    ].join(' ').toLowerCase()
+
+                    return keywords.every(keyword => searchText.includes(keyword))
+                })
+            }
+
+            displayDocuments(filtered, keywords)
         }
 
-        function displayDocuments(documents) {
-            const container = document.getElementById('results');
-            container.innerHTML = '';
+        function highlightText(text, keywords) {
+            if (!keywords.length || !text) return text
+            let result = text
+            keywords.forEach(keyword => {
+                const regex = new RegExp(`(${keyword})`, 'gi')
+                result = result.replace(regex, '<mark>$1</mark>')
+            })
+            return result
+        }
+
+        function displayDocuments(documents, keywords = []) {
+            const container = document.getElementById('results')
+            const countEl = document.getElementById('resultsCount')
+            container.innerHTML = ''
+
+            countEl.textContent = `Showing ${documents.length} document${documents.length !== 1 ? 's' : ''}`
+
+            if (documents.length === 0) {
+                container.innerHTML = '<div class="no-results">No documents found — try different search terms</div>'
+                return
+            }
 
             documents.forEach(doc => {
-                const card = document.createElement('div');
-                card.className = 'card';
+                const card = document.createElement('div')
+                card.className = 'card'
                 card.innerHTML = `
                     <h2>
-                        ${doc.title}
+                        ${highlightText(doc.title, keywords)}
                         <span class="source-tag ${doc.source.replace('.', '\\.')}">${doc.source}</span>
                     </h2>
                     <div class="meta">${doc.date || 'No date'}</div>
-                    <div class="summary">${doc.summary || 'No summary available'}</div>
+                    <div class="summary">${highlightText(doc.summary || 'No summary available', keywords)}</div>
                     <a href="${doc.url}" target="_blank">Read full document →</a>
-                `;
-                container.appendChild(card);
-            });
+                `
+                container.appendChild(card)
+            })
         }
 
-        loadData();
+        document.getElementById('searchInput').addEventListener('input', applyFilters)
+
+        loadData()
     </script>
 </body>
 </html>
