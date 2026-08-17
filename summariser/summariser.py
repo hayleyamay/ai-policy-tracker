@@ -15,7 +15,7 @@ def summarise_documents(filepath):
         prompt = f"Write a 2 sentence plain English summary of this AI policy document. Only write the summary, nothing else. If you have limited information, summarise based on the title alone. Title: {title}. Description: {description}"
         
         response = client.chat.completions.create(
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-20b",
             messages=[{"role": "user", "content": prompt}]
         )
         summary = response.choices[0].message.content
