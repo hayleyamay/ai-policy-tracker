@@ -6,7 +6,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Environmental Impacts Act of 2026 is designed to reduce the environmental footprint of AI systems. It sets standards for energy use, resource consumption, and lifecycle emissions, requiring transparency and accountability from AI developers and operators."
+    "summary": "This act requires companies that develop or deploy artificial intelligence to evaluate and reduce the environmental impacts of their AI systems, such as energy use and carbon emissions. It establishes reporting, certification, and compliance rules to ensure AI technologies meet sustainability standards and protect the environment."
   },
   {
     "title": "Doctors Not AI Act of 2026",
@@ -15,7 +15,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
     "source": "US Congress",
-    "summary": "The Doctors Not AI Act of 2026 is a law that mandates that medical decisions and patient care must be performed or supervised by licensed human doctors rather than by artificial intelligence systems alone. It requires that AI tools can only assist doctors, not replace them, ensuring that patients receive direct human oversight and accountability in their medical treatment."
+    "summary": "The Doctors Not AI Act of 2026 is a proposed law that limits the use of artificial intelligence in medical settings, requiring that diagnoses and treatment plans be made by licensed doctors rather than AI systems. The bill aims to protect patient safety, maintain professional accountability, and ensure that only qualified medical practitioners are responsible for direct patient care."
   },
   {
     "title": "Full AI Stack Export Promotion Act",
@@ -24,7 +24,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6996",
     "source": "US Congress",
-    "summary": "The Full AI Stack Export Promotion Act is a proposed law that seeks to boost the global competitiveness of domestic AI companies by encouraging the export of the complete AI ecosystem\u2014from hardware and software to data and models. It aims to provide incentives, streamline regulatory processes, and support innovation to help U.S. businesses lead in AI technology worldwide."
+    "summary": "The Full AI Stack Export Promotion Act aims to encourage the export of AI technologies and related components. It likely introduces incentives and regulatory measures to help domestic companies ship AI hardware, software, and services abroad, thereby boosting the national AI ecosystem and global competitiveness."
   },
   {
     "title": "Open-Source AI Leadership Act",
@@ -33,7 +33,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
     "source": "US Congress",
-    "summary": "The Open-Source AI Leadership Act is a legislative proposal that aims to promote the development and widespread adoption of open\u2011source artificial intelligence technologies. By encouraging collaboration, transparency, and shared governance, it seeks to foster innovation while ensuring that AI models are built and used responsibly and benefit society at large."
+    "summary": "The Open\u2011Source AI Leadership Act aims to promote transparency and collaboration in AI development by encouraging the use of open\u2011source tools and datasets. It establishes guidelines for sharing code, fostering innovation, and ensuring that AI technologies remain accessible and accountable to the public."
   },
   {
     "title": "Responsible Artificial Intelligence for Veterans Act of 2026",
@@ -42,7 +42,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
     "source": "US Congress",
-    "summary": "This Act sets rules for how AI systems can be used to serve veterans, emphasizing transparency, safety, and fairness. It requires oversight and safeguards to protect veterans from bias or misuse of AI technologies."
+    "summary": "The Responsible Artificial Intelligence for Veterans Act of 2026 is designed to protect veterans by regulating how artificial intelligence is used in services and benefits that affect them. It will establish clear guidelines for transparency, safety, and accountability in AI systems that support or impact veterans\u2019 health, welfare, and rights."
   },
   {
     "title": "Advanced AI Security Readiness Act",
@@ -51,7 +51,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
     "source": "US Congress",
-    "summary": "The Advanced AI Security Readiness Act is a federal law that aims to create national standards and best\u2011practice guidelines for protecting AI systems from cyber attacks and other security threats. It calls for close collaboration among government agencies, industry partners, and academic researchers to develop secure AI technologies, conduct regular risk assessments, and establish rapid response procedures for any AI\u2011related security incidents."
+    "summary": "The Advanced AI Security Readiness Act is a proposed law designed to set clear rules and guidelines that help protect society from potential risks posed by advanced artificial intelligence. It encourages collaboration between government, businesses, and researchers to identify threats, develop safeguards, and ensure AI systems are safe and reliable before they are widely deployed."
   },
   {
     "title": "Eliminating Bias in Algorithmic Systems Act of 2026",
@@ -60,7 +60,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/7110",
     "source": "US Congress",
-    "summary": "This act aims to reduce bias in automated decision\u2011making systems by setting clear standards and oversight for algorithm design and deployment. It requires transparency, testing, and accountability measures to ensure fair and equitable outcomes for all users."
+    "summary": "The Eliminating Bias in Algorithmic Systems Act of 2026 aims to reduce unfair outcomes in AI by requiring companies to audit their models for bias, disclose the data they use, and give people a way to challenge decisions that affect them. It also sets up a regulator to oversee compliance and enforce penalties on firms that don\u2019t meet these new standards."
   },
   {
     "title": "Deterring American AI Model Theft Act of 2026",
@@ -69,7 +69,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
     "source": "US Congress",
-    "summary": "The Deterring American AI Model Theft Act of 2026 is a proposed law that aims to protect AI models from being illegally copied, shared, or sold. It defines the theft of AI models as a crime, sets out penalties for infringers, and creates a framework for reporting and prosecuting such violations."
+    "summary": "The Deterring American AI Model Theft Act of 2026 seeks to protect AI developers by creating stronger legal safeguards against unauthorized copying and distribution of AI models. It establishes penalties and enforcement mechanisms to deter theft and ensures that intellectual property rights for AI technologies are respected across the United States."
   },
   {
     "title": "Algorithmic Accountability Act of 2025",
@@ -78,7 +78,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
     "source": "US Congress",
-    "summary": "The Algorithmic Accountability Act of 2025 requires companies that deploy automated decision\u2011making tools to assess and document the social and economic impact of their algorithms, including bias and fairness risks. It also creates a federal oversight body that will audit these assessments and enforce compliance to protect consumers from unfair or discriminatory algorithmic practices."
+    "summary": "The Algorithmic Accountability Act of 2025 requires companies that deploy AI and algorithmic systems to assess how those systems affect privacy, fairness, and public safety. It mandates regular audits, risk assessments, and transparency reports so that consumers are protected from biased or harmful automated decisions."
   },
   {
     "title": "Defense AI Reliability and Reporting Act",
@@ -87,7 +87,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
     "source": "US Congress",
-    "summary": "The Defense AI Reliability and Reporting Act establishes mandatory standards for the safety, reliability, and performance of AI systems used in defense, requiring rigorous testing and documentation before deployment. It also creates a reporting framework that obligates military organizations to report incidents, errors, and performance data to oversight bodies, ensuring continuous improvement and accountability."
+    "summary": "The Defense AI Reliability and Reporting Act sets requirements to ensure that artificial intelligence systems used in defense are dependable, safe, and meet specified performance standards. It also mandates detailed reporting on AI deployments, incidents, and compliance to promote transparency and accountability within defense AI operations."
   },
   {
     "title": "LIFT AI Act",
@@ -96,7 +96,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4414",
     "source": "US Congress",
-    "summary": "The LIFT AI Act is a proposed law that aims to create a framework for responsible AI development and use. It focuses on ensuring transparency, accountability, and safety while encouraging innovation and protecting consumer rights."
+    "summary": "The LIFT AI Act is a proposed piece of legislation aimed at enhancing oversight and regulation of artificial intelligence. It seeks to promote safety, transparency, and accountability in the development and use of AI technologies."
   },
   {
     "title": "China AI Power Report Act",
@@ -105,7 +105,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
     "source": "US Congress",
-    "summary": "The China AI Power Report Act requires Chinese companies and research labs to submit regular reports on the computing power, energy usage, and performance of their AI systems. This law is meant to increase transparency, help regulators monitor environmental impact, and promote responsible AI development."
+    "summary": "The China AI Power Report Act requires the government to publish an annual report that details how artificial intelligence is being developed, deployed, and regulated across the country. The act also sets guidelines for transparency, data security, and ethical use of AI to monitor its impact on society and the economy."
   },
   {
     "title": "Protect Elections from Deceptive AI Act",
@@ -114,7 +114,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
     "source": "US Congress",
-    "summary": "This act is designed to protect the integrity of elections by limiting the use of deceptive AI that could manipulate voters or spread misinformation. It requires greater transparency, accountability, and restrictions on AI tools that might interfere with democratic processes."
+    "summary": "The Protect Elections from Deceptive AI Act aims to safeguard the integrity of elections by banning the use of AI-generated content that could mislead or manipulate voters. It requires transparency about AI use in political messaging and sets up enforcement mechanisms to hold parties accountable for deceptive practices."
   },
   {
     "title": "Self-Improving AI Monitoring Act",
@@ -123,7 +123,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10180",
     "source": "US Congress",
-    "summary": "The Self\u2011Improving AI Monitoring Act is a proposed law that would require companies developing AI systems capable of self\u2011modification to regularly report their internal changes and performance to a designated oversight agency. It also sets up clear safety and accountability standards, ensuring that such AI can be tested, audited, and monitored before and during deployment to protect against unintended or harmful behavior."
+    "summary": "The Self\u2011Improving AI Monitoring Act requires companies to closely watch and report on AI systems that can improve themselves without external help. It aims to ensure safety, transparency, and accountability by mandating oversight and safeguards for these autonomous improvements."
   },
   {
     "title": "Artificial Intelligence Data Center Moratorium Act",
@@ -132,7 +132,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Data Center Moratorium Act proposes a temporary pause on the construction of new AI data centers to address environmental, energy, and regulatory concerns. It requires a review period to assess impacts and develop guidelines for responsible future data center development."
+    "summary": "The Artificial Intelligence Data Center Moratorium Act proposes a temporary halt to the construction of new data centers used for artificial intelligence. It aims to address concerns about environmental impact and resource use until more sustainable practices are developed."
   },
   {
     "title": "Protecting Families from AI Data Center Energy Costs Act",
@@ -141,7 +141,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "source": "US Congress",
-    "summary": "The Protecting Families from AI Data Center Energy Costs Act is a proposed law that seeks to shield households from the high electricity expenses generated by AI data centers. It aims to do this by regulating energy usage, offering subsidies or tax credits, and encouraging more efficient technology to keep costs affordable for families."
+    "summary": "The act seeks to protect families from the rising energy costs associated with large AI data centers. It proposes measures such as regulating power usage, encouraging renewable energy adoption, and providing financial relief to households affected by high utility bills."
   },
   {
     "title": "Artificial Intelligence Data Center Moratorium Act",
@@ -150,7 +150,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Data Center Moratorium Act proposes a temporary pause on constructing new AI data centers. It aims to address environmental and infrastructure concerns while policymakers assess best practices for future AI infrastructure."
+    "summary": "The Artificial Intelligence Data Center Moratorium Act proposes to pause or restrict the construction and operation of new data centers specifically for AI applications. It aims to address concerns about environmental impact, resource consumption, and data security associated with large AI infrastructure."
   },
   {
     "title": "LIFT AI Act",
@@ -159,7 +159,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
     "source": "US Congress",
-    "summary": "The LIFT AI Act is a proposed legislation that seeks to establish clear rules and safeguards for the development, deployment, and use of artificial intelligence. It focuses on protecting privacy, reducing bias, and ensuring transparency, while fostering responsible innovation and collaboration between industry and regulators."
+    "summary": "The LIFT AI Act is a proposed legislation aimed at regulating artificial intelligence to ensure safety, fairness, and accountability. It seeks to establish standards and oversight mechanisms to mitigate risks and promote responsible AI use."
   },
   {
     "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
@@ -168,7 +168,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
     "source": "US Congress",
-    "summary": "The Children\u2019s Artificial Intelligence Toy Safety Act of 2026 establishes comprehensive safety standards for AI\u2011powered toys that children play with, covering design, data handling, and user interaction. It aims to protect children from risks such as privacy breaches, inappropriate content, and unsafe behavior by mandating strict compliance and oversight for toy manufacturers and developers."
+    "summary": "This act aims to regulate the safety of AI-powered toys for children, setting standards for design, data privacy, and content. It establishes oversight, testing, and enforcement to protect children from harmful or inappropriate AI behavior in toys."
   },
   {
     "title": "Youth AI Privacy Act",
@@ -177,7 +177,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
     "source": "US Congress",
-    "summary": "The Youth AI Privacy Act is designed to safeguard the personal information of children and teenagers from misuse by artificial intelligence systems. It sets strict data handling and consent rules for companies that collect or process AI-related data involving young users."
+    "summary": "The Youth AI Privacy Act is designed to protect children and teens from having their personal information collected or used by artificial intelligence without appropriate safeguards. The law requires that AI developers obtain parental permission, provide clear privacy notices, and limit the amount of data that can be stored or shared about minors."
   },
   {
     "title": "China AI Power Report Act",
@@ -186,7 +186,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
     "source": "US Congress",
-    "summary": "The China AI Power Report Act requires AI developers and operators to submit detailed reports on their AI systems' capabilities, usage, and impact. It aims to increase transparency, monitor AI development, and ensure that AI technologies are used responsibly within China."
+    "summary": "The China AI Power Report Act is a proposed law that would require Chinese companies and research institutions to regularly report on how they develop, use, and oversee AI technologies. The goal is to increase transparency, accountability, and safety by setting reporting standards and creating oversight mechanisms that can impose penalties for non\u2011compliance."
   },
   {
     "title": "READ AI Models Act",
@@ -195,7 +195,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
     "source": "US Congress",
-    "summary": "The READ AI Models Act is a regulatory framework designed to govern the development, deployment, and use of artificial intelligence models, focusing on safety, reliability, and public trust. It mandates transparency requirements, risk assessment protocols, and accountability measures to ensure AI systems are ethical, secure, and aligned with societal values."
+    "summary": "The READ AI Models Act establishes rules to make AI models more understandable and transparent. It requires companies to publish clear documentation and accessible explanations of how their models work so that users and regulators can review and assess their behavior."
   },
   {
     "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
@@ -204,7 +204,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
     "source": "US Congress",
-    "summary": "The bill proposes a system for creating and sharing detailed \u201cfunctional bills of materials\u201d for artificial intelligence products, aiming to improve transparency and traceability of AI components and capabilities. It also includes additional provisions related to regulatory oversight, safety, and other purposes that support responsible AI deployment."
+    "summary": "The bill proposes a framework to deliver \u201cfunctional bills of materials\u201d for artificial intelligence systems, which would detail the components, data, and processes used to build and operate those systems. It also includes other provisions aimed at improving transparency, accountability, and regulatory oversight for AI development and deployment."
   },
   {
     "title": "Workforce for AI Trust Act",
@@ -213,7 +213,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
     "source": "US Congress",
-    "summary": "The Workforce for AI Trust Act proposes establishing a national workforce strategy to ensure that employees across industries have the skills and knowledge to responsibly develop and use AI systems. The act would create training programs, certifications, and research grants to build public confidence and promote ethical AI deployment."
+    "summary": "The Workforce for AI Trust Act aims to build a skilled workforce that can responsibly develop and oversee AI technologies, ensuring that they are safe, ethical, and transparent. It proposes training programs, certification standards, and workforce development initiatives to support experts who can foster public trust in AI systems."
   },
   {
     "title": "Stop AI Price Gouging and Wage Fixing Act of 2025",
@@ -222,7 +222,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
     "source": "US Congress",
-    "summary": "The Stop AI Price Gouging and Wage Fixing Act of 2025 aims to prevent artificial intelligence companies from raising prices unfairly and manipulating wages in the industry. It introduces regulations to ensure fair pricing practices and protect workers from AI-driven wage suppression."
+    "summary": "The Stop AI Price Gouging and Wage Fixing Act of 2025 is a proposed law designed to prevent AI companies from charging excessively high prices for their services and from fixing or manipulating wages for workers in the industry. It seeks to promote fair pricing and protect employees from discriminatory labor practices."
   },
   {
     "title": "FARM AI Act of 2026",
@@ -231,16 +231,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9686",
     "source": "US Congress",
-    "summary": "The FARM AI Act of 2026 establishes rules for the use of artificial intelligence in agriculture, aiming to protect farmers, consumers, and the environment. It sets standards for data privacy, safety, and ethical deployment of AI tools in farming practices."
-  },
-  {
-    "title": "Unleashing AI Innovation in Financial Services Act",
-    "date": "2025-07-29",
-    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2528",
-    "source": "US Congress",
-    "summary": "This act aims to encourage the development and deployment of AI technologies in the financial sector by providing a supportive regulatory framework. It establishes guidelines for responsible use, safeguards, and collaboration between regulators and industry to promote innovation while protecting consumers."
+    "summary": "The FARM AI Act of 2026 establishes guidelines for the development, deployment, and oversight of artificial intelligence systems used in the agricultural sector. It aims to ensure AI technologies enhance farm productivity while safeguarding farmers' privacy, safety, and economic interests."
   },
   {
     "title": "Unleashing AI Innovation in Financial Services Act",
@@ -249,7 +240,16 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
     "source": "US Congress",
-    "summary": "The Unleashing AI Innovation in Financial Services Act seeks to encourage banks, lenders and investment firms to adopt AI tools by easing regulatory constraints and setting clear safety guidelines. It also introduces rules for data sharing, ethical use, and consumer protection to ensure the new technologies benefit customers without compromising security or fairness."
+    "summary": "This act encourages the use of AI in the financial sector by providing regulatory support and incentives, aiming to boost innovation and competitiveness. It establishes guidelines for responsible AI deployment and safeguards for consumer protection while promoting transparency and ethical standards."
+  },
+  {
+    "title": "Unleashing AI Innovation in Financial Services Act",
+    "date": "2025-07-29",
+    "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2528",
+    "source": "US Congress",
+    "summary": "This act aims to accelerate the adoption of AI technologies in financial services by streamlining regulations and encouraging innovation across the industry. It also establishes safeguards to protect consumers, ensure data security, and maintain overall market stability."
   },
   {
     "title": "Artificial Intelligence and Innovation Talent Act",
@@ -258,7 +258,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence and Innovation Talent Act is a U.S. law designed to boost the nation\u2019s AI workforce by supporting education, training, and research programs that develop AI expertise. It also encourages partnerships between industry, academia, and government to create jobs, accelerate innovation, and ensure the U.S. stays competitive in the global AI race."
+    "summary": "The Artificial Intelligence and Innovation Talent Act is a legislative initiative aimed at cultivating a strong workforce in the AI field. It proposes programs and incentives to attract, train, and retain skilled professionals, thereby boosting innovation and ensuring the country stays competitive in artificial intelligence."
   },
   {
     "title": "No AI Data Centers on Federal Lands Act",
@@ -267,16 +267,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
     "source": "US Congress",
-    "summary": "The No AI Data Centers on Federal Lands Act would prohibit the development and operation of AI data centers on any federally owned or managed land. This measure is intended to protect federal property, curb large-scale energy use, and reduce potential security or environmental risks associated with AI infrastructure."
-  },
-  {
-    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
-    "date": "2026-08-04",
-    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
-    "source": "US Congress",
-    "summary": "The K\u201112 AI Literacy and Readiness Act of 2026 is designed to weave artificial\u2011intelligence education into the K\u201112 curriculum by establishing clear standards and providing schools with the resources they need. It will fund teacher training, student learning programs, and equitable access to AI tools so that both educators and students are ready to navigate an AI\u2011driven world."
+    "summary": "The No AI Data Centers on Federal Lands Act prohibits the establishment or operation of AI data centers on land owned or managed by the federal government. This measure aims to restrict the expansion of AI infrastructure on federal properties, protecting national resources and ensuring responsible use of government land."
   },
   {
     "title": "K\u201312 AI Literacy and Readiness Act of 2026",
@@ -285,7 +276,16 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
     "source": "US Congress",
-    "summary": "The K\u201312 AI Literacy and Readiness Act of 2026 seeks to weave AI education into primary and secondary school curricula, giving students the foundational knowledge and skills they need to understand and responsibly use AI technologies. The act also sets standards, provides teacher training, and allocates resources to help schools build AI readiness and ensure students are prepared for a future where AI is ubiquitous."
+    "summary": "The K\u201312 AI Literacy and Readiness Act of 2026 aims to give students and teachers the knowledge and skills needed to use AI safely and responsibly, by setting clear curriculum standards and training requirements. It also allocates resources and guidance so schools can integrate AI tools equitably, promoting digital citizenship and preparing students for an AI\u2011driven future."
+  },
+  {
+    "title": "K\u201312 AI Literacy and Readiness Act of 2026",
+    "date": "2026-08-04",
+    "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "chamber": "Senate",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
+    "source": "US Congress",
+    "summary": "The K\u201312 AI Literacy and Readiness Act of 2026 seeks to embed AI education into elementary and high school curricula so that students can navigate a world increasingly shaped by artificial intelligence. It sets out standards, resources, and training for teachers to teach AI concepts, ensuring learners understand both its benefits and potential risks."
   },
   {
     "title": "CREATE AI Act of 2025",
@@ -294,7 +294,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
     "source": "US Congress",
-    "summary": "The CREATE AI Act of 2025 proposes a comprehensive regulatory framework for artificial intelligence in the United States, aiming to ensure that AI systems are safe, transparent, and trustworthy while fostering innovation and competitiveness. The act outlines risk\u2011based requirements for AI development and deployment, mandates certification and oversight for high\u2011risk applications, and establishes penalties for non\u2011compliance to protect consumers and the public."
+    "summary": "The CREATE AI Act of 2025 is a new law that establishes comprehensive rules for developing, deploying, and using artificial intelligence. It focuses on making AI systems safe, transparent, and accountable while protecting privacy, promoting fairness, and encouraging responsible innovation across the economy."
   },
   {
     "title": "Understanding AI in the Classroom Act",
@@ -303,7 +303,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
     "source": "US Congress",
-    "summary": "The \u201cUnderstanding AI in the Classroom Act\u201d is intended to guide educators on how to responsibly integrate AI tools into teaching and learning, ensuring that students and teachers understand the benefits and risks. It aims to establish clear rules for data privacy, transparency, and ethical use of AI in schools."
+    "summary": "The Understanding AI in the Classroom Act is designed to help schools incorporate artificial intelligence tools responsibly and effectively. It provides guidelines for teachers and students, ensuring safe use, privacy protection, and AI education across the curriculum."
   },
   {
     "title": "Expressing the sense of the House of Representatives that every American and community impacted by the construction or operation of an artificial intelligence data center should have the right to transparency and local autonomy.",
@@ -312,6 +312,6 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1471",
     "source": "US Congress",
-    "summary": "The House of Representatives says that all Americans and local communities affected by the building or running of an artificial\u2011intelligence data center must have a right to know what is happening.  It also stresses that those communities should have the power to influence decisions that impact their environment and daily life."
+    "summary": "The House of Representatives believes that all Americans and communities affected by AI data center projects deserve transparency about those projects. They also want these communities to have local decision\u2011making power over how the data centers are built or run."
   }
 ]
