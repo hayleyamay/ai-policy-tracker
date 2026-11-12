@@ -1,19 +1,19 @@
 [
   {
-    "title": "Artificial Intelligence and Public Standards: government response to report",
-    "description": "The government's response to the Committee's 2020 report Artificial Intelligence and Public Standards",
-    "date": "2021-05-20T13:57:16Z",
-    "url": "https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-government-response-to-report",
-    "source": "Gov.UK",
-    "summary": "The government has responded to the 2020 Committee report on Artificial Intelligence and Public Standards by outlining its commitments to improve AI governance. It plans to develop new standards, regulations, and oversight mechanisms to ensure AI systems are safe, transparent, and fair for the public."
-  },
-  {
     "title": "EM on EU Regulation 2024/1689 on Artificial Intelligence",
     "description": "The government's summary of an EU regulation laying down harmonised rules on artificial intelligence and amending several Regulations and Directives. \r\n",
     "date": "2026-11-04T11:59:00Z",
     "url": "https://www.gov.uk/government/publications/em-on-eu-regulation-20241689-on-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The EU Regulation 2024/1689 establishes consistent rules for artificial intelligence across all member states, aiming to make AI safer, more transparent, and accountable. It also updates several existing regulations and directives, such as those on data protection, cybersecurity, and digital markets, to fit the new AI framework."
+    "summary": "This document explains the EU regulation that sets common rules for AI and updates several existing laws, outlining how businesses must comply and what protections are put in place. It highlights the changes to other regulations and directives to ensure AI technology is safe, trustworthy and respects citizens\u2019 rights across the EU."
+  },
+  {
+    "title": "Artificial Intelligence and Public Standards: government response to report",
+    "description": "The government's response to the Committee's 2020 report Artificial Intelligence and Public Standards",
+    "date": "2021-05-20T13:57:16Z",
+    "url": "https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-government-response-to-report",
+    "source": "Gov.UK",
+    "summary": "The government\u2019s response to the 2020 report on Artificial Intelligence and Public Standards outlines its commitment to establish clear rules, promote transparency, and ensure AI is developed safely and ethically. It emphasizes collaboration with industry, research bodies, and international partners to create shared standards that protect public interests while encouraging innovation."
   },
   {
     "title": "\u200b\u200bOfqual\u2019s approach to regulating the use of artificial intelligence in the qualifications sector\u200b",
@@ -21,7 +21,7 @@
     "date": "2026-07-16T08:30:05Z",
     "url": "https://www.gov.uk/government/publications/ofquals-approach-to-regulating-the-use-of-artificial-intelligence-in-the-qualifications-sector",
     "source": "Gov.UK",
-    "summary": "Ofqual explains how it will oversee the use of artificial intelligence in qualifications, aiming to keep exams fair, secure, and reliable. The policy offers guidance for exam boards and teachers to use AI responsibly while safeguarding the quality and trust of qualifications."
+    "summary": "Ofqual will establish clear rules and oversight to manage how artificial intelligence is used in creating and assessing qualifications, ensuring fairness, reliability, and transparency. The policy aims to protect students and maintain public trust in exam systems while encouraging responsible AI innovation."
   },
   {
     "title": "Report and impact assessment on Copyright and Artificial Intelligence",
@@ -29,7 +29,7 @@
     "date": "2026-03-18T11:03:00Z",
     "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "This report examines how AI systems use copyrighted material and evaluates the legal, economic, and societal impacts of that use. It offers guidance and recommendations for balancing innovation with copyright protection in the development of AI technologies."
+    "summary": "The report examines how AI systems use copyrighted works and assesses the effects of this practice on creators, consumers, and the broader industry. It provides recommendations to balance the benefits of AI innovation with the need to protect intellectual property rights."
   },
   {
     "title": "Government response to the House of Lords Select Committee on Artificial Intelligence",
@@ -37,7 +37,7 @@
     "date": "2021-02-22T17:35:00Z",
     "url": "https://www.gov.uk/government/publications/government-response-to-the-house-of-lords-select-committee-on-artificial-intelligence",
     "source": "Gov.UK",
-    "summary": "The UK government has issued a response to the House of Lords Select Committee\u2019s report \u201cAI in the UK: No Room for Complacency,\u201d recognising the urgent need to tackle AI\u2019s risks and harness its benefits. It outlines a commitment to strengthen regulation, boost investment in research, and promote responsible AI development to protect public trust and maintain national competitiveness."
+    "summary": "The UK government has issued a response to the House of Lords AI Select Committee report \u201cAI in the UK: No Room for Complacency,\u201d outlining its strategy to address the risks and opportunities of artificial intelligence. It calls for stronger regulation, greater investment in AI research, workforce skills development, and international cooperation to keep the UK at the forefront of safe and responsible AI innovation."
   },
   {
     "title": "AI and Public Standards \u2013 Terms of Reference",
@@ -45,7 +45,7 @@
     "date": "2019-03-25T09:00:01Z",
     "url": "https://www.gov.uk/government/publications/ai-and-public-standards-terms-of-reference",
     "source": "Gov.UK",
-    "summary": "The document outlines the purpose, scope, and responsibilities of the committee that will review how artificial intelligence aligns with public standards, and it includes FAQs to clarify common questions about the process. It sets clear terms of reference that guide the committee\u2019s evaluation of AI policies, ensuring they meet public expectations and recommending actions for stakeholders."
+    "summary": "The document sets out the scope, purpose, and responsibilities of a committee tasked with reviewing how artificial intelligence relates to public standards. It also includes a FAQ section to explain key concepts, procedures, and expectations for the committee\u2019s work."
   },
   {
     "title": "CSPL submission to Science and Technology Committee inquiry on Governance of AI",
@@ -53,7 +53,7 @@
     "date": "2023-04-12T09:24:47Z",
     "url": "https://www.gov.uk/government/publications/cspl-submission-to-science-and-technology-committee-inquiry-on-governance-of-ai",
     "source": "Gov.UK",
-    "summary": "CSPL has submitted written evidence to the Science and Technology Committee\u2019s inquiry into the governance of artificial intelligence. The submission likely outlines the organization\u2019s perspective on AI regulation, best practices, and policy recommendations."
+    "summary": "CSPL has submitted written evidence to the UK Science and Technology Committee\u2019s inquiry on the governance of artificial intelligence. Their submission outlines key challenges and offers recommendations for improving AI regulation."
   },
   {
     "title": "Impact of AI on the regulation of medical products",
@@ -61,7 +61,7 @@
     "date": "2024-04-30T08:01:56Z",
     "url": "https://www.gov.uk/government/publications/impact-of-ai-on-the-regulation-of-medical-products",
     "source": "Gov.UK",
-    "summary": "The document explores how artificial intelligence is reshaping rules for medical products, focusing on ensuring safety, effectiveness, and ethical use. It outlines practical steps for regulators and manufacturers to adopt the AI White Paper principles in product development and oversight."
+    "summary": "The policy examines how AI technologies will influence the regulation of medical products, highlighting both opportunities and challenges in ensuring safety and efficacy. It outlines steps for applying the AI White Paper principles to develop clear, consistent regulatory frameworks that protect patients while fostering innovation."
   },
   {
     "title": "Defence Artificial Intelligence Strategy",
@@ -69,7 +69,7 @@
     "date": "2022-06-15T10:08:18Z",
     "url": "https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy",
     "source": "Gov.UK",
-    "summary": "This policy outlines the Defence sector's plan to become the most effective, efficient, trusted, and influential AI organization for its size. It focuses on building advanced AI capabilities that support defence objectives and maintain global leadership."
+    "summary": "The Defence Artificial Intelligence Strategy aims to make the organisation the most effective, efficient, trusted and influential AI\u2011driven defence entity worldwide for its size, prioritising innovation, robust governance and ethical use of AI. It focuses on developing advanced AI capabilities, building strong partnerships, and ensuring secure, responsible deployment to maintain a strategic advantage."
   },
   {
     "title": "Transport artificial intelligence action plan",
@@ -77,6 +77,6 @@
     "date": "2025-06-09T23:00:00Z",
     "url": "https://www.gov.uk/government/publications/transport-artificial-intelligence-action-plan",
     "source": "Gov.UK",
-    "summary": "This policy outlines how the Department for Transport plans to collaborate with the transport industry to harness AI's benefits while addressing potential risks. It details strategies for partnership, governance, and safeguards to ensure safe and effective AI adoption in transport."
+    "summary": "The Transport Artificial Intelligence Action Plan outlines how the Department for Transport will collaborate with the transport industry to harness AI benefits and address risks. It details strategies for safe, responsible AI adoption in transport services."
   }
 ]
