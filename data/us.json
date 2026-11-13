@@ -6,7 +6,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
     "source": "US Congress",
-    "summary": "The Sectoral AI Governance Act of 2026 establishes tailored regulations and oversight for artificial intelligence in key industries such as healthcare, finance, and transportation. It aims to ensure AI systems in these sectors are safe, transparent, and aligned with public interests, while encouraging responsible innovation."
+    "summary": "The Sectoral AI Governance Act of 2026 establishes specific regulatory frameworks for the use of artificial intelligence across key sectors such as healthcare, finance, and national security, requiring compliance with sector\u2011specific standards. The law aims to balance innovation with public safety by mandating transparency, risk assessments, and oversight for AI applications within each industry."
   },
   {
     "title": "Stop AI Price Gouging and Wage Fixing Act of 2025",
@@ -15,7 +15,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
     "source": "US Congress",
-    "summary": "The Stop AI Price Gouging and Wage Fixing Act of 2025 aims to prevent AI companies from charging excessively high prices for their services and from manipulating wages in the AI industry. It proposes regulatory measures to enforce fair pricing and wage practices, protecting both consumers and workers from exploitative AI-driven markets."
+    "summary": "This act aims to prevent companies from exploiting AI services to charge excessively high prices and manipulate wages. It establishes regulations and penalties to ensure fair pricing and fair labor practices in the AI industry."
   },
   {
     "title": "American AI Security Act",
@@ -24,7 +24,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10981",
     "source": "US Congress",
-    "summary": "The American AI Security Act is a U.S. law aimed at protecting national security by setting standards and oversight for artificial intelligence systems. It establishes regulations that require AI developers and users to meet safety, transparency, and accountability requirements to prevent misuse and ensure the technology benefits society."
+    "summary": "The American AI Security Act is a proposed U.S. law that aims to regulate the development, deployment, and use of artificial intelligence systems so they do not pose significant risks to national security or public safety. It establishes oversight requirements, risk assessment protocols, and accountability measures for AI developers and operators while encouraging innovation and responsible AI practices."
   },
   {
     "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
@@ -33,7 +33,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1642",
     "source": "US Congress",
-    "summary": "The House of Representatives says Congress should not give more money or special regulatory help to companies or financial institutions at risk of collapse because of stress in the AI market. Instead, it urges Congress to provide support to all Americans who have been harmed."
+    "summary": "The House says Congress should not give extra money or special regulatory help to companies or banks that are on the brink of collapse because of problems in the artificial\u2011intelligence market. Instead, the House urges Congress to direct assistance toward all Americans who have been harmed."
   },
   {
     "title": "VET Artificial Intelligence Act",
@@ -42,7 +42,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
     "source": "US Congress",
-    "summary": "The VET Artificial Intelligence Act is a regulatory framework that governs the use of AI in vocational education and training. It sets rules to ensure AI tools used in training are safe, transparent, and respect learners\u2019 rights."
+    "summary": "The VET Artificial Intelligence Act provides guidelines for how AI tools can be integrated into vocational education and training settings, ensuring that their use is ethical, transparent, and aligned with industry needs. It aims to protect students, promote fair access to AI resources, and establish accountability for educators and employers who deploy these technologies."
   },
   {
     "title": "Doctors Not AI Act of 2026",
@@ -51,7 +51,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
     "source": "US Congress",
-    "summary": "The Doctors Not AI Act of 2026 bars the use of AI systems for diagnosing or treating patients, requiring that all medical care be performed by licensed doctors. This measure is intended to protect patients by ensuring human oversight and accountability in healthcare."
+    "summary": "The Doctors Not AI Act of 2026 requires that medical diagnosis, treatment, and patient care be performed exclusively by licensed human doctors, not by artificial intelligence systems. It aims to protect patients by ensuring that AI can only serve as a tool to assist doctors, not replace their professional judgment or decision\u2011making."
   },
   {
     "title": "Algorithmic Accountability Act of 2025",
@@ -60,7 +60,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
     "source": "US Congress",
-    "summary": "The Algorithmic Accountability Act of 2025 requires companies that build and use automated decision\u2011making systems to assess their algorithms for bias, safety, and other risks. It also mandates that these companies disclose how their algorithms work and provide a way for regulators and consumers to review and challenge the decisions those systems make."
+    "summary": "The Algorithmic Accountability Act of 2025 requires companies to assess and document the impact of AI and automated decision\u2011making systems, especially those used in hiring, lending, or law enforcement. It sets standards for transparency, auditing, and reporting to ensure algorithms do not produce unfair or discriminatory outcomes."
   },
   {
     "title": "Securing Elections From AI Deception Act",
@@ -69,7 +69,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10841",
     "source": "US Congress",
-    "summary": "The Securing Elections From AI Deception Act seeks to protect the integrity of elections by addressing risks from artificial intelligence systems that could spread misinformation or manipulate voters. It proposes stricter transparency requirements for AI\u2011generated content, safeguards for election communication channels, and enforcement measures to hold developers and users accountable for deceptive AI practices."
+    "summary": "The Securing Elections From AI Deception Act is aimed at protecting the integrity of elections by limiting the use of AI tools that can create misleading or false political content. It sets rules for detecting, labeling, and regulating AI\u2011generated messages so voters can better identify trustworthy information."
   },
   {
     "title": "Reliable Artificial Intelligence Research Act of 2026",
@@ -78,7 +78,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
     "source": "US Congress",
-    "summary": "The Reliable Artificial Intelligence Research Act of 2026 establishes a legal framework to ensure AI research is conducted safely, transparently, and with accountability, setting standards for reliability, testing, and documentation. It also creates oversight mechanisms, funding incentives, and collaboration agreements to promote responsible development and deployment of AI technologies."
+    "summary": "The Reliable Artificial Intelligence Research Act of 2026 establishes federal guidelines and oversight to ensure that AI systems are developed, tested, and deployed with high reliability, safety, and transparency. It provides funding, sets research standards, and requires reporting and risk assessments to protect public trust in AI technologies."
   },
   {
     "title": "VA AI Transparency Act of 2026",
@@ -87,7 +87,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10417",
     "source": "US Congress",
-    "summary": "The VA AI Transparency Act of 2026 requires the Department of Veterans Affairs to disclose how AI systems are used in its operations, ensuring veterans and the public understand the decision\u2011making processes behind AI\u2011driven tools. The Act mandates regular audits, reporting standards, and public access to documentation so that the impact of AI on veterans\u2019 services is clear, accountable, and compliant with privacy and ethical guidelines."
+    "summary": "The VA AI Transparency Act of 2026 aims to establish clear guidelines for the use of artificial intelligence within the U.S. Department of Veterans Affairs. It requires the VA to disclose how AI systems make decisions, ensuring accountability and protecting veterans' privacy."
   },
   {
     "title": "VA Claims AI Accountability Act",
@@ -96,7 +96,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10418",
     "source": "US Congress",
-    "summary": "The VA Claims AI Accountability Act seeks to regulate the use of artificial intelligence in processing veterans' claims, ensuring that AI systems are transparent, fair, and accountable. It aims to protect veterans by establishing clear guidelines and oversight for AI-driven decision-making in benefits determination."
+    "summary": "The VA Claims AI Accountability Act is a proposed law aimed at ensuring that artificial intelligence systems used by the U.S. Department of Veterans Affairs to process disability and benefits claims are fair, transparent, and reliable. It seeks to establish clear guidelines and oversight mechanisms so that veterans can trust the decisions made by automated tools, and to hold the VA accountable if those tools produce errors or bias."
   },
   {
     "title": "Protecting Consumers from Deceptive AI Act",
@@ -105,7 +105,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
     "source": "US Congress",
-    "summary": "The Protecting Consumers from Deceptive AI Act is a policy aimed at safeguarding consumers from misleading or deceptive AI technologies. It establishes guidelines and enforcement mechanisms to ensure transparency, accountability, and consumer protection in AI applications."
+    "summary": "Protecting Consumers from Deceptive AI Act is a proposed law aimed at safeguarding consumers from misleading or deceptive uses of artificial intelligence. The Act seeks to enforce transparency, accurate labeling, and accountability for AI systems that could misinform or manipulate consumers."
   },
   {
     "title": "Advanced AI Security Readiness Act",
@@ -114,7 +114,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
     "source": "US Congress",
-    "summary": "The Advanced AI Security Readiness Act is intended to strengthen the security of advanced artificial intelligence systems by setting national standards and guidelines for development, deployment, and monitoring. It also encourages collaboration between government, academia, and industry to identify and mitigate potential threats, ensuring AI technology is both reliable and resilient."
+    "summary": "The Advanced AI Security Readiness Act aims to establish comprehensive standards for AI systems to ensure they are secure and reliable before deployment. The legislation requires organizations to conduct rigorous security assessments, implement robust safeguards, and adhere to ongoing monitoring to protect against malicious use and unintended harm."
   },
   {
     "title": "CISA Securing AI Task Force Act",
@@ -123,7 +123,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10752",
     "source": "US Congress",
-    "summary": "The CISA Securing AI Task Force Act establishes a federal task force to protect the nation\u2019s AI systems from cyber threats. It aims to coordinate efforts across government agencies, develop security standards, share threat intelligence, and build resilience against AI\u2011related attacks."
+    "summary": "The CISA Securing AI Task Force Act establishes a new task force within the Cybersecurity and Infrastructure Security Agency to coordinate national efforts for protecting artificial intelligence systems from cyber threats. It outlines the task force\u2019s responsibilities, funding, and collaboration with private sector partners to develop best\u2011practice guidelines and rapid response protocols."
   },
   {
     "title": "Artificial Intelligence Risk Management and Security Act of 2026",
@@ -132,7 +132,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5576",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Risk Management and Security Act of 2026 is a proposed law that aims to protect people and society from the potential dangers of advanced AI systems. It sets rules and standards for how companies develop, test, and use AI, ensuring they keep safety, transparency, and accountability in mind."
+    "summary": "The Artificial Intelligence Risk Management and Security Act of 2026 is designed to establish guidelines and regulations for managing and mitigating the risks associated with AI systems. It aims to promote safety, accountability, and transparency in the development, deployment, and use of AI technologies to protect public interests."
   },
   {
     "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
@@ -141,7 +141,7 @@
     "chamber": "Senate",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
     "source": "US Congress",
-    "summary": "This Act establishes guidelines for designing, deploying, and overseeing AI-powered physical systems to ensure they are safe, reliable, and meet national standards. It also promotes coordination among manufacturers, regulators, and users to share best practices and mitigate potential risks."
+    "summary": "The Artificial Intelligence Physical Systems Coordination Act of 2026 establishes a national framework for the safe and responsible deployment of AI-enabled physical systems, such as robots, autonomous vehicles, and drones. It creates coordination mechanisms and oversight requirements to ensure these technologies meet safety standards, protect public interests, and promote transparent collaboration among developers, regulators, and users."
   },
   {
     "title": "Protect Elections from Deceptive AI Act",
@@ -150,7 +150,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
     "source": "US Congress",
-    "summary": "This act seeks to safeguard elections by preventing deceptive AI systems from influencing voters and spreading misinformation. It sets out rules and penalties to promote transparency, accountability, and the integrity of the electoral process."
+    "summary": "The Protect Elections from Deceptive AI Act is a proposed law that aims to safeguard the integrity of elections by regulating the use of artificial intelligence in political campaigns. It seeks to prevent deceptive AI\u2011generated content from influencing voters and to ensure transparency and accountability when AI is employed in election-related communications."
   },
   {
     "title": "Self-Improving AI Monitoring Act",
@@ -159,7 +159,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10180",
     "source": "US Congress",
-    "summary": "The Self\u2011Improving AI Monitoring Act is a policy aimed at ensuring that AI systems that can modify themselves are closely watched for safety and compliance. It establishes requirements for continuous oversight, reporting, and accountability measures so that any unintended or harmful behavior can be detected and addressed promptly."
+    "summary": "The Self\u2011Improving AI Monitoring Act proposes a framework to track and regulate AI systems that can autonomously modify their own code or behavior. It requires developers to report updates, maintain transparency, and establishes oversight to prevent unintended or harmful outcomes."
   },
   {
     "title": "Stop Rogue AI Act",
@@ -168,7 +168,7 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/10362",
     "source": "US Congress",
-    "summary": "The \"Stop Rogue AI Act\" is a proposed law designed to curb the risk of harmful or unauthorized AI behavior by setting strict safety and accountability standards for developers. It requires AI systems to have built\u2011in safeguards, transparent operation logs, and enforceable penalties to prevent autonomous actions that could threaten public safety."
+    "summary": "The Stop Rogue AI Act aims to prevent autonomous AI systems from acting without human oversight, ensuring that they operate safely and responsibly. It proposes new regulations and oversight mechanisms to curb potentially dangerous or unregulated AI behavior."
   },
   {
     "title": "Artificial Intelligence Data Center Moratorium Act",
@@ -177,24 +177,6 @@
     "chamber": "House",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
     "source": "US Congress",
-    "summary": "The Artificial Intelligence Data Center Moratorium Act proposes a pause on the construction and operation of new large-scale data centers that power AI systems. It aims to curb the environmental impact of these facilities while encouraging the development of greener, more sustainable AI infrastructure."
-  },
-  {
-    "title": "Cybersecurity and AI Board of Investigations Act of 2026",
-    "date": "2026-09-24",
-    "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5541",
-    "source": "US Congress",
-    "summary": "The Cybersecurity and AI Board of Investigations Act of 2026 establishes a federal board to oversee and investigate cybersecurity incidents involving artificial intelligence systems, ensuring they meet national security and safety standards. The act requires organizations to report AI\u2011related breaches, imposes compliance requirements, and coordinates responses to protect public safety and national interests."
-  },
-  {
-    "title": "Make AI Work for Americans Act",
-    "date": "2026-09-24",
-    "action": "Read twice and referred to the Committee on Finance.",
-    "chamber": "Senate",
-    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
-    "source": "US Congress",
-    "summary": "The Make AI Work for Americans Act is a proposed law aimed at ensuring that the development and use of artificial\u2011intelligence technologies benefit the U.S. public. It seeks to promote transparency, accountability, and safeguards so that AI tools are created and deployed in ways that advance national interests, protect privacy, and avoid harmful or unfair impacts."
+    "summary": "The Artificial Intelligence Data Center Moratorium Act would pause the construction or operation of new AI data centers for a specified period, aiming to address concerns about environmental impact, energy consumption, and societal effects. By temporarily halting the expansion of these facilities, the act seeks to encourage more sustainable practices and give policymakers time to develop longer\u2011term regulations for the AI industry."
   }
 ]
